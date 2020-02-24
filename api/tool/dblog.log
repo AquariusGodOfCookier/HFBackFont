@@ -1,0 +1,2049 @@
+2020-02-20 10:29:49,245 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 10:29:49,263 - INFO -  * Restarting with stat
+2020-02-20 10:29:49,791 - WARNING -  * Debugger is active!
+2020-02-20 10:29:49,794 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 10:29:49,799 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 10:30:02,200 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 10:30:02,222 - INFO -  * Restarting with stat
+2020-02-20 10:30:02,768 - WARNING -  * Debugger is active!
+2020-02-20 10:30:02,772 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 10:30:02,777 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 10:30:05,523 - INFO - 127.0.0.1 - - [20/Feb/2020 10:30:05] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 10:30:15,169 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 10:30:15,186 - INFO -  * Restarting with stat
+2020-02-20 10:30:15,708 - WARNING -  * Debugger is active!
+2020-02-20 10:30:15,711 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 10:30:15,717 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 10:30:21,292 - INFO - 127.0.0.1 - - [20/Feb/2020 10:30:21] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 10:30:22,970 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 10:30:22,990 - INFO -  * Restarting with stat
+2020-02-20 10:30:23,533 - WARNING -  * Debugger is active!
+2020-02-20 10:30:23,537 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 10:30:23,542 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 10:30:32,868 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 10:30:32,887 - INFO -  * Restarting with stat
+2020-02-20 10:30:33,420 - WARNING -  * Debugger is active!
+2020-02-20 10:30:33,423 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 10:30:33,428 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 10:30:35,118 - INFO - 127.0.0.1 - - [20/Feb/2020 10:30:35] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 10:30:36,540 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 10:30:36,557 - INFO -  * Restarting with stat
+2020-02-20 10:30:37,094 - WARNING -  * Debugger is active!
+2020-02-20 10:30:37,097 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 10:30:37,102 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 10:31:45,130 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 10:31:45,156 - INFO -  * Restarting with stat
+2020-02-20 10:31:45,672 - WARNING -  * Debugger is active!
+2020-02-20 10:31:45,675 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 10:31:45,679 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 10:33:58,687 - INFO - 127.0.0.1 - - [20/Feb/2020 10:33:58] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 10:37:35,513 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 10:37:35,530 - INFO -  * Restarting with stat
+2020-02-20 10:37:36,058 - WARNING -  * Debugger is active!
+2020-02-20 10:37:36,062 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 10:37:36,068 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 10:37:44,422 - INFO - 127.0.0.1 - - [20/Feb/2020 10:37:44] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 10:37:48,474 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 10:37:48,493 - INFO -  * Restarting with stat
+2020-02-20 10:37:49,032 - WARNING -  * Debugger is active!
+2020-02-20 10:37:49,035 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 10:37:49,040 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 10:38:09,155 - INFO - 127.0.0.1 - - [20/Feb/2020 10:38:09] "[37mGET / HTTP/1.1[0m" 200 -
+2020-02-20 10:38:34,540 - INFO - 127.0.0.1 - - [20/Feb/2020 10:38:34] "[33mGET /api/assets/bufferImage/∞Ÿº“’˘√˘.png HTTP/1.1[0m" 404 -
+2020-02-20 10:39:42,650 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\server.py', reloading
+2020-02-20 10:39:42,667 - INFO -  * Restarting with stat
+2020-02-20 10:39:43,186 - WARNING -  * Debugger is active!
+2020-02-20 10:39:43,189 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 10:39:43,194 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 10:40:02,346 - INFO - 127.0.0.1 - - [20/Feb/2020 10:40:02] "[33mGET /api/assets/bufferImage/∞Ÿº“’˘√˘.png HTTP/1.1[0m" 404 -
+2020-02-20 10:40:32,614 - INFO - 127.0.0.1 - - [20/Feb/2020 10:40:32] "[33mGET /statici/assets/bufferImage/∞Ÿº“’˘√˘.png HTTP/1.1[0m" 404 -
+2020-02-20 10:40:48,605 - INFO - 127.0.0.1 - - [20/Feb/2020 10:40:48] "[33mGET /static/assets/bufferImage/∞Ÿº“’˘√˘.png HTTP/1.1[0m" 404 -
+2020-02-20 10:44:23,132 - INFO - 127.0.0.1 - - [20/Feb/2020 10:44:23] "[37mGET / HTTP/1.1[0m" 200 -
+2020-02-20 10:45:36,451 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 10:45:36,467 - INFO -  * Restarting with stat
+2020-02-20 10:45:37,008 - WARNING -  * Debugger is active!
+2020-02-20 10:45:37,011 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 10:45:37,016 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 10:45:50,422 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\server.py', reloading
+2020-02-20 10:45:50,441 - INFO -  * Restarting with stat
+2020-02-20 10:45:50,990 - WARNING -  * Debugger is active!
+2020-02-20 10:45:50,994 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 10:45:50,999 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 10:46:06,691 - INFO - 127.0.0.1 - - [20/Feb/2020 10:46:06] "[33mGET /assets/bufferImage/∞Ÿº“’˘√˘.png HTTP/1.1[0m" 404 -
+2020-02-20 10:47:17,845 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\server.py', reloading
+2020-02-20 10:47:17,864 - INFO -  * Restarting with stat
+2020-02-20 10:47:18,540 - WARNING -  * Debugger is active!
+2020-02-20 10:47:18,544 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 10:47:18,549 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 10:47:18,887 - INFO - 127.0.0.1 - - [20/Feb/2020 10:47:18] "[37mGET / HTTP/1.1[0m" 200 -
+2020-02-20 10:47:27,953 - INFO - 127.0.0.1 - - [20/Feb/2020 10:47:27] "[37mGET / HTTP/1.1[0m" 200 -
+2020-02-20 10:47:45,406 - INFO - 127.0.0.1 - - [20/Feb/2020 10:47:45] "[33mGET /assets/bufferImage/∞Ÿº“’˘√˘.png HTTP/1.1[0m" 404 -
+2020-02-20 10:48:16,373 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\server.py', reloading
+2020-02-20 10:48:16,403 - INFO -  * Restarting with stat
+2020-02-20 10:48:17,072 - WARNING -  * Debugger is active!
+2020-02-20 10:48:17,076 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 10:48:17,080 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 10:48:33,170 - INFO - 127.0.0.1 - - [20/Feb/2020 10:48:33] "[33mGET /static/bufferImage/∞Ÿº“’˘√˘.png HTTP/1.1[0m" 404 -
+2020-02-20 10:49:40,713 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\server.py', reloading
+2020-02-20 10:49:40,733 - INFO -  * Restarting with stat
+2020-02-20 10:49:41,390 - WARNING -  * Debugger is active!
+2020-02-20 10:49:41,393 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 10:49:41,398 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 10:49:41,727 - INFO - 127.0.0.1 - - [20/Feb/2020 10:49:41] "[37mGET / HTTP/1.1[0m" 200 -
+2020-02-20 10:49:45,535 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\server.py', reloading
+2020-02-20 10:49:45,555 - INFO -  * Restarting with stat
+2020-02-20 10:49:46,086 - WARNING -  * Debugger is active!
+2020-02-20 10:49:46,089 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 10:49:46,094 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 10:49:58,235 - INFO - 127.0.0.1 - - [20/Feb/2020 10:49:58] "[37mGET /static/bufferImage/∞Ÿº“’˘√˘.png HTTP/1.1[0m" 200 -
+2020-02-20 10:50:31,729 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 10:50:31,753 - INFO -  * Restarting with stat
+2020-02-20 10:50:32,311 - WARNING -  * Debugger is active!
+2020-02-20 10:50:32,315 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 10:50:32,321 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 10:50:36,867 - INFO - 127.0.0.1 - - [20/Feb/2020 10:50:36] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 10:50:55,114 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 10:50:55,132 - INFO -  * Restarting with stat
+2020-02-20 10:50:55,671 - WARNING -  * Debugger is active!
+2020-02-20 10:50:55,674 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 10:50:55,680 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 10:51:07,041 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 10:51:07,059 - INFO -  * Restarting with stat
+2020-02-20 10:51:07,587 - WARNING -  * Debugger is active!
+2020-02-20 10:51:07,590 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 10:51:07,595 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 10:51:11,107 - INFO - 127.0.0.1 - - [20/Feb/2020 10:51:11] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 10:51:49,837 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 10:51:49,855 - INFO -  * Restarting with stat
+2020-02-20 10:51:50,380 - WARNING -  * Debugger is active!
+2020-02-20 10:51:50,383 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 10:51:50,389 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 10:56:17,693 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 10:56:17,711 - INFO -  * Restarting with stat
+2020-02-20 10:56:18,243 - WARNING -  * Debugger is active!
+2020-02-20 10:56:18,247 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 10:56:18,253 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 10:56:24,563 - INFO - 127.0.0.1 - - [20/Feb/2020 10:56:24] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 10:56:26,569 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 10:56:26,587 - INFO -  * Restarting with stat
+2020-02-20 10:56:27,117 - WARNING -  * Debugger is active!
+2020-02-20 10:56:27,120 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 10:56:27,124 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 10:56:50,900 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 10:56:50,918 - INFO -  * Restarting with stat
+2020-02-20 10:56:51,452 - WARNING -  * Debugger is active!
+2020-02-20 10:56:51,455 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 10:56:51,459 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 10:56:56,906 - INFO - 127.0.0.1 - - [20/Feb/2020 10:56:56] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 10:56:58,730 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 10:56:58,748 - INFO -  * Restarting with stat
+2020-02-20 10:56:59,278 - WARNING -  * Debugger is active!
+2020-02-20 10:56:59,281 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 10:56:59,285 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 10:58:29,394 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 10:58:29,411 - INFO -  * Restarting with stat
+2020-02-20 10:58:29,960 - WARNING -  * Debugger is active!
+2020-02-20 10:58:29,963 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 10:58:29,968 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 10:58:33,817 - INFO - 127.0.0.1 - - [20/Feb/2020 10:58:33] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 10:58:35,157 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 10:58:35,173 - INFO -  * Restarting with stat
+2020-02-20 10:58:35,714 - WARNING -  * Debugger is active!
+2020-02-20 10:58:35,716 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 10:58:35,721 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 10:59:17,008 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 10:59:17,027 - INFO -  * Restarting with stat
+2020-02-20 10:59:17,561 - WARNING -  * Debugger is active!
+2020-02-20 10:59:17,574 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 10:59:17,578 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 10:59:21,914 - INFO - 127.0.0.1 - - [20/Feb/2020 10:59:21] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 10:59:22,778 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 10:59:22,796 - INFO -  * Restarting with stat
+2020-02-20 10:59:23,337 - WARNING -  * Debugger is active!
+2020-02-20 10:59:23,340 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 10:59:23,345 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 10:59:49,202 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 10:59:49,229 - INFO -  * Restarting with stat
+2020-02-20 10:59:49,790 - WARNING -  * Debugger is active!
+2020-02-20 10:59:49,793 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 10:59:49,798 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 10:59:53,175 - INFO - 127.0.0.1 - - [20/Feb/2020 10:59:53] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 10:59:53,954 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 10:59:53,971 - INFO -  * Restarting with stat
+2020-02-20 10:59:54,500 - WARNING -  * Debugger is active!
+2020-02-20 10:59:54,502 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 10:59:54,508 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 11:01:36,723 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 11:01:36,740 - INFO -  * Restarting with stat
+2020-02-20 11:01:37,263 - WARNING -  * Debugger is active!
+2020-02-20 11:01:37,265 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 11:01:37,270 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 11:01:44,395 - INFO - 127.0.0.1 - - [20/Feb/2020 11:01:44] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 11:01:55,342 - INFO - 127.0.0.1 - - [20/Feb/2020 11:01:55] "[37mGET //static/bufferImage/∞Ÿº“’˘√˘.png HTTP/1.1[0m" 200 -
+2020-02-20 11:06:19,555 - INFO - 127.0.0.1 - - [20/Feb/2020 11:06:19] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 11:07:02,682 - INFO - 127.0.0.1 - - [20/Feb/2020 11:07:02] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 11:07:04,122 - INFO - 127.0.0.1 - - [20/Feb/2020 11:07:04] "[37mGET //static/bufferImage/’«Õ£‘Á÷™µ¿∫£±®.png HTTP/1.1[0m" 200 -
+2020-02-20 11:07:43,342 - INFO - 127.0.0.1 - - [20/Feb/2020 11:07:43] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 11:08:29,226 - INFO - 127.0.0.1 - - [20/Feb/2020 11:08:29] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 11:08:31,232 - INFO - 127.0.0.1 - - [20/Feb/2020 11:08:31] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 11:08:50,813 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 11:08:50,830 - INFO -  * Restarting with stat
+2020-02-20 11:08:51,396 - WARNING -  * Debugger is active!
+2020-02-20 11:08:51,398 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 11:08:51,403 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 11:08:56,673 - INFO - 127.0.0.1 - - [20/Feb/2020 11:08:56] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 11:10:04,495 - INFO - 127.0.0.1 - - [20/Feb/2020 11:10:04] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 11:10:29,768 - INFO - 127.0.0.1 - - [20/Feb/2020 11:10:29] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 11:12:13,422 - INFO - 127.0.0.1 - - [20/Feb/2020 11:12:13] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 11:12:18,579 - INFO - 127.0.0.1 - - [20/Feb/2020 11:12:18] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 11:12:45,846 - INFO - 127.0.0.1 - - [20/Feb/2020 11:12:45] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 11:12:59,427 - INFO - 127.0.0.1 - - [20/Feb/2020 11:12:59] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 11:13:26,827 - INFO - 127.0.0.1 - - [20/Feb/2020 11:13:26] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 11:13:48,084 - INFO - 127.0.0.1 - - [20/Feb/2020 11:13:48] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 11:13:49,616 - INFO - 127.0.0.1 - - [20/Feb/2020 11:13:49] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 11:14:40,080 - INFO - 127.0.0.1 - - [20/Feb/2020 11:14:40] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 11:14:41,679 - INFO - 127.0.0.1 - - [20/Feb/2020 11:14:41] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 11:15:11,975 - INFO - 127.0.0.1 - - [20/Feb/2020 11:15:11] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 11:15:13,584 - INFO - 127.0.0.1 - - [20/Feb/2020 11:15:13] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 11:16:14,812 - INFO - 127.0.0.1 - - [20/Feb/2020 11:16:14] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 11:16:16,461 - INFO - 127.0.0.1 - - [20/Feb/2020 11:16:16] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 11:16:32,885 - INFO - 127.0.0.1 - - [20/Feb/2020 11:16:32] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 11:16:34,531 - INFO - 127.0.0.1 - - [20/Feb/2020 11:16:34] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 11:17:08,202 - INFO - 127.0.0.1 - - [20/Feb/2020 11:17:08] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 11:17:09,677 - INFO - 127.0.0.1 - - [20/Feb/2020 11:17:09] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 11:17:17,200 - INFO - 127.0.0.1 - - [20/Feb/2020 11:17:17] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 11:17:18,682 - INFO - 127.0.0.1 - - [20/Feb/2020 11:17:18] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 11:19:14,644 - INFO - 127.0.0.1 - - [20/Feb/2020 11:19:14] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 11:19:16,324 - INFO - 127.0.0.1 - - [20/Feb/2020 11:19:16] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 11:21:19,982 - INFO - 127.0.0.1 - - [20/Feb/2020 11:21:19] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 11:21:21,666 - INFO - 127.0.0.1 - - [20/Feb/2020 11:21:21] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 11:21:33,633 - INFO - 127.0.0.1 - - [20/Feb/2020 11:21:33] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 11:21:35,185 - INFO - 127.0.0.1 - - [20/Feb/2020 11:21:35] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 11:21:37,457 - INFO - 127.0.0.1 - - [20/Feb/2020 11:21:37] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 15:11:16,477 - INFO - 127.0.0.1 - - [20/Feb/2020 15:11:16] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 15:11:18,308 - INFO - 127.0.0.1 - - [20/Feb/2020 15:11:18] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 15:16:51,788 - INFO - 127.0.0.1 - - [20/Feb/2020 15:16:51] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 15:17:42,009 - INFO - 127.0.0.1 - - [20/Feb/2020 15:17:42] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 15:18:20,206 - INFO - 127.0.0.1 - - [20/Feb/2020 15:18:20] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 15:29:13,199 - INFO - 127.0.0.1 - - [20/Feb/2020 15:29:13] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 15:40:49,891 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 15:40:49,941 - INFO -  * Restarting with stat
+2020-02-20 15:40:50,631 - WARNING -  * Debugger is active!
+2020-02-20 15:40:50,634 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 15:40:50,639 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 15:41:02,549 - INFO - 127.0.0.1 - - [20/Feb/2020 15:41:02] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 15:41:04,311 - INFO - 127.0.0.1 - - [20/Feb/2020 15:41:04] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 15:41:06,896 - ERROR - SQUARE----This error from toDynamic function:<class 'Exception'>______name 'get_json' is not defined
+2020-02-20 15:41:06,896 - INFO - 127.0.0.1 - - [20/Feb/2020 15:41:06] "[37mPOST /api/square/toDynamic HTTP/1.1[0m" 200 -
+2020-02-20 15:41:14,266 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 15:41:14,283 - INFO -  * Restarting with stat
+2020-02-20 15:41:14,814 - WARNING -  * Debugger is active!
+2020-02-20 15:41:14,816 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 15:41:14,821 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 15:41:52,837 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 15:41:52,856 - INFO -  * Restarting with stat
+2020-02-20 15:41:53,390 - WARNING -  * Debugger is active!
+2020-02-20 15:41:53,393 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 15:41:53,398 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 15:42:14,637 - INFO - 127.0.0.1 - - [20/Feb/2020 15:42:14] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 15:43:29,787 - INFO - 127.0.0.1 - - [20/Feb/2020 15:43:29] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 15:43:59,720 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 15:43:59,736 - INFO -  * Restarting with stat
+2020-02-20 15:44:00,277 - WARNING -  * Debugger is active!
+2020-02-20 15:44:00,279 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 15:44:00,284 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 15:44:09,558 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 15:44:09,575 - INFO -  * Restarting with stat
+2020-02-20 15:44:10,117 - WARNING -  * Debugger is active!
+2020-02-20 15:44:10,120 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 15:44:10,125 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 15:44:24,507 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 15:44:24,523 - INFO -  * Restarting with stat
+2020-02-20 15:44:25,038 - WARNING -  * Debugger is active!
+2020-02-20 15:44:25,041 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 15:44:25,046 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 15:44:30,768 - INFO - 127.0.0.1 - - [20/Feb/2020 15:44:30] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 15:45:11,466 - INFO - 127.0.0.1 - - [20/Feb/2020 15:45:11] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 15:48:24,206 - INFO - 127.0.0.1 - - [20/Feb/2020 15:48:24] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 15:49:20,602 - INFO - 127.0.0.1 - - [20/Feb/2020 15:49:20] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 15:50:15,625 - INFO - 127.0.0.1 - - [20/Feb/2020 15:50:15] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 15:50:34,906 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 15:50:34,925 - INFO -  * Restarting with stat
+2020-02-20 15:50:35,465 - WARNING -  * Debugger is active!
+2020-02-20 15:50:35,468 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 15:50:35,472 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 15:50:38,837 - INFO - 127.0.0.1 - - [20/Feb/2020 15:50:38] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 15:50:40,620 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 15:50:40,637 - INFO -  * Restarting with stat
+2020-02-20 15:50:41,170 - WARNING -  * Debugger is active!
+2020-02-20 15:50:41,173 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 15:50:41,178 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 15:50:55,599 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 15:50:55,614 - INFO -  * Restarting with stat
+2020-02-20 15:50:56,142 - WARNING -  * Debugger is active!
+2020-02-20 15:50:56,145 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 15:50:56,152 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 15:50:59,728 - INFO - 127.0.0.1 - - [20/Feb/2020 15:50:59] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 15:51:05,416 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 15:51:05,435 - INFO -  * Restarting with stat
+2020-02-20 15:51:05,982 - WARNING -  * Debugger is active!
+2020-02-20 15:51:05,985 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 15:51:05,989 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 15:51:54,464 - INFO - 127.0.0.1 - - [20/Feb/2020 15:51:54] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 15:52:18,207 - INFO - 127.0.0.1 - - [20/Feb/2020 15:52:18] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 15:52:34,462 - INFO - 127.0.0.1 - - [20/Feb/2020 15:52:34] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 15:53:03,377 - INFO - 127.0.0.1 - - [20/Feb/2020 15:53:03] "[37mPOST /api/square/toDynamic HTTP/1.1[0m" 200 -
+2020-02-20 15:53:12,382 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 15:53:12,401 - INFO -  * Restarting with stat
+2020-02-20 15:53:12,943 - WARNING -  * Debugger is active!
+2020-02-20 15:53:12,946 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 15:53:12,951 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 15:54:05,349 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 15:54:05,365 - INFO -  * Restarting with stat
+2020-02-20 15:54:05,895 - WARNING -  * Debugger is active!
+2020-02-20 15:54:05,897 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 15:54:05,902 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 15:54:10,686 - INFO - 127.0.0.1 - - [20/Feb/2020 15:54:10] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 15:54:13,709 - INFO - 127.0.0.1 - - [20/Feb/2020 15:54:13] "[37mPOST /api/square/toDynamic HTTP/1.1[0m" 200 -
+2020-02-20 15:54:45,879 - INFO - 127.0.0.1 - - [20/Feb/2020 15:54:45] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 15:54:46,378 - INFO - 127.0.0.1 - - [20/Feb/2020 15:54:46] "[37mPOST /api/square/toDynamic HTTP/1.1[0m" 200 -
+2020-02-20 15:54:54,640 - INFO - 127.0.0.1 - - [20/Feb/2020 15:54:54] "[37mPOST /api/square/toDynamic HTTP/1.1[0m" 200 -
+2020-02-20 15:55:10,584 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 15:55:10,601 - INFO -  * Restarting with stat
+2020-02-20 15:55:11,134 - WARNING -  * Debugger is active!
+2020-02-20 15:55:11,137 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 15:55:11,141 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 15:56:07,465 - INFO - 127.0.0.1 - - [20/Feb/2020 15:56:07] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 15:56:17,777 - INFO - 127.0.0.1 - - [20/Feb/2020 15:56:17] "[37mPOST /api/square/toDynamic HTTP/1.1[0m" 200 -
+2020-02-20 16:14:30,696 - INFO -  * Restarting with stat
+2020-02-20 16:14:31,222 - WARNING -  * Debugger is active!
+2020-02-20 16:14:31,224 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 16:14:31,230 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 16:14:36,514 - INFO - 127.0.0.1 - - [20/Feb/2020 16:14:36] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 16:14:38,531 - INFO - 127.0.0.1 - - [20/Feb/2020 16:14:38] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 16:14:39,921 - INFO - 127.0.0.1 - - [20/Feb/2020 16:14:39] "[37mPOST /api/square/toDynamic HTTP/1.1[0m" 200 -
+2020-02-20 16:14:41,511 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 16:14:41,527 - INFO -  * Restarting with stat
+2020-02-20 16:14:42,069 - WARNING -  * Debugger is active!
+2020-02-20 16:14:42,072 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 16:14:42,077 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 16:15:04,709 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 16:15:04,727 - INFO -  * Restarting with stat
+2020-02-20 16:15:05,253 - WARNING -  * Debugger is active!
+2020-02-20 16:15:05,256 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 16:15:05,261 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 16:15:09,674 - INFO - 127.0.0.1 - - [20/Feb/2020 16:15:09] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 16:15:11,388 - INFO - 127.0.0.1 - - [20/Feb/2020 16:15:11] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 16:15:12,135 - INFO - 127.0.0.1 - - [20/Feb/2020 16:15:12] "[37mPOST /api/square/toDynamic HTTP/1.1[0m" 200 -
+2020-02-20 16:15:14,515 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 16:15:14,533 - INFO -  * Restarting with stat
+2020-02-20 16:15:15,078 - WARNING -  * Debugger is active!
+2020-02-20 16:15:15,081 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 16:15:15,086 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 16:15:54,127 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 16:15:54,150 - INFO -  * Restarting with stat
+2020-02-20 16:15:54,705 - WARNING -  * Debugger is active!
+2020-02-20 16:15:54,708 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 16:15:54,713 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 16:15:56,492 - INFO - 127.0.0.1 - - [20/Feb/2020 16:15:56] "[37mPOST /api/square/toDynamic HTTP/1.1[0m" 200 -
+2020-02-20 16:15:58,845 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 16:15:58,862 - INFO -  * Restarting with stat
+2020-02-20 16:15:59,392 - WARNING -  * Debugger is active!
+2020-02-20 16:15:59,395 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 16:15:59,400 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 16:16:14,853 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 16:16:14,871 - INFO -  * Restarting with stat
+2020-02-20 16:16:15,410 - WARNING -  * Debugger is active!
+2020-02-20 16:16:15,413 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 16:16:15,419 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 16:16:19,818 - INFO - 127.0.0.1 - - [20/Feb/2020 16:16:19] "[37mPOST /api/square/toDynamic HTTP/1.1[0m" 200 -
+2020-02-20 16:16:21,612 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 16:16:21,629 - INFO -  * Restarting with stat
+2020-02-20 16:16:22,170 - WARNING -  * Debugger is active!
+2020-02-20 16:16:22,172 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 16:16:22,177 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 16:16:35,552 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 16:16:35,568 - INFO -  * Restarting with stat
+2020-02-20 16:16:36,100 - WARNING -  * Debugger is active!
+2020-02-20 16:16:36,103 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 16:16:36,108 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 16:16:38,849 - INFO - 127.0.0.1 - - [20/Feb/2020 16:16:38] "[37mPOST /api/square/toDynamic HTTP/1.1[0m" 200 -
+2020-02-20 16:16:40,233 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 16:16:40,251 - INFO -  * Restarting with stat
+2020-02-20 16:16:40,787 - WARNING -  * Debugger is active!
+2020-02-20 16:16:40,789 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 16:16:40,794 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 16:16:56,241 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 16:16:56,263 - INFO -  * Restarting with stat
+2020-02-20 16:16:56,796 - WARNING -  * Debugger is active!
+2020-02-20 16:16:56,798 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 16:16:56,803 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 16:16:58,978 - INFO - 127.0.0.1 - - [20/Feb/2020 16:16:58] "[37mPOST /api/square/toDynamic HTTP/1.1[0m" 200 -
+2020-02-20 16:16:59,901 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-20 16:16:59,919 - INFO -  * Restarting with stat
+2020-02-20 16:17:00,443 - WARNING -  * Debugger is active!
+2020-02-20 16:17:00,446 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 16:17:00,451 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 16:45:14,659 - INFO -  * Restarting with stat
+2020-02-20 16:45:15,178 - WARNING -  * Debugger is active!
+2020-02-20 16:45:15,181 - INFO -  * Debugger PIN: 225-166-092
+2020-02-20 16:45:15,187 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-20 16:45:25,756 - INFO - 127.0.0.1 - - [20/Feb/2020 16:45:25] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 16:45:30,716 - INFO - 127.0.0.1 - - [20/Feb/2020 16:45:30] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 16:45:36,044 - INFO - 127.0.0.1 - - [20/Feb/2020 16:45:36] "[37mPOST /api/square/toDynamic HTTP/1.1[0m" 200 -
+2020-02-20 16:46:44,800 - INFO - 127.0.0.1 - - [20/Feb/2020 16:46:44] "[37mGET / HTTP/1.1[0m" 200 -
+2020-02-20 16:46:55,813 - INFO - 127.0.0.1 - - [20/Feb/2020 16:46:55] "[31m[1mGET /api/square/toDynamic HTTP/1.1[0m" 405 -
+2020-02-20 16:47:06,968 - INFO - 127.0.0.1 - - [20/Feb/2020 16:47:06] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-20 16:47:48,101 - INFO - 127.0.0.1 - - [20/Feb/2020 16:47:48] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-21 11:05:01,245 - INFO -  * Restarting with stat
+2020-02-21 11:05:01,760 - WARNING -  * Debugger is active!
+2020-02-21 11:05:01,763 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 11:05:01,768 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 11:05:16,230 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\server.py', reloading
+2020-02-21 11:05:16,256 - INFO -  * Restarting with stat
+2020-02-21 11:21:52,511 - INFO -  * Restarting with stat
+2020-02-21 11:21:53,026 - WARNING -  * Debugger is active!
+2020-02-21 11:21:53,029 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 11:21:53,033 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 11:24:45,583 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-21 11:24:45,604 - INFO -  * Restarting with stat
+2020-02-21 11:24:46,135 - WARNING -  * Debugger is active!
+2020-02-21 11:24:46,138 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 11:24:46,142 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 11:25:10,950 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-21 11:25:10,966 - INFO -  * Restarting with stat
+2020-02-21 11:25:11,490 - WARNING -  * Debugger is active!
+2020-02-21 11:25:11,493 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 11:25:11,498 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 11:45:16,954 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-21 11:45:16,971 - INFO -  * Restarting with stat
+2020-02-21 11:45:17,509 - WARNING -  * Debugger is active!
+2020-02-21 11:45:17,512 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 11:45:17,517 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 11:46:56,133 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-21 11:46:56,149 - INFO -  * Restarting with stat
+2020-02-21 11:46:56,676 - WARNING -  * Debugger is active!
+2020-02-21 11:46:56,678 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 11:46:56,684 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 11:47:09,028 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-21 11:47:09,050 - INFO -  * Restarting with stat
+2020-02-21 11:47:09,578 - WARNING -  * Debugger is active!
+2020-02-21 11:47:09,580 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 11:47:09,585 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 11:49:00,320 - INFO - 127.0.0.1 - - [21/Feb/2020 11:49:00] "[37mGET / HTTP/1.1[0m" 200 -
+2020-02-21 11:49:22,014 - INFO - 127.0.0.1 - - [21/Feb/2020 11:49:22] "[37mGET /api/square/getLabel?pageIndex=2 HTTP/1.1[0m" 200 -
+2020-02-21 11:49:22,060 - INFO - 127.0.0.1 - - [21/Feb/2020 11:49:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2020-02-21 11:49:25,174 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-21 11:49:25,191 - INFO -  * Restarting with stat
+2020-02-21 11:49:25,732 - WARNING -  * Debugger is active!
+2020-02-21 11:49:25,734 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 11:49:25,740 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 11:49:34,696 - INFO - 127.0.0.1 - - [21/Feb/2020 11:49:34] "[37mGET /api/square/getLabel?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-21 11:49:37,065 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-21 11:49:37,083 - INFO -  * Restarting with stat
+2020-02-21 11:49:37,628 - WARNING -  * Debugger is active!
+2020-02-21 11:49:37,629 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 11:49:37,634 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 11:53:58,834 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-21 11:53:58,853 - INFO -  * Restarting with stat
+2020-02-21 11:53:59,376 - WARNING -  * Debugger is active!
+2020-02-21 11:53:59,378 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 11:53:59,383 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 11:54:06,395 - INFO - 127.0.0.1 - - [21/Feb/2020 11:54:06] "[37mGET /api/square/getLabel?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-21 12:07:16,353 - INFO - 127.0.0.1 - - [21/Feb/2020 12:07:16] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-21 12:56:09,882 - INFO - 127.0.0.1 - - [21/Feb/2020 12:56:09] "[37mPOST /api/square/createLabel HTTP/1.1[0m" 200 -
+2020-02-21 12:56:51,946 - INFO - 127.0.0.1 - - [21/Feb/2020 12:56:51] "[37mGET /api/square/getLabel?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-21 12:56:58,403 - INFO - 127.0.0.1 - - [21/Feb/2020 12:56:58] "[37mGET /api/square/getLabel?pageIndex=2 HTTP/1.1[0m" 200 -
+2020-02-21 12:58:12,162 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-21 12:58:12,180 - INFO -  * Restarting with stat
+2020-02-21 12:58:12,717 - WARNING -  * Debugger is active!
+2020-02-21 12:58:12,720 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 12:58:12,724 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 12:58:20,951 - INFO - 127.0.0.1 - - [21/Feb/2020 12:58:20] "[37mPOST /api/square/createLabel HTTP/1.1[0m" 200 -
+2020-02-21 12:59:09,284 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-21 12:59:09,305 - INFO -  * Restarting with stat
+2020-02-21 12:59:09,848 - WARNING -  * Debugger is active!
+2020-02-21 12:59:09,850 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 12:59:09,855 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 12:59:23,430 - INFO - 127.0.0.1 - - [21/Feb/2020 12:59:23] "[37mPOST /api/square/createLabel HTTP/1.1[0m" 200 -
+2020-02-21 13:00:07,405 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-21 13:00:07,421 - INFO -  * Restarting with stat
+2020-02-21 13:00:07,958 - WARNING -  * Debugger is active!
+2020-02-21 13:00:07,960 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 13:00:07,965 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 13:00:12,392 - INFO - 127.0.0.1 - - [21/Feb/2020 13:00:12] "[37mPOST /api/square/createLabel HTTP/1.1[0m" 200 -
+2020-02-21 13:04:12,536 - INFO - 127.0.0.1 - - [21/Feb/2020 13:04:12] "[37mPOST /api/square/uploadImage HTTP/1.1[0m" 200 -
+2020-02-21 13:30:54,069 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\square\\index.py', reloading
+2020-02-21 13:30:54,094 - INFO -  * Restarting with stat
+2020-02-21 13:30:54,893 - WARNING -  * Debugger is active!
+2020-02-21 13:30:54,897 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 13:30:55,733 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 16:50:59,421 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-21 16:50:59,478 - INFO -  * Restarting with stat
+2020-02-21 16:59:05,860 - INFO -  * Restarting with stat
+2020-02-21 16:59:06,394 - WARNING -  * Debugger is active!
+2020-02-21 16:59:06,400 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 16:59:07,266 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 17:01:33,474 - DEBUG - Starting new HTTPS connection (1): sms_developer.zhenzikj.com:443
+2020-02-21 17:01:33,890 - DEBUG - https://sms_developer.zhenzikj.com:443 "POST /sms/send.do HTTP/1.1" 200 32
+2020-02-21 17:01:33,895 - INFO - 127.0.0.1 - - [21/Feb/2020 17:01:33] "[37mPOST /api/user/sendMessage HTTP/1.1[0m" 200 -
+2020-02-21 17:02:32,733 - DEBUG - Starting new HTTPS connection (1): sms_developer.zhenzikj.com:443
+2020-02-21 17:02:32,975 - DEBUG - https://sms_developer.zhenzikj.com:443 "POST /sms/send.do HTTP/1.1" 200 32
+2020-02-21 17:02:32,976 - INFO - 127.0.0.1 - - [21/Feb/2020 17:02:32] "[37mPOST /api/user/sendMessage HTTP/1.1[0m" 200 -
+2020-02-21 17:55:28,021 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-21 17:55:28,043 - INFO -  * Restarting with stat
+2020-02-21 17:55:28,584 - WARNING -  * Debugger is active!
+2020-02-21 17:55:28,587 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 17:55:29,422 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 17:55:59,244 - INFO - 127.0.0.1 - - [21/Feb/2020 17:55:59] "[37mPOST /api/user/login HTTP/1.1[0m" 200 -
+2020-02-21 17:57:24,112 - INFO - 127.0.0.1 - - [21/Feb/2020 17:57:24] "[37mPOST /api/user/login HTTP/1.1[0m" 200 -
+2020-02-21 17:57:37,097 - INFO - 127.0.0.1 - - [21/Feb/2020 17:57:37] "[37mPOST /api/user/login HTTP/1.1[0m" 200 -
+2020-02-21 17:58:09,753 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-21 17:58:09,771 - INFO -  * Restarting with stat
+2020-02-21 17:58:10,290 - WARNING -  * Debugger is active!
+2020-02-21 17:58:10,292 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 17:58:11,131 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 17:58:11,594 - INFO - 127.0.0.1 - - [21/Feb/2020 17:58:11] "[37mPOST /api/user/login HTTP/1.1[0m" 200 -
+2020-02-21 17:58:16,624 - INFO - 127.0.0.1 - - [21/Feb/2020 17:58:16] "[37mPOST /api/user/login HTTP/1.1[0m" 200 -
+2020-02-21 17:58:32,877 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-21 17:58:32,895 - INFO -  * Restarting with stat
+2020-02-21 17:58:33,440 - WARNING -  * Debugger is active!
+2020-02-21 17:58:33,442 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 17:58:34,279 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 17:58:35,890 - INFO - 127.0.0.1 - - [21/Feb/2020 17:58:35] "[37mPOST /api/user/login HTTP/1.1[0m" 200 -
+2020-02-21 17:58:36,549 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-21 17:58:36,567 - INFO -  * Restarting with stat
+2020-02-21 17:58:37,100 - WARNING -  * Debugger is active!
+2020-02-21 17:58:37,102 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 17:58:37,939 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 17:58:45,149 - INFO - 127.0.0.1 - - [21/Feb/2020 17:58:45] "[37mPOST /api/user/login HTTP/1.1[0m" 200 -
+2020-02-21 17:58:47,408 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-21 17:58:47,428 - INFO -  * Restarting with stat
+2020-02-21 17:58:47,962 - WARNING -  * Debugger is active!
+2020-02-21 17:58:47,964 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 17:58:48,802 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 17:59:07,514 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-21 17:59:07,531 - INFO -  * Restarting with stat
+2020-02-21 17:59:08,064 - WARNING -  * Debugger is active!
+2020-02-21 17:59:08,067 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 17:59:08,929 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 17:59:09,247 - INFO - 127.0.0.1 - - [21/Feb/2020 17:59:09] "[37mPOST /api/user/login HTTP/1.1[0m" 200 -
+2020-02-21 17:59:16,294 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-21 17:59:16,312 - INFO -  * Restarting with stat
+2020-02-21 17:59:16,860 - WARNING -  * Debugger is active!
+2020-02-21 17:59:16,863 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 17:59:17,699 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 17:59:35,545 - DEBUG - Starting new HTTPS connection (1): sms_developer.zhenzikj.com:443
+2020-02-21 17:59:35,785 - DEBUG - https://sms_developer.zhenzikj.com:443 "POST /sms/send.do HTTP/1.1" 200 32
+2020-02-21 17:59:35,790 - INFO - 127.0.0.1 - - [21/Feb/2020 17:59:35] "[37mPOST /api/user/sendMessage HTTP/1.1[0m" 200 -
+2020-02-21 17:59:50,558 - INFO - 127.0.0.1 - - [21/Feb/2020 17:59:50] "[37mPOST /api/user/login HTTP/1.1[0m" 200 -
+2020-02-21 18:00:19,468 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-21 18:00:19,485 - INFO -  * Restarting with stat
+2020-02-21 18:00:19,995 - WARNING -  * Debugger is active!
+2020-02-21 18:00:19,997 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 18:00:20,835 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 18:00:32,770 - DEBUG - Starting new HTTPS connection (1): sms_developer.zhenzikj.com:443
+2020-02-21 18:00:33,013 - DEBUG - https://sms_developer.zhenzikj.com:443 "POST /sms/send.do HTTP/1.1" 200 32
+2020-02-21 18:00:33,017 - INFO - 127.0.0.1 - - [21/Feb/2020 18:00:33] "[37mPOST /api/user/sendMessage HTTP/1.1[0m" 200 -
+2020-02-21 18:00:47,210 - INFO - 127.0.0.1 - - [21/Feb/2020 18:00:47] "[37mPOST /api/user/login HTTP/1.1[0m" 200 -
+2020-02-21 18:00:49,763 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-21 18:00:49,781 - INFO -  * Restarting with stat
+2020-02-21 18:00:50,312 - WARNING -  * Debugger is active!
+2020-02-21 18:00:50,315 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 18:00:51,177 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 18:03:25,278 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-21 18:03:25,298 - INFO -  * Restarting with stat
+2020-02-21 18:03:25,835 - WARNING -  * Debugger is active!
+2020-02-21 18:03:25,837 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 18:03:26,702 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 18:03:37,218 - DEBUG - Starting new HTTPS connection (1): sms_developer.zhenzikj.com:443
+2020-02-21 18:03:37,860 - DEBUG - https://sms_developer.zhenzikj.com:443 "POST /sms/send.do HTTP/1.1" 200 32
+2020-02-21 18:03:37,861 - INFO - 127.0.0.1 - - [21/Feb/2020 18:03:37] "[37mPOST /api/user/sendMessage HTTP/1.1[0m" 200 -
+2020-02-21 18:03:50,093 - INFO - 127.0.0.1 - - [21/Feb/2020 18:03:50] "[37mPOST /api/user/login HTTP/1.1[0m" 200 -
+2020-02-21 18:04:08,945 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-21 18:04:08,964 - INFO -  * Restarting with stat
+2020-02-21 18:04:09,512 - WARNING -  * Debugger is active!
+2020-02-21 18:04:09,515 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 18:04:10,355 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 18:04:15,022 - DEBUG - Starting new HTTPS connection (1): sms_developer.zhenzikj.com:443
+2020-02-21 18:04:15,239 - DEBUG - https://sms_developer.zhenzikj.com:443 "POST /sms/send.do HTTP/1.1" 200 32
+2020-02-21 18:04:15,240 - INFO - 127.0.0.1 - - [21/Feb/2020 18:04:15] "[37mPOST /api/user/sendMessage HTTP/1.1[0m" 200 -
+2020-02-21 18:04:23,205 - INFO - 127.0.0.1 - - [21/Feb/2020 18:04:23] "[37mPOST /api/user/login HTTP/1.1[0m" 200 -
+2020-02-21 18:04:25,962 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-21 18:04:25,981 - INFO -  * Restarting with stat
+2020-02-21 18:04:26,520 - WARNING -  * Debugger is active!
+2020-02-21 18:04:26,523 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 18:04:27,392 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 18:04:52,239 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-21 18:04:52,255 - INFO -  * Restarting with stat
+2020-02-21 18:13:05,744 - INFO -  * Restarting with stat
+2020-02-21 18:13:06,272 - WARNING -  * Debugger is active!
+2020-02-21 18:13:06,275 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 18:13:07,140 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 18:13:13,748 - DEBUG - Starting new HTTPS connection (1): sms_developer.zhenzikj.com:443
+2020-02-21 18:13:13,945 - DEBUG - https://sms_developer.zhenzikj.com:443 "POST /sms/send.do HTTP/1.1" 200 46
+2020-02-21 18:13:13,946 - INFO - 127.0.0.1 - - [21/Feb/2020 18:13:13] "[37mPOST /api/user/sendMessage HTTP/1.1[0m" 200 -
+2020-02-21 18:13:19,636 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-21 18:13:19,654 - INFO -  * Restarting with stat
+2020-02-21 18:13:20,199 - WARNING -  * Debugger is active!
+2020-02-21 18:13:20,200 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 18:13:21,036 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 18:13:23,302 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-21 18:13:23,320 - INFO -  * Restarting with stat
+2020-02-21 18:13:23,877 - WARNING -  * Debugger is active!
+2020-02-21 18:13:23,880 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 18:13:24,745 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 18:13:28,915 - DEBUG - Starting new HTTPS connection (1): sms_developer.zhenzikj.com:443
+2020-02-21 18:13:29,100 - DEBUG - https://sms_developer.zhenzikj.com:443 "POST /sms/send.do HTTP/1.1" 200 46
+2020-02-21 18:13:29,102 - INFO - 127.0.0.1 - - [21/Feb/2020 18:13:29] "[37mPOST /api/user/sendMessage HTTP/1.1[0m" 200 -
+2020-02-21 18:13:49,136 - INFO - 127.0.0.1 - - [21/Feb/2020 18:13:49] "[37mPOST /api/user/login HTTP/1.1[0m" 200 -
+2020-02-21 18:13:53,663 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-21 18:13:53,681 - INFO -  * Restarting with stat
+2020-02-21 18:13:54,218 - WARNING -  * Debugger is active!
+2020-02-21 18:13:54,220 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 18:13:55,083 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 18:14:00,239 - INFO - 127.0.0.1 - - [21/Feb/2020 18:14:00] "[37mPOST /api/user/login HTTP/1.1[0m" 200 -
+2020-02-21 18:14:04,523 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-21 18:14:04,542 - INFO -  * Restarting with stat
+2020-02-21 18:14:05,085 - WARNING -  * Debugger is active!
+2020-02-21 18:14:05,087 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 18:14:06,003 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 18:14:47,184 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-21 18:14:47,201 - INFO -  * Restarting with stat
+2020-02-21 18:14:47,736 - WARNING -  * Debugger is active!
+2020-02-21 18:14:47,739 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 18:14:48,578 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 18:14:53,806 - DEBUG - Starting new HTTPS connection (1): sms_developer.zhenzikj.com:443
+2020-02-21 18:14:53,983 - DEBUG - https://sms_developer.zhenzikj.com:443 "POST /sms/send.do HTTP/1.1" 200 46
+2020-02-21 18:14:53,984 - INFO - 127.0.0.1 - - [21/Feb/2020 18:14:53] "[37mPOST /api/user/sendMessage HTTP/1.1[0m" 200 -
+2020-02-21 18:15:04,181 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-21 18:15:04,200 - INFO -  * Restarting with stat
+2020-02-21 18:15:04,716 - WARNING -  * Debugger is active!
+2020-02-21 18:15:04,719 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 18:15:05,558 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 18:15:23,209 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-21 18:15:23,231 - INFO -  * Restarting with stat
+2020-02-21 18:15:23,771 - WARNING -  * Debugger is active!
+2020-02-21 18:15:23,774 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 18:15:24,638 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 18:15:29,881 - DEBUG - Starting new HTTPS connection (1): sms_developer.zhenzikj.com:443
+2020-02-21 18:15:30,058 - DEBUG - https://sms_developer.zhenzikj.com:443 "POST /sms/send.do HTTP/1.1" 200 46
+2020-02-21 18:15:30,059 - INFO - 127.0.0.1 - - [21/Feb/2020 18:15:30] "[37mPOST /api/user/sendMessage HTTP/1.1[0m" 200 -
+2020-02-21 18:15:30,990 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-21 18:15:31,008 - INFO -  * Restarting with stat
+2020-02-21 18:15:31,542 - WARNING -  * Debugger is active!
+2020-02-21 18:15:31,544 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 18:15:32,411 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 18:15:38,555 - INFO - 127.0.0.1 - - [21/Feb/2020 18:15:38] "[37mPOST /api/user/login HTTP/1.1[0m" 200 -
+2020-02-21 18:15:43,899 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-21 18:15:43,920 - INFO -  * Restarting with stat
+2020-02-21 18:15:44,454 - WARNING -  * Debugger is active!
+2020-02-21 18:15:44,458 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 18:15:45,323 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 18:16:11,185 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-21 18:16:11,203 - INFO -  * Restarting with stat
+2020-02-21 18:16:11,738 - WARNING -  * Debugger is active!
+2020-02-21 18:16:11,741 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 18:16:12,577 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 18:16:26,130 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-21 18:16:26,150 - INFO -  * Restarting with stat
+2020-02-21 18:16:26,704 - WARNING -  * Debugger is active!
+2020-02-21 18:16:26,706 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 18:16:27,543 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 18:16:31,463 - DEBUG - Starting new HTTPS connection (1): sms_developer.zhenzikj.com:443
+2020-02-21 18:16:31,670 - DEBUG - https://sms_developer.zhenzikj.com:443 "POST /sms/send.do HTTP/1.1" 200 46
+2020-02-21 18:16:31,672 - INFO - 127.0.0.1 - - [21/Feb/2020 18:16:31] "[37mPOST /api/user/sendMessage HTTP/1.1[0m" 200 -
+2020-02-21 18:16:33,921 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-21 18:16:33,941 - INFO -  * Restarting with stat
+2020-02-21 18:16:34,482 - WARNING -  * Debugger is active!
+2020-02-21 18:16:34,484 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 18:16:35,349 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 18:16:41,707 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-21 18:16:41,724 - INFO -  * Restarting with stat
+2020-02-21 18:16:42,248 - WARNING -  * Debugger is active!
+2020-02-21 18:16:42,251 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 18:16:44,457 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 18:16:47,463 - INFO - 127.0.0.1 - - [21/Feb/2020 18:16:47] "[37mPOST /api/user/login HTTP/1.1[0m" 200 -
+2020-02-21 18:16:51,524 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-21 18:16:51,541 - INFO -  * Restarting with stat
+2020-02-21 18:16:52,083 - WARNING -  * Debugger is active!
+2020-02-21 18:16:52,086 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 18:16:52,950 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 18:17:02,377 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-21 18:17:02,395 - INFO -  * Restarting with stat
+2020-02-21 18:17:02,932 - WARNING -  * Debugger is active!
+2020-02-21 18:17:02,934 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 18:17:03,799 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 18:17:10,049 - DEBUG - Starting new HTTPS connection (1): sms_developer.zhenzikj.com:443
+2020-02-21 18:17:10,289 - DEBUG - https://sms_developer.zhenzikj.com:443 "POST /sms/send.do HTTP/1.1" 200 32
+2020-02-21 18:17:10,290 - INFO - 127.0.0.1 - - [21/Feb/2020 18:17:10] "[37mPOST /api/user/sendMessage HTTP/1.1[0m" 200 -
+2020-02-21 18:17:13,255 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-21 18:17:13,273 - INFO -  * Restarting with stat
+2020-02-21 18:17:13,793 - WARNING -  * Debugger is active!
+2020-02-21 18:17:13,796 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 18:17:14,632 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 18:17:21,819 - INFO - 127.0.0.1 - - [21/Feb/2020 18:17:21] "[37mPOST /api/user/login HTTP/1.1[0m" 200 -
+2020-02-21 18:17:25,105 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-21 18:17:25,123 - INFO -  * Restarting with stat
+2020-02-21 18:17:25,660 - WARNING -  * Debugger is active!
+2020-02-21 18:17:25,662 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 18:17:26,499 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 20:09:57,597 - INFO -  * Restarting with stat
+2020-02-21 20:09:58,136 - WARNING -  * Debugger is active!
+2020-02-21 20:09:58,143 - INFO -  * Debugger PIN: 225-166-092
+2020-02-21 20:09:58,148 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-21 20:10:48,031 - ERROR - <class 'Exception'>____(1054, "Unknown column 'U_id' in 'where clause'")
+2020-02-21 20:10:48,031 - ERROR - This error from getRecommend function: <class 'Exception'>______'NoneType' object is not subscriptable
+2020-02-21 20:10:48,032 - INFO - 127.0.0.1 - - [21/Feb/2020 20:10:48] "[37mGET /api/home/getRecommend?page=2 HTTP/1.1[0m" 200 -
+2020-02-21 20:10:48,073 - INFO - 127.0.0.1 - - [21/Feb/2020 20:10:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2020-02-21 20:10:50,608 - ERROR - <class 'Exception'>____(1054, "Unknown column 'U_id' in 'where clause'")
+2020-02-21 20:10:50,609 - ERROR - This error from getRecommend function: <class 'Exception'>______'NoneType' object is not subscriptable
+2020-02-21 20:10:50,609 - INFO - 127.0.0.1 - - [21/Feb/2020 20:10:50] "[37mGET /api/home/getRecommend?page=1 HTTP/1.1[0m" 200 -
+2020-02-21 20:11:07,613 - INFO - 127.0.0.1 - - [21/Feb/2020 20:11:07] "[37mGET /api/square/getLabel?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-21 20:11:17,881 - INFO - 127.0.0.1 - - [21/Feb/2020 20:11:17] "[37mGET /api/square/getLabel?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-21 20:11:29,505 - INFO - 127.0.0.1 - - [21/Feb/2020 20:11:29] "[37mGET /api/square/getLabel?pageIndex=2 HTTP/1.1[0m" 200 -
+2020-02-22 09:57:54,297 - INFO -  * Restarting with stat
+2020-02-22 09:57:54,824 - WARNING -  * Debugger is active!
+2020-02-22 09:57:54,831 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 09:57:54,836 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 09:58:37,511 - INFO - 127.0.0.1 - - [22/Feb/2020 09:58:37] "[31m[1mGET /api/user/sendMessage HTTP/1.1[0m" 405 -
+2020-02-22 09:58:48,471 - DEBUG - Starting new HTTPS connection (1): sms_developer.zhenzikj.com:443
+2020-02-22 09:58:48,884 - DEBUG - https://sms_developer.zhenzikj.com:443 "POST /sms/send.do HTTP/1.1" 200 32
+2020-02-22 09:58:50,890 - ERROR - USER----This error from sendMessage function:<class 'Exception'>______Error 10061 connecting to 127.0.0.1:6379. ”…”⁄ƒø±Íº∆À„ª˙ª˝º´æ‹æ¯£¨Œﬁ∑®¡¨Ω”°£.
+2020-02-22 09:58:50,895 - INFO - 127.0.0.1 - - [22/Feb/2020 09:58:50] "[37mPOST /api/user/sendMessage HTTP/1.1[0m" 200 -
+2020-02-22 10:01:09,393 - DEBUG - Starting new HTTPS connection (1): sms_developer.zhenzikj.com:443
+2020-02-22 10:01:09,583 - DEBUG - https://sms_developer.zhenzikj.com:443 "POST /sms/send.do HTTP/1.1" 200 32
+2020-02-22 10:01:11,589 - ERROR - USER----This error from sendMessage function:<class 'Exception'>______Error 10061 connecting to 127.0.0.1:6379. ”…”⁄ƒø±Íº∆À„ª˙ª˝º´æ‹æ¯£¨Œﬁ∑®¡¨Ω”°£.
+2020-02-22 10:01:11,591 - INFO - 127.0.0.1 - - [22/Feb/2020 10:01:11] "[37mPOST /api/user/sendMessage HTTP/1.1[0m" 200 -
+2020-02-22 10:02:50,497 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-22 10:02:50,516 - INFO -  * Restarting with stat
+2020-02-22 10:02:51,042 - WARNING -  * Debugger is active!
+2020-02-22 10:02:51,044 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 10:02:51,049 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 10:10:11,018 - DEBUG - Starting new HTTPS connection (1): sms_developer.zhenzikj.com:443
+2020-02-22 10:10:11,231 - DEBUG - https://sms_developer.zhenzikj.com:443 "POST /sms/send.do HTTP/1.1" 200 32
+2020-02-22 10:10:11,238 - INFO - 127.0.0.1 - - [22/Feb/2020 10:10:11] "[37mPOST /api/user/sendMessage HTTP/1.1[0m" 200 -
+2020-02-22 10:15:17,809 - DEBUG - Starting new HTTPS connection (1): sms_developer.zhenzikj.com:443
+2020-02-22 10:15:18,007 - DEBUG - https://sms_developer.zhenzikj.com:443 "POST /sms/send.do HTTP/1.1" 200 32
+2020-02-22 10:15:18,008 - INFO - 127.0.0.1 - - [22/Feb/2020 10:15:18] "[37mPOST /api/user/sendMessage HTTP/1.1[0m" 200 -
+2020-02-22 10:22:19,385 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-22 10:22:19,404 - INFO -  * Restarting with stat
+2020-02-22 10:22:19,945 - WARNING -  * Debugger is active!
+2020-02-22 10:22:19,948 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 10:22:19,952 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 10:22:23,077 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-22 10:22:23,093 - INFO -  * Restarting with stat
+2020-02-22 10:22:23,620 - WARNING -  * Debugger is active!
+2020-02-22 10:22:23,623 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 10:22:23,629 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 10:22:46,460 - DEBUG - Starting new HTTPS connection (1): sms_developer.zhenzikj.com:443
+2020-02-22 10:22:46,668 - DEBUG - https://sms_developer.zhenzikj.com:443 "POST /sms/send.do HTTP/1.1" 200 32
+2020-02-22 10:22:46,671 - INFO - 127.0.0.1 - - [22/Feb/2020 10:22:46] "[37mPOST /api/user/sendMessage HTTP/1.1[0m" 200 -
+2020-02-22 10:23:03,809 - INFO - 127.0.0.1 - - [22/Feb/2020 10:23:03] "[37mPOST /api/user/login HTTP/1.1[0m" 200 -
+2020-02-22 10:23:38,875 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-22 10:23:38,893 - INFO -  * Restarting with stat
+2020-02-22 10:23:39,414 - WARNING -  * Debugger is active!
+2020-02-22 10:23:39,416 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 10:23:39,423 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 10:23:44,019 - INFO - 127.0.0.1 - - [22/Feb/2020 10:23:44] "[37mPOST /api/user/login HTTP/1.1[0m" 200 -
+2020-02-22 10:23:45,621 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-22 10:23:45,640 - INFO -  * Restarting with stat
+2020-02-22 10:23:46,170 - WARNING -  * Debugger is active!
+2020-02-22 10:23:46,172 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 10:23:46,177 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 10:23:51,357 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-22 10:23:51,375 - INFO -  * Restarting with stat
+2020-02-22 10:23:51,919 - WARNING -  * Debugger is active!
+2020-02-22 10:23:51,923 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 10:23:51,926 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 10:23:53,062 - INFO - 127.0.0.1 - - [22/Feb/2020 10:23:53] "[37mPOST /api/user/login HTTP/1.1[0m" 200 -
+2020-02-22 10:23:55,056 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-22 10:23:55,075 - INFO -  * Restarting with stat
+2020-02-22 10:23:55,602 - WARNING -  * Debugger is active!
+2020-02-22 10:23:55,604 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 10:23:55,609 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 10:23:59,767 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-22 10:23:59,786 - INFO -  * Restarting with stat
+2020-02-22 10:24:00,324 - WARNING -  * Debugger is active!
+2020-02-22 10:24:00,326 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 10:24:00,331 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 10:24:06,584 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-22 10:24:06,603 - INFO -  * Restarting with stat
+2020-02-22 10:24:07,140 - WARNING -  * Debugger is active!
+2020-02-22 10:24:07,143 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 10:24:07,148 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 10:24:08,281 - INFO - 127.0.0.1 - - [22/Feb/2020 10:24:08] "[37mPOST /api/user/login HTTP/1.1[0m" 200 -
+2020-02-22 10:24:10,251 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-22 10:24:10,269 - INFO -  * Restarting with stat
+2020-02-22 10:24:10,797 - WARNING -  * Debugger is active!
+2020-02-22 10:24:10,799 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 10:24:10,804 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 10:24:26,350 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-22 10:24:26,381 - INFO -  * Restarting with stat
+2020-02-22 10:24:26,930 - WARNING -  * Debugger is active!
+2020-02-22 10:24:26,932 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 10:24:26,937 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 10:24:27,717 - INFO - 127.0.0.1 - - [22/Feb/2020 10:24:27] "[37mPOST /api/user/login HTTP/1.1[0m" 200 -
+2020-02-22 10:24:30,046 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-22 10:24:30,069 - INFO -  * Restarting with stat
+2020-02-22 10:24:30,601 - WARNING -  * Debugger is active!
+2020-02-22 10:24:30,604 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 10:24:30,609 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 10:26:19,231 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-22 10:26:19,248 - INFO -  * Restarting with stat
+2020-02-22 10:26:19,795 - WARNING -  * Debugger is active!
+2020-02-22 10:26:19,797 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 10:26:19,803 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 10:26:21,246 - INFO - 127.0.0.1 - - [22/Feb/2020 10:26:21] "[37mPOST /api/user/login HTTP/1.1[0m" 200 -
+2020-02-22 10:26:25,972 - DEBUG - Starting new HTTPS connection (1): sms_developer.zhenzikj.com:443
+2020-02-22 10:26:26,166 - DEBUG - https://sms_developer.zhenzikj.com:443 "POST /sms/send.do HTTP/1.1" 200 32
+2020-02-22 10:26:26,167 - INFO - 127.0.0.1 - - [22/Feb/2020 10:26:26] "[37mPOST /api/user/sendMessage HTTP/1.1[0m" 200 -
+2020-02-22 10:26:45,580 - INFO - 127.0.0.1 - - [22/Feb/2020 10:26:45] "[37mPOST /api/user/login HTTP/1.1[0m" 200 -
+2020-02-22 10:26:48,762 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-22 10:26:48,780 - INFO -  * Restarting with stat
+2020-02-22 10:26:49,305 - WARNING -  * Debugger is active!
+2020-02-22 10:26:49,307 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 10:26:49,312 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 10:27:04,808 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-22 10:27:04,826 - INFO -  * Restarting with stat
+2020-02-22 10:27:05,354 - WARNING -  * Debugger is active!
+2020-02-22 10:27:05,356 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 10:27:05,362 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 10:27:09,531 - INFO - 127.0.0.1 - - [22/Feb/2020 10:27:09] "[37mPOST /api/user/login HTTP/1.1[0m" 200 -
+2020-02-22 10:29:00,414 - INFO - 127.0.0.1 - - [22/Feb/2020 10:29:00] "[37mPOST /api/user/login HTTP/1.1[0m" 200 -
+2020-02-22 10:29:18,417 - INFO - 127.0.0.1 - - [22/Feb/2020 10:29:18] "[37mPOST /api/user/login HTTP/1.1[0m" 200 -
+2020-02-22 10:31:04,739 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-22 10:31:04,757 - INFO -  * Restarting with stat
+2020-02-22 10:31:05,294 - WARNING -  * Debugger is active!
+2020-02-22 10:31:05,296 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 10:31:05,301 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 10:31:10,497 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-22 10:31:10,513 - INFO -  * Restarting with stat
+2020-02-22 10:31:11,042 - WARNING -  * Debugger is active!
+2020-02-22 10:31:11,044 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 10:31:11,050 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 10:31:17,235 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-22 10:31:17,252 - INFO -  * Restarting with stat
+2020-02-22 10:31:17,803 - WARNING -  * Debugger is active!
+2020-02-22 10:31:17,805 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 10:31:17,810 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 10:35:02,045 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-22 10:35:02,063 - INFO -  * Restarting with stat
+2020-02-22 10:35:02,576 - WARNING -  * Debugger is active!
+2020-02-22 10:35:02,578 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 10:35:02,583 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 10:35:10,445 - INFO - 127.0.0.1 - - [22/Feb/2020 10:35:10] "[37mPOST /api/user/login HTTP/1.1[0m" 200 -
+2020-02-22 10:37:29,374 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-22 10:37:29,391 - INFO -  * Restarting with stat
+2020-02-22 10:37:29,915 - WARNING -  * Debugger is active!
+2020-02-22 10:37:29,917 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 10:37:29,922 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 10:37:39,067 - INFO - 127.0.0.1 - - [22/Feb/2020 10:37:39] "[37mPOST /api/user/login HTTP/1.1[0m" 200 -
+2020-02-22 10:38:24,725 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-22 10:38:24,743 - INFO -  * Restarting with stat
+2020-02-22 10:38:25,276 - WARNING -  * Debugger is active!
+2020-02-22 10:38:25,278 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 10:38:25,283 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 10:45:40,577 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-22 10:45:40,593 - INFO -  * Restarting with stat
+2020-02-22 10:45:41,121 - WARNING -  * Debugger is active!
+2020-02-22 10:45:41,123 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 10:45:41,129 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 10:47:41,271 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-22 10:47:41,288 - INFO -  * Restarting with stat
+2020-02-22 10:47:41,806 - WARNING -  * Debugger is active!
+2020-02-22 10:47:41,809 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 10:47:41,814 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 10:48:10,751 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-22 10:48:10,767 - INFO -  * Restarting with stat
+2020-02-22 10:48:46,632 - INFO -  * Restarting with stat
+2020-02-22 10:48:47,163 - WARNING -  * Debugger is active!
+2020-02-22 10:48:47,166 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 10:48:47,170 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 10:48:50,936 - INFO - 127.0.0.1 - - [22/Feb/2020 10:48:50] "[37mPOST /api/user/login HTTP/1.1[0m" 200 -
+2020-02-22 12:01:43,144 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 12:01:43,164 - INFO -  * Restarting with stat
+2020-02-22 12:06:21,175 - INFO -  * Restarting with stat
+2020-02-22 12:06:21,715 - WARNING -  * Debugger is active!
+2020-02-22 12:06:21,718 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 12:06:21,723 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 12:06:24,631 - INFO - 127.0.0.1 - - [22/Feb/2020 12:06:24] "[33mGET /api/user/getRecommend?pageIndex=1 HTTP/1.1[0m" 404 -
+2020-02-22 12:06:33,031 - INFO - 127.0.0.1 - - [22/Feb/2020 12:06:33] "[37mGET /api/home/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-22 12:06:39,292 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 12:06:39,310 - INFO -  * Restarting with stat
+2020-02-22 12:06:39,854 - WARNING -  * Debugger is active!
+2020-02-22 12:06:39,856 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 12:06:39,861 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 12:06:53,301 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 12:06:53,321 - INFO -  * Restarting with stat
+2020-02-22 12:06:53,876 - WARNING -  * Debugger is active!
+2020-02-22 12:06:53,879 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 12:06:53,883 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 12:06:54,666 - INFO - 127.0.0.1 - - [22/Feb/2020 12:06:54] "[37mGET /api/home/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-22 12:06:55,982 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 12:06:56,002 - INFO -  * Restarting with stat
+2020-02-22 12:06:56,532 - WARNING -  * Debugger is active!
+2020-02-22 12:06:56,535 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 12:06:56,540 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 12:07:32,709 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 12:07:32,727 - INFO -  * Restarting with stat
+2020-02-22 12:07:33,255 - WARNING -  * Debugger is active!
+2020-02-22 12:07:33,257 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 12:07:33,261 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 12:08:18,745 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 12:08:18,762 - INFO -  * Restarting with stat
+2020-02-22 12:08:19,284 - WARNING -  * Debugger is active!
+2020-02-22 12:08:19,287 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 12:08:19,292 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 12:08:21,042 - INFO - 127.0.0.1 - - [22/Feb/2020 12:08:21] "[37mGET /api/home/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-22 12:08:23,418 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 12:08:23,436 - INFO -  * Restarting with stat
+2020-02-22 12:08:23,966 - WARNING -  * Debugger is active!
+2020-02-22 12:08:23,969 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 12:08:23,973 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 12:50:09,035 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 12:50:09,060 - INFO -  * Restarting with stat
+2020-02-22 12:50:09,871 - WARNING -  * Debugger is active!
+2020-02-22 12:50:09,875 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 12:50:09,882 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 12:50:13,207 - INFO - 127.0.0.1 - - [22/Feb/2020 12:50:13] "[37mGET /api/home/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-22 12:50:50,945 - INFO - 127.0.0.1 - - [22/Feb/2020 12:50:50] "[37mGET /api/home/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-22 12:51:40,528 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 12:51:40,548 - INFO -  * Restarting with stat
+2020-02-22 12:51:41,093 - WARNING -  * Debugger is active!
+2020-02-22 12:51:41,095 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 12:51:41,100 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 12:51:43,621 - INFO - 127.0.0.1 - - [22/Feb/2020 12:51:43] "[37mGET /api/home/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-22 13:19:56,422 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 13:19:56,440 - INFO -  * Restarting with stat
+2020-02-22 13:19:56,988 - WARNING -  * Debugger is active!
+2020-02-22 13:19:56,990 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 13:19:56,995 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 13:26:45,329 - INFO -  * Restarting with stat
+2020-02-22 13:26:45,871 - WARNING -  * Debugger is active!
+2020-02-22 13:26:45,873 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 13:26:45,878 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 13:26:49,176 - INFO - 127.0.0.1 - - [22/Feb/2020 13:26:49] "[37mGET /api/home/getDetails?articleId=Article1890460850720200222121418 HTTP/1.1[0m" 200 -
+2020-02-22 13:27:17,926 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 13:27:17,944 - INFO -  * Restarting with stat
+2020-02-22 13:27:18,509 - WARNING -  * Debugger is active!
+2020-02-22 13:27:18,511 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 13:27:18,516 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 13:27:19,744 - INFO - 127.0.0.1 - - [22/Feb/2020 13:27:19] "[37mGET /api/home/getDetails?articleId=Article1890460850720200222121418 HTTP/1.1[0m" 200 -
+2020-02-22 15:43:33,583 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 15:43:33,628 - INFO -  * Restarting with stat
+2020-02-22 15:47:20,953 - INFO -  * Restarting with stat
+2020-02-22 15:47:21,493 - WARNING -  * Debugger is active!
+2020-02-22 15:47:21,495 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 15:47:21,500 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 15:47:35,822 - INFO -  * Restarting with stat
+2020-02-22 15:47:36,360 - WARNING -  * Debugger is active!
+2020-02-22 15:47:36,362 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 15:47:36,367 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 15:51:57,177 - INFO -  * Restarting with stat
+2020-02-22 15:51:57,705 - WARNING -  * Debugger is active!
+2020-02-22 15:51:57,707 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 15:51:57,712 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 15:52:22,450 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 15:52:22,468 - INFO -  * Restarting with stat
+2020-02-22 15:52:23,001 - WARNING -  * Debugger is active!
+2020-02-22 15:52:23,004 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 15:52:23,007 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 15:52:26,370 - INFO - 127.0.0.1 - - [22/Feb/2020 15:52:26] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-22 15:52:32,308 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 15:52:32,326 - INFO -  * Restarting with stat
+2020-02-22 15:52:32,882 - WARNING -  * Debugger is active!
+2020-02-22 15:52:32,884 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 15:52:32,889 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 15:57:15,314 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 15:57:15,330 - INFO -  * Restarting with stat
+2020-02-22 15:57:15,871 - WARNING -  * Debugger is active!
+2020-02-22 15:57:15,873 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 15:57:15,878 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 15:58:30,185 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 15:58:30,201 - INFO -  * Restarting with stat
+2020-02-22 15:58:30,735 - WARNING -  * Debugger is active!
+2020-02-22 15:58:30,738 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 15:58:30,742 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 15:59:44,822 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 15:59:44,841 - INFO -  * Restarting with stat
+2020-02-22 15:59:45,374 - WARNING -  * Debugger is active!
+2020-02-22 15:59:45,376 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 15:59:45,381 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 15:59:50,170 - INFO - 127.0.0.1 - - [22/Feb/2020 15:59:50] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-22 16:04:56,368 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 16:04:56,388 - INFO -  * Restarting with stat
+2020-02-22 16:04:56,931 - WARNING -  * Debugger is active!
+2020-02-22 16:04:56,933 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 16:04:56,939 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 16:05:00,229 - INFO - 127.0.0.1 - - [22/Feb/2020 16:05:00] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-22 16:19:46,978 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 16:19:47,004 - INFO -  * Restarting with stat
+2020-02-22 16:19:47,806 - WARNING -  * Debugger is active!
+2020-02-22 16:19:47,810 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 16:19:47,817 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 16:20:47,475 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 16:20:47,502 - INFO -  * Restarting with stat
+2020-02-22 16:20:48,340 - WARNING -  * Debugger is active!
+2020-02-22 16:20:48,344 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 16:20:48,351 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 16:21:31,438 - INFO - 127.0.0.1 - - [22/Feb/2020 16:21:31] "[37mPOST /api/home/toLikeComments HTTP/1.1[0m" 200 -
+2020-02-22 16:21:50,167 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 16:21:50,186 - INFO -  * Restarting with stat
+2020-02-22 16:21:50,738 - WARNING -  * Debugger is active!
+2020-02-22 16:21:50,740 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 16:21:50,745 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 16:23:49,408 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 16:23:49,451 - INFO -  * Restarting with stat
+2020-02-22 16:23:50,149 - WARNING -  * Debugger is active!
+2020-02-22 16:23:50,152 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 16:23:50,157 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 16:25:36,896 - ERROR - HOME------This is error from toLikeComments function:%s_______%s
+2020-02-22 16:25:36,896 - INFO - 127.0.0.1 - - [22/Feb/2020 16:25:36] "[37mPOST /api/home/toLikeComments HTTP/1.1[0m" 200 -
+2020-02-22 16:25:43,280 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 16:25:43,296 - INFO -  * Restarting with stat
+2020-02-22 16:25:43,838 - WARNING -  * Debugger is active!
+2020-02-22 16:25:43,841 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 16:25:43,846 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 16:26:02,376 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 16:26:02,393 - INFO -  * Restarting with stat
+2020-02-22 16:26:02,947 - WARNING -  * Debugger is active!
+2020-02-22 16:26:02,952 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 16:26:02,957 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 16:26:08,179 - ERROR - HOME------This is error from toLikeComments function:%s_______%s
+2020-02-22 16:26:08,179 - INFO - 127.0.0.1 - - [22/Feb/2020 16:26:08] "[37mPOST /api/home/toLikeComments HTTP/1.1[0m" 200 -
+2020-02-22 16:26:10,166 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 16:26:10,182 - INFO -  * Restarting with stat
+2020-02-22 16:26:10,725 - WARNING -  * Debugger is active!
+2020-02-22 16:26:10,727 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 16:26:10,732 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 16:26:46,843 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 16:26:46,863 - INFO -  * Restarting with stat
+2020-02-22 16:26:47,409 - WARNING -  * Debugger is active!
+2020-02-22 16:26:47,412 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 16:26:47,416 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 16:27:20,304 - INFO - 127.0.0.1 - - [22/Feb/2020 16:27:20] "[37mPOST /api/home/toLikeComments HTTP/1.1[0m" 200 -
+2020-02-22 16:27:23,605 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 16:27:23,623 - INFO -  * Restarting with stat
+2020-02-22 16:27:24,166 - WARNING -  * Debugger is active!
+2020-02-22 16:27:24,169 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 16:27:24,174 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 16:27:34,547 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 16:27:34,564 - INFO -  * Restarting with stat
+2020-02-22 16:27:35,104 - WARNING -  * Debugger is active!
+2020-02-22 16:27:35,107 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 16:27:35,111 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 16:27:37,343 - ERROR - HOME------This is error from toLikeComments function:%s_______%s
+2020-02-22 16:27:37,344 - INFO - 127.0.0.1 - - [22/Feb/2020 16:27:37] "[37mPOST /api/home/toLikeComments HTTP/1.1[0m" 200 -
+2020-02-22 16:27:43,369 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 16:27:43,386 - INFO -  * Restarting with stat
+2020-02-22 16:27:43,951 - WARNING -  * Debugger is active!
+2020-02-22 16:27:43,954 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 16:27:43,959 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 16:27:45,183 - INFO - 127.0.0.1 - - [22/Feb/2020 16:27:45] "[37mPOST /api/home/toLikeComments HTTP/1.1[0m" 200 -
+2020-02-22 16:27:49,118 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 16:27:49,136 - INFO -  * Restarting with stat
+2020-02-22 16:27:49,686 - WARNING -  * Debugger is active!
+2020-02-22 16:27:49,689 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 16:27:49,694 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 16:38:51,678 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-22 16:38:51,696 - INFO -  * Restarting with stat
+2020-02-22 16:38:52,236 - WARNING -  * Debugger is active!
+2020-02-22 16:38:52,239 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 16:38:52,244 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 16:45:04,503 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 16:45:04,521 - INFO -  * Restarting with stat
+2020-02-22 16:45:05,057 - WARNING -  * Debugger is active!
+2020-02-22 16:45:05,059 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 16:45:05,064 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 16:45:16,377 - INFO - 127.0.0.1 - - [22/Feb/2020 16:45:16] "[37mPOST /api/user/login HTTP/1.1[0m" 200 -
+2020-02-22 16:46:07,242 - INFO - 127.0.0.1 - - [22/Feb/2020 16:46:07] "[37mPOST /api/home/toLikeComments HTTP/1.1[0m" 200 -
+2020-02-22 16:46:09,818 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 16:46:09,837 - INFO -  * Restarting with stat
+2020-02-22 16:46:10,393 - WARNING -  * Debugger is active!
+2020-02-22 16:46:10,395 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 16:46:10,400 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 16:48:05,866 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 16:48:05,884 - INFO -  * Restarting with stat
+2020-02-22 16:48:06,422 - WARNING -  * Debugger is active!
+2020-02-22 16:48:06,425 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 16:48:06,430 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 16:48:10,582 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 16:48:10,599 - INFO -  * Restarting with stat
+2020-02-22 16:48:11,135 - WARNING -  * Debugger is active!
+2020-02-22 16:48:11,138 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 16:48:11,143 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 16:48:20,755 - INFO - 127.0.0.1 - - [22/Feb/2020 16:48:20] "[37mPOST /api/home/toLikeComments HTTP/1.1[0m" 200 -
+2020-02-22 16:48:33,865 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 16:48:33,883 - INFO -  * Restarting with stat
+2020-02-22 16:48:34,424 - WARNING -  * Debugger is active!
+2020-02-22 16:48:34,426 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 16:48:34,431 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 16:48:39,631 - INFO - 127.0.0.1 - - [22/Feb/2020 16:48:39] "[37mPOST /api/home/toLikeComments HTTP/1.1[0m" 200 -
+2020-02-22 16:48:42,756 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 16:48:42,779 - INFO -  * Restarting with stat
+2020-02-22 16:48:43,314 - WARNING -  * Debugger is active!
+2020-02-22 16:48:43,317 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 16:48:43,321 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 16:49:13,251 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 16:49:13,270 - INFO -  * Restarting with stat
+2020-02-22 16:49:13,810 - WARNING -  * Debugger is active!
+2020-02-22 16:49:13,813 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 16:49:13,818 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 16:49:25,180 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-22 16:49:25,202 - INFO -  * Restarting with stat
+2020-02-22 16:49:25,772 - WARNING -  * Debugger is active!
+2020-02-22 16:49:25,775 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 16:49:25,780 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 16:49:26,828 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 16:49:26,849 - INFO -  * Restarting with stat
+2020-02-22 16:49:27,389 - WARNING -  * Debugger is active!
+2020-02-22 16:49:27,391 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 16:49:27,396 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 16:49:30,498 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 16:49:30,517 - INFO -  * Restarting with stat
+2020-02-22 16:49:31,057 - WARNING -  * Debugger is active!
+2020-02-22 16:49:31,059 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 16:49:31,064 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 16:49:41,416 - INFO - 127.0.0.1 - - [22/Feb/2020 16:49:41] "[37mPOST /api/home/toLikeComments HTTP/1.1[0m" 200 -
+2020-02-22 16:49:48,641 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 16:49:48,660 - INFO -  * Restarting with stat
+2020-02-22 16:49:49,217 - WARNING -  * Debugger is active!
+2020-02-22 16:49:49,219 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 16:49:49,225 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 16:49:52,830 - INFO - 127.0.0.1 - - [22/Feb/2020 16:49:52] "[37mPOST /api/home/toLikeComments HTTP/1.1[0m" 200 -
+2020-02-22 16:50:10,579 - INFO - 127.0.0.1 - - [22/Feb/2020 16:50:10] "[37mPOST /api/user/login HTTP/1.1[0m" 200 -
+2020-02-22 16:50:19,286 - INFO - 127.0.0.1 - - [22/Feb/2020 16:50:19] "[37mPOST /api/home/toLikeComments HTTP/1.1[0m" 200 -
+2020-02-22 16:52:09,217 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 16:52:09,235 - INFO -  * Restarting with stat
+2020-02-22 16:52:09,778 - WARNING -  * Debugger is active!
+2020-02-22 16:52:09,781 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 16:52:09,786 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 17:01:55,086 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-22 17:01:55,102 - INFO -  * Restarting with stat
+2020-02-22 17:01:55,623 - WARNING -  * Debugger is active!
+2020-02-22 17:01:55,626 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 17:01:55,630 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 17:11:04,155 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\tool\\DBConnect.py', reloading
+2020-02-22 17:11:04,177 - INFO -  * Restarting with stat
+2020-02-22 17:11:04,728 - WARNING -  * Debugger is active!
+2020-02-22 17:11:04,731 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 17:11:04,736 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 17:13:11,705 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 17:13:11,724 - INFO -  * Restarting with stat
+2020-02-22 17:13:12,270 - WARNING -  * Debugger is active!
+2020-02-22 17:13:12,273 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 17:13:12,280 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 17:13:21,332 - ERROR - HOME------This is error from toLikeComments function:%s_______%s
+2020-02-22 17:13:21,333 - INFO - 127.0.0.1 - - [22/Feb/2020 17:13:21] "[37mPOST /api/home/toLikeComments HTTP/1.1[0m" 200 -
+2020-02-22 17:13:58,722 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 17:13:58,741 - INFO -  * Restarting with stat
+2020-02-22 17:13:59,311 - WARNING -  * Debugger is active!
+2020-02-22 17:13:59,314 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 17:13:59,319 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 17:14:01,841 - ERROR - HOME------This is error from toLikeComments function:<class 'Exception'>_______local variable 'res' referenced before assignment
+2020-02-22 17:14:01,843 - INFO - 127.0.0.1 - - [22/Feb/2020 17:14:01] "[37mPOST /api/home/toLikeComments HTTP/1.1[0m" 200 -
+2020-02-22 17:14:40,513 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 17:14:40,531 - INFO -  * Restarting with stat
+2020-02-22 17:14:41,075 - WARNING -  * Debugger is active!
+2020-02-22 17:14:41,077 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 17:14:41,082 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 17:15:15,115 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 17:15:15,132 - INFO -  * Restarting with stat
+2020-02-22 17:15:15,684 - WARNING -  * Debugger is active!
+2020-02-22 17:15:15,686 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 17:15:15,691 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 17:15:18,595 - ERROR - HOME------This is error from toLikeComments function:<class 'Exception'>_______local variable 'res' referenced before assignment
+2020-02-22 17:15:18,597 - INFO - 127.0.0.1 - - [22/Feb/2020 17:15:18] "[37mPOST /api/home/toLikeComments HTTP/1.1[0m" 200 -
+2020-02-22 17:16:18,638 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 17:16:18,656 - INFO -  * Restarting with stat
+2020-02-22 17:16:19,189 - WARNING -  * Debugger is active!
+2020-02-22 17:16:19,192 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 17:16:19,196 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 17:16:22,306 - INFO - 127.0.0.1 - - [22/Feb/2020 17:16:22] "[37mPOST /api/home/toLikeComments HTTP/1.1[0m" 200 -
+2020-02-22 17:16:25,408 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 17:16:25,427 - INFO -  * Restarting with stat
+2020-02-22 17:16:25,969 - WARNING -  * Debugger is active!
+2020-02-22 17:16:25,972 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 17:16:25,977 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 17:16:37,375 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 17:16:37,397 - INFO -  * Restarting with stat
+2020-02-22 17:16:37,931 - WARNING -  * Debugger is active!
+2020-02-22 17:16:37,934 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 17:16:37,939 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 17:16:40,591 - INFO - 127.0.0.1 - - [22/Feb/2020 17:16:40] "[37mPOST /api/home/toLikeComments HTTP/1.1[0m" 200 -
+2020-02-22 17:16:42,089 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 17:16:42,112 - INFO -  * Restarting with stat
+2020-02-22 17:16:42,654 - WARNING -  * Debugger is active!
+2020-02-22 17:16:42,656 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 17:16:42,661 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 17:17:13,697 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\tool\\DBConnect.py', reloading
+2020-02-22 17:17:13,713 - INFO -  * Restarting with stat
+2020-02-22 17:17:14,253 - WARNING -  * Debugger is active!
+2020-02-22 17:17:14,256 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 17:17:14,262 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 17:17:40,181 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\tool\\DBConnect.py', reloading
+2020-02-22 17:17:40,204 - INFO -  * Restarting with stat
+2020-02-22 17:17:40,735 - WARNING -  * Debugger is active!
+2020-02-22 17:17:40,738 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 17:17:40,743 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 17:17:49,020 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 17:17:49,039 - INFO -  * Restarting with stat
+2020-02-22 17:17:49,571 - WARNING -  * Debugger is active!
+2020-02-22 17:17:49,574 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 17:17:49,579 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 17:18:04,000 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\tool\\DBConnect.py', reloading
+2020-02-22 17:18:04,037 - INFO -  * Restarting with stat
+2020-02-22 17:18:04,598 - WARNING -  * Debugger is active!
+2020-02-22 17:18:04,600 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 17:18:04,605 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 17:18:05,653 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 17:18:05,671 - INFO -  * Restarting with stat
+2020-02-22 17:18:06,211 - WARNING -  * Debugger is active!
+2020-02-22 17:18:06,214 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 17:18:06,218 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-22 17:18:10,219 - INFO - 127.0.0.1 - - [22/Feb/2020 17:18:10] "[37mPOST /api/home/toLikeComments HTTP/1.1[0m" 200 -
+2020-02-22 17:19:30,743 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-22 17:19:30,761 - INFO -  * Restarting with stat
+2020-02-22 17:19:31,308 - WARNING -  * Debugger is active!
+2020-02-22 17:19:31,311 - INFO -  * Debugger PIN: 225-166-092
+2020-02-22 17:19:31,316 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 09:55:28,889 - INFO -  * Restarting with stat
+2020-02-23 09:55:29,696 - WARNING -  * Debugger is active!
+2020-02-23 09:55:29,703 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 09:55:29,710 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 09:55:31,880 - INFO - 127.0.0.1 - - [23/Feb/2020 09:55:31] "[37mPOST /api/home/toLikeComments HTTP/1.1[0m" 200 -
+2020-02-23 11:12:00,933 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 11:12:00,974 - INFO -  * Restarting with stat
+2020-02-23 11:12:01,517 - WARNING -  * Debugger is active!
+2020-02-23 11:12:01,520 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 11:12:01,525 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 11:13:33,753 - INFO - 127.0.0.1 - - [23/Feb/2020 11:13:33] "[37mPOST /api/home/toLikeComments HTTP/1.1[0m" 200 -
+2020-02-23 11:15:06,730 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 11:15:06,749 - INFO -  * Restarting with stat
+2020-02-23 11:15:07,311 - WARNING -  * Debugger is active!
+2020-02-23 11:15:07,313 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 11:15:07,319 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 11:15:09,673 - ERROR - HOME------This is error from toLikeComments function:<class 'Exception'>_______400 Bad Request: Failed to decode JSON object: Expecting value: line 2 column 15 (char 16)
+2020-02-23 11:15:09,673 - INFO - 127.0.0.1 - - [23/Feb/2020 11:15:09] "[37mPOST /api/home/toLikeComments HTTP/1.1[0m" 200 -
+2020-02-23 11:15:30,010 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 11:15:30,030 - INFO -  * Restarting with stat
+2020-02-23 11:15:30,601 - WARNING -  * Debugger is active!
+2020-02-23 11:15:30,604 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 11:15:30,609 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 11:15:31,599 - ERROR - HOME------This is error from toLikeComments function:<class 'Exception'>_______400 Bad Request: Failed to decode JSON object: Expecting value: line 2 column 15 (char 16)
+2020-02-23 11:15:31,599 - INFO - 127.0.0.1 - - [23/Feb/2020 11:15:31] "[37mPOST /api/home/toLikeComments HTTP/1.1[0m" 200 -
+2020-02-23 11:16:07,742 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 11:16:07,760 - INFO -  * Restarting with stat
+2020-02-23 11:16:08,304 - WARNING -  * Debugger is active!
+2020-02-23 11:16:08,307 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 11:16:08,312 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 11:16:11,428 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 11:16:11,460 - INFO -  * Restarting with stat
+2020-02-23 11:16:12,014 - WARNING -  * Debugger is active!
+2020-02-23 11:16:12,016 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 11:16:12,021 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 11:16:13,891 - ERROR - HOME------This is error from toLikeComments function:<class 'Exception'>_______400 Bad Request: Failed to decode JSON object: Expecting value: line 2 column 15 (char 16)
+2020-02-23 11:16:13,893 - INFO - 127.0.0.1 - - [23/Feb/2020 11:16:13] "[37mPOST /api/home/toLikeComments HTTP/1.1[0m" 200 -
+2020-02-23 11:16:15,125 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 11:16:15,143 - INFO -  * Restarting with stat
+2020-02-23 11:16:15,712 - WARNING -  * Debugger is active!
+2020-02-23 11:16:15,714 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 11:16:15,719 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 11:16:29,133 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 11:16:29,154 - INFO -  * Restarting with stat
+2020-02-23 11:16:29,727 - WARNING -  * Debugger is active!
+2020-02-23 11:16:29,729 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 11:16:29,734 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 11:16:30,610 - ERROR - HOME------This is error from toLikeComments function:<class 'Exception'>_______400 Bad Request: Failed to decode JSON object: Expecting value: line 2 column 15 (char 16)
+2020-02-23 11:16:30,611 - INFO - 127.0.0.1 - - [23/Feb/2020 11:16:30] "[37mPOST /api/home/toLikeComments HTTP/1.1[0m" 200 -
+2020-02-23 11:16:44,744 - INFO - 127.0.0.1 - - [23/Feb/2020 11:16:44] "[37mPOST /api/home/toLikeComments HTTP/1.1[0m" 200 -
+2020-02-23 11:16:52,397 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 11:16:52,418 - INFO -  * Restarting with stat
+2020-02-23 11:16:52,961 - WARNING -  * Debugger is active!
+2020-02-23 11:16:52,963 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 11:16:52,969 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 11:17:01,711 - INFO - 127.0.0.1 - - [23/Feb/2020 11:17:01] "[37mPOST /api/home/toLikeComments HTTP/1.1[0m" 200 -
+2020-02-23 11:38:20,222 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 11:38:20,242 - INFO -  * Restarting with stat
+2020-02-23 11:38:20,794 - WARNING -  * Debugger is active!
+2020-02-23 11:38:20,796 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 11:38:20,801 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 11:39:26,738 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 11:39:26,754 - INFO -  * Restarting with stat
+2020-02-23 11:39:27,290 - WARNING -  * Debugger is active!
+2020-02-23 11:39:27,292 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 11:39:27,297 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 11:39:34,654 - ERROR - HOME------This is error from toLikeComments function:<class 'Exception'>_______Error 10061 connecting to localhost:6370. ”…”⁄ƒø±Íº∆À„ª˙ª˝º´æ‹æ¯£¨Œﬁ∑®¡¨Ω”°£.
+2020-02-23 11:39:34,655 - INFO - 127.0.0.1 - - [23/Feb/2020 11:39:34] "[37mPOST /api/home/toLikeComments HTTP/1.1[0m" 200 -
+2020-02-23 11:40:03,376 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 11:40:03,394 - INFO -  * Restarting with stat
+2020-02-23 11:40:03,959 - WARNING -  * Debugger is active!
+2020-02-23 11:40:03,961 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 11:40:03,966 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 11:40:10,357 - INFO - 127.0.0.1 - - [23/Feb/2020 11:40:10] "[37mPOST /api/home/toLikeComments HTTP/1.1[0m" 200 -
+2020-02-23 11:41:28,543 - INFO - 127.0.0.1 - - [23/Feb/2020 11:41:28] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 11:43:37,214 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 11:43:37,231 - INFO -  * Restarting with stat
+2020-02-23 11:43:37,779 - WARNING -  * Debugger is active!
+2020-02-23 11:43:37,782 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 11:43:37,787 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 11:43:41,343 - ERROR - HOME------This is error from getDetailsComments function:%s_______%s
+2020-02-23 11:43:41,343 - INFO - 127.0.0.1 - - [23/Feb/2020 11:43:41] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 11:44:05,585 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 11:44:05,603 - INFO -  * Restarting with stat
+2020-02-23 11:44:06,130 - WARNING -  * Debugger is active!
+2020-02-23 11:44:06,133 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 11:44:06,138 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 11:44:08,334 - ERROR - HOME------This is error from getDetailsComments function:<class 'Exception'>_______'HTTP_TOKEN'
+2020-02-23 11:44:08,336 - INFO - 127.0.0.1 - - [23/Feb/2020 11:44:08] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 11:46:34,639 - INFO - 127.0.0.1 - - [23/Feb/2020 11:46:34] "[35m[1mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 500 -
+2020-02-23 11:47:33,094 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 11:47:33,112 - INFO -  * Restarting with stat
+2020-02-23 11:47:33,648 - WARNING -  * Debugger is active!
+2020-02-23 11:47:33,651 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 11:47:33,656 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 11:47:35,973 - INFO - 127.0.0.1 - - [23/Feb/2020 11:47:35] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 11:47:45,850 - INFO - 127.0.0.1 - - [23/Feb/2020 11:47:45] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 11:49:03,395 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 11:49:03,411 - INFO -  * Restarting with stat
+2020-02-23 11:49:03,948 - WARNING -  * Debugger is active!
+2020-02-23 11:49:03,953 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 11:49:03,958 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 11:49:24,666 - INFO -  * Restarting with stat
+2020-02-23 11:49:25,211 - WARNING -  * Debugger is active!
+2020-02-23 11:49:25,213 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 11:49:25,217 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 11:49:55,124 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 11:49:55,145 - INFO -  * Restarting with stat
+2020-02-23 11:49:55,689 - WARNING -  * Debugger is active!
+2020-02-23 11:49:55,692 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 11:49:55,697 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 11:49:56,769 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 11:49:56,791 - INFO -  * Restarting with stat
+2020-02-23 11:49:57,325 - WARNING -  * Debugger is active!
+2020-02-23 11:49:57,327 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 11:49:57,332 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 11:50:23,141 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 11:50:23,167 - INFO -  * Restarting with stat
+2020-02-23 11:50:23,728 - WARNING -  * Debugger is active!
+2020-02-23 11:50:23,731 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 11:50:23,736 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 11:50:56,299 - ERROR - HOME------This is error from getDetailsComments function:<class 'Exception'>_______'HTTP_TOKEN'
+2020-02-23 11:50:56,299 - INFO - 127.0.0.1 - - [23/Feb/2020 11:50:56] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 11:50:56,328 - INFO - 127.0.0.1 - - [23/Feb/2020 11:50:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2020-02-23 11:51:02,167 - ERROR - HOME------This is error from getDetailsComments function:<class 'Exception'>_______'HTTP_TOKEN'
+2020-02-23 11:51:02,167 - INFO - 127.0.0.1 - - [23/Feb/2020 11:51:02] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 11:51:18,323 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 11:51:18,341 - INFO -  * Restarting with stat
+2020-02-23 11:51:18,875 - WARNING -  * Debugger is active!
+2020-02-23 11:51:18,878 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 11:51:18,883 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 11:51:25,087 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 11:51:25,107 - INFO -  * Restarting with stat
+2020-02-23 11:51:25,651 - WARNING -  * Debugger is active!
+2020-02-23 11:51:25,653 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 11:51:25,658 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 11:51:29,145 - INFO - 127.0.0.1 - - [23/Feb/2020 11:51:29] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 11:53:23,029 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 11:53:23,052 - INFO -  * Restarting with stat
+2020-02-23 11:53:23,579 - WARNING -  * Debugger is active!
+2020-02-23 11:53:23,582 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 11:53:23,589 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 11:53:27,834 - INFO - 127.0.0.1 - - [23/Feb/2020 11:53:27] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 11:53:59,708 - ERROR - HOME------This is error from getDetailsComments function:<class 'Exception'>_______tuple index out of range
+2020-02-23 11:53:59,709 - INFO - 127.0.0.1 - - [23/Feb/2020 11:53:59] "[37mGET /api/home/getDetailsComments?articleId=AC1890460850720200215100000&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 11:54:22,359 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 11:54:22,378 - INFO -  * Restarting with stat
+2020-02-23 11:54:22,915 - WARNING -  * Debugger is active!
+2020-02-23 11:54:22,918 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 11:54:22,923 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 11:54:24,408 - INFO - 127.0.0.1 - - [23/Feb/2020 11:54:24] "[37mGET /api/home/getDetailsComments?articleId=AC1890460850720200215100000&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 11:54:27,063 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 11:54:27,081 - INFO -  * Restarting with stat
+2020-02-23 11:54:27,607 - WARNING -  * Debugger is active!
+2020-02-23 11:54:27,610 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 11:54:27,613 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 11:59:01,279 - INFO - 127.0.0.1 - - [23/Feb/2020 11:59:01] "[37mGET /api/home/getDetailsComments?articleId=AC1890460850720200215100000&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 11:59:08,493 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 11:59:08,511 - INFO -  * Restarting with stat
+2020-02-23 11:59:09,043 - WARNING -  * Debugger is active!
+2020-02-23 11:59:09,045 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 11:59:09,050 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 11:59:17,359 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 11:59:17,378 - INFO -  * Restarting with stat
+2020-02-23 11:59:17,902 - WARNING -  * Debugger is active!
+2020-02-23 11:59:17,905 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 11:59:17,910 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 11:59:19,816 - ERROR - HOME------This is error from getDetailsComments function:<class 'Exception'>_______'NoneType' object is not subscriptable
+2020-02-23 11:59:19,816 - INFO - 127.0.0.1 - - [23/Feb/2020 11:59:19] "[37mGET /api/home/getDetailsComments?articleId=AC1890460850720200215100000&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 12:13:16,185 - INFO -  * Restarting with stat
+2020-02-23 12:13:16,722 - WARNING -  * Debugger is active!
+2020-02-23 12:13:16,725 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:13:16,729 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:13:36,235 - INFO - 127.0.0.1 - - [23/Feb/2020 12:13:36] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 12:14:49,396 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:14:49,413 - INFO -  * Restarting with stat
+2020-02-23 12:14:49,947 - WARNING -  * Debugger is active!
+2020-02-23 12:14:49,950 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:14:49,954 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:18:13,712 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:18:13,731 - INFO -  * Restarting with stat
+2020-02-23 12:18:14,272 - WARNING -  * Debugger is active!
+2020-02-23 12:18:14,275 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:18:14,280 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:19:13,995 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-02-23 12:19:14,015 - INFO -  * Restarting with stat
+2020-02-23 12:19:14,576 - WARNING -  * Debugger is active!
+2020-02-23 12:19:14,579 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:19:14,583 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:19:31,931 - INFO - 127.0.0.1 - - [23/Feb/2020 12:19:31] "[31m[1mGET /api/home/toLikeComments HTTP/1.1[0m" 405 -
+2020-02-23 12:20:24,404 - INFO - 127.0.0.1 - - [23/Feb/2020 12:20:24] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 12:20:37,935 - INFO - 127.0.0.1 - - [23/Feb/2020 12:20:37] "[37mPOST /api/home/toLikeComments HTTP/1.1[0m" 200 -
+2020-02-23 12:20:41,653 - INFO - 127.0.0.1 - - [23/Feb/2020 12:20:41] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 12:21:26,812 - INFO - 127.0.0.1 - - [23/Feb/2020 12:21:26] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 12:24:51,404 - INFO - 127.0.0.1 - - [23/Feb/2020 12:24:51] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 12:25:50,542 - INFO - 127.0.0.1 - - [23/Feb/2020 12:25:50] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 12:26:29,936 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:26:29,954 - INFO -  * Restarting with stat
+2020-02-23 12:26:30,480 - WARNING -  * Debugger is active!
+2020-02-23 12:26:30,482 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:26:30,491 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:26:35,619 - INFO - 127.0.0.1 - - [23/Feb/2020 12:26:35] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 12:26:53,352 - INFO - 127.0.0.1 - - [23/Feb/2020 12:26:53] "[37mPOST /api/home/toLikeComments HTTP/1.1[0m" 200 -
+2020-02-23 12:26:55,871 - INFO - 127.0.0.1 - - [23/Feb/2020 12:26:55] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 12:29:15,333 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:29:15,355 - INFO -  * Restarting with stat
+2020-02-23 12:29:15,921 - WARNING -  * Debugger is active!
+2020-02-23 12:29:15,924 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:29:15,929 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:29:17,118 - INFO - 127.0.0.1 - - [23/Feb/2020 12:29:17] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 12:29:20,075 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:29:20,093 - INFO -  * Restarting with stat
+2020-02-23 12:29:20,637 - WARNING -  * Debugger is active!
+2020-02-23 12:29:20,640 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:29:20,645 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:29:51,548 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:29:51,573 - INFO -  * Restarting with stat
+2020-02-23 12:29:52,127 - WARNING -  * Debugger is active!
+2020-02-23 12:29:52,130 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:29:52,135 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:30:03,486 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:30:03,505 - INFO -  * Restarting with stat
+2020-02-23 12:30:04,038 - WARNING -  * Debugger is active!
+2020-02-23 12:30:04,041 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:30:04,047 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:30:10,533 - INFO - 127.0.0.1 - - [23/Feb/2020 12:30:10] "[37mPOST /api/home/toLikeComments HTTP/1.1[0m" 200 -
+2020-02-23 12:30:13,353 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:30:13,375 - INFO -  * Restarting with stat
+2020-02-23 12:30:13,918 - WARNING -  * Debugger is active!
+2020-02-23 12:30:13,921 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:30:13,925 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:30:17,693 - INFO - 127.0.0.1 - - [23/Feb/2020 12:30:17] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 12:30:19,088 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:30:19,106 - INFO -  * Restarting with stat
+2020-02-23 12:30:19,659 - WARNING -  * Debugger is active!
+2020-02-23 12:30:19,662 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:30:19,667 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:32:11,949 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:32:11,968 - INFO -  * Restarting with stat
+2020-02-23 12:32:12,499 - WARNING -  * Debugger is active!
+2020-02-23 12:32:12,501 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:32:12,507 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:32:16,644 - INFO - 127.0.0.1 - - [23/Feb/2020 12:32:16] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 12:32:22,304 - INFO - 127.0.0.1 - - [23/Feb/2020 12:32:22] "[37mPOST /api/home/toLikeComments HTTP/1.1[0m" 200 -
+2020-02-23 12:32:24,628 - INFO - 127.0.0.1 - - [23/Feb/2020 12:32:24] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 12:32:31,044 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:32:31,062 - INFO -  * Restarting with stat
+2020-02-23 12:32:31,600 - WARNING -  * Debugger is active!
+2020-02-23 12:32:31,602 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:32:31,607 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:32:47,059 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:32:47,078 - INFO -  * Restarting with stat
+2020-02-23 12:32:47,617 - WARNING -  * Debugger is active!
+2020-02-23 12:32:47,619 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:32:47,624 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:32:48,672 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:32:48,690 - INFO -  * Restarting with stat
+2020-02-23 12:32:49,250 - WARNING -  * Debugger is active!
+2020-02-23 12:32:49,253 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:32:49,257 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:32:50,470 - INFO - 127.0.0.1 - - [23/Feb/2020 12:32:50] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 12:32:52,367 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:32:52,391 - INFO -  * Restarting with stat
+2020-02-23 12:32:52,923 - WARNING -  * Debugger is active!
+2020-02-23 12:32:52,926 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:32:52,931 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:34:20,527 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:34:20,552 - INFO -  * Restarting with stat
+2020-02-23 12:34:21,106 - WARNING -  * Debugger is active!
+2020-02-23 12:34:21,108 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:34:21,113 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:34:22,933 - ERROR - HOME------This is error from getDetailsComments function:<class 'Exception'>_______unsupported operand type(s) for %: 'int' and 'str'
+2020-02-23 12:34:22,933 - INFO - 127.0.0.1 - - [23/Feb/2020 12:34:22] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 12:35:21,905 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:35:21,921 - INFO -  * Restarting with stat
+2020-02-23 12:35:22,460 - WARNING -  * Debugger is active!
+2020-02-23 12:35:22,463 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:35:22,468 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:35:27,658 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:35:27,683 - INFO -  * Restarting with stat
+2020-02-23 12:35:28,220 - WARNING -  * Debugger is active!
+2020-02-23 12:35:28,222 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:35:28,227 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:35:30,038 - INFO - 127.0.0.1 - - [23/Feb/2020 12:35:30] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 12:35:34,448 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:35:34,467 - INFO -  * Restarting with stat
+2020-02-23 12:35:35,015 - WARNING -  * Debugger is active!
+2020-02-23 12:35:35,018 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:35:35,023 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:35:43,300 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:35:43,319 - INFO -  * Restarting with stat
+2020-02-23 12:35:43,886 - WARNING -  * Debugger is active!
+2020-02-23 12:35:43,888 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:35:43,893 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:35:44,536 - INFO - 127.0.0.1 - - [23/Feb/2020 12:35:44] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 12:35:45,973 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:35:45,995 - INFO -  * Restarting with stat
+2020-02-23 12:35:46,538 - WARNING -  * Debugger is active!
+2020-02-23 12:35:46,541 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:35:46,546 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:36:12,283 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:36:12,301 - INFO -  * Restarting with stat
+2020-02-23 12:36:12,831 - WARNING -  * Debugger is active!
+2020-02-23 12:36:12,833 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:36:12,838 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:36:15,150 - INFO - 127.0.0.1 - - [23/Feb/2020 12:36:15] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 12:36:16,988 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:36:17,007 - INFO -  * Restarting with stat
+2020-02-23 12:36:17,536 - WARNING -  * Debugger is active!
+2020-02-23 12:36:17,539 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:36:17,544 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:36:23,491 - INFO - 127.0.0.1 - - [23/Feb/2020 12:36:23] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 12:36:24,780 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:36:24,797 - INFO -  * Restarting with stat
+2020-02-23 12:36:25,340 - WARNING -  * Debugger is active!
+2020-02-23 12:36:25,342 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:36:25,348 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:36:52,208 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:36:52,228 - INFO -  * Restarting with stat
+2020-02-23 12:36:52,753 - WARNING -  * Debugger is active!
+2020-02-23 12:36:52,756 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:36:52,760 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:36:55,605 - ERROR - HOME------This is error from getDetailsComments function:<class 'Exception'>_______unsupported operand type(s) for %: 'int' and 'str'
+2020-02-23 12:36:55,607 - INFO - 127.0.0.1 - - [23/Feb/2020 12:36:55] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 12:37:17,485 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:37:17,503 - INFO -  * Restarting with stat
+2020-02-23 12:37:18,035 - WARNING -  * Debugger is active!
+2020-02-23 12:37:18,037 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:37:18,043 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:37:20,758 - INFO - 127.0.0.1 - - [23/Feb/2020 12:37:20] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 12:37:22,174 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:37:22,191 - INFO -  * Restarting with stat
+2020-02-23 12:37:22,725 - WARNING -  * Debugger is active!
+2020-02-23 12:37:22,728 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:37:22,733 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:38:31,805 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:38:31,828 - INFO -  * Restarting with stat
+2020-02-23 12:38:32,370 - WARNING -  * Debugger is active!
+2020-02-23 12:38:32,372 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:38:32,377 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:38:33,966 - INFO - 127.0.0.1 - - [23/Feb/2020 12:38:33] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 12:38:36,531 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:38:36,549 - INFO -  * Restarting with stat
+2020-02-23 12:38:37,097 - WARNING -  * Debugger is active!
+2020-02-23 12:38:37,100 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:38:37,108 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:39:27,636 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:39:27,656 - INFO -  * Restarting with stat
+2020-02-23 12:39:28,209 - WARNING -  * Debugger is active!
+2020-02-23 12:39:28,212 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:39:28,218 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:39:29,778 - INFO - 127.0.0.1 - - [23/Feb/2020 12:39:29] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 12:39:31,328 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:39:31,345 - INFO -  * Restarting with stat
+2020-02-23 12:39:31,889 - WARNING -  * Debugger is active!
+2020-02-23 12:39:31,891 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:39:31,897 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:39:53,558 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:39:53,577 - INFO -  * Restarting with stat
+2020-02-23 12:39:54,132 - WARNING -  * Debugger is active!
+2020-02-23 12:39:54,135 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:39:54,140 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:40:08,373 - INFO - 127.0.0.1 - - [23/Feb/2020 12:40:08] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 12:40:09,591 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:40:09,608 - INFO -  * Restarting with stat
+2020-02-23 12:40:10,145 - WARNING -  * Debugger is active!
+2020-02-23 12:40:10,147 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:40:10,152 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:40:45,215 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:40:45,234 - INFO -  * Restarting with stat
+2020-02-23 12:40:45,780 - WARNING -  * Debugger is active!
+2020-02-23 12:40:45,783 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:40:45,789 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:40:46,391 - INFO - 127.0.0.1 - - [23/Feb/2020 12:40:46] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 12:40:47,869 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:40:47,887 - INFO -  * Restarting with stat
+2020-02-23 12:40:48,441 - WARNING -  * Debugger is active!
+2020-02-23 12:40:48,444 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:40:48,449 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:41:17,677 - INFO - 127.0.0.1 - - [23/Feb/2020 12:41:17] "[37mPOST /api/home/toLikeComments HTTP/1.1[0m" 200 -
+2020-02-23 12:41:38,893 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:41:38,908 - INFO -  * Restarting with stat
+2020-02-23 12:41:39,444 - WARNING -  * Debugger is active!
+2020-02-23 12:41:39,447 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:41:39,452 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:41:44,782 - INFO - 127.0.0.1 - - [23/Feb/2020 12:41:44] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 12:41:52,873 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:41:52,892 - INFO -  * Restarting with stat
+2020-02-23 12:41:53,446 - WARNING -  * Debugger is active!
+2020-02-23 12:41:53,449 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:41:53,454 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:42:36,717 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:42:36,734 - INFO -  * Restarting with stat
+2020-02-23 12:42:37,290 - WARNING -  * Debugger is active!
+2020-02-23 12:42:37,293 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:42:37,299 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:42:38,651 - INFO - 127.0.0.1 - - [23/Feb/2020 12:42:38] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 12:42:41,451 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:42:41,472 - INFO -  * Restarting with stat
+2020-02-23 12:42:42,016 - WARNING -  * Debugger is active!
+2020-02-23 12:42:42,019 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:42:42,023 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:42:52,372 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:42:52,390 - INFO -  * Restarting with stat
+2020-02-23 12:42:52,924 - WARNING -  * Debugger is active!
+2020-02-23 12:42:52,927 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:42:52,931 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:42:59,151 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:42:59,168 - INFO -  * Restarting with stat
+2020-02-23 12:42:59,696 - WARNING -  * Debugger is active!
+2020-02-23 12:42:59,698 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:42:59,703 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:43:02,443 - INFO - 127.0.0.1 - - [23/Feb/2020 12:43:02] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 12:43:03,837 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:43:03,855 - INFO -  * Restarting with stat
+2020-02-23 12:43:04,400 - WARNING -  * Debugger is active!
+2020-02-23 12:43:04,402 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:43:04,407 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:43:11,661 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:43:11,678 - INFO -  * Restarting with stat
+2020-02-23 12:43:12,225 - WARNING -  * Debugger is active!
+2020-02-23 12:43:12,228 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:43:12,233 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:43:13,575 - INFO - 127.0.0.1 - - [23/Feb/2020 12:43:13] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 12:43:15,336 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:43:15,357 - INFO -  * Restarting with stat
+2020-02-23 12:43:15,906 - WARNING -  * Debugger is active!
+2020-02-23 12:43:15,908 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:43:15,914 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:44:17,763 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:44:17,781 - INFO -  * Restarting with stat
+2020-02-23 12:44:18,334 - WARNING -  * Debugger is active!
+2020-02-23 12:44:18,337 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:44:18,342 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:44:20,501 - INFO - 127.0.0.1 - - [23/Feb/2020 12:44:20] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 12:44:30,698 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:44:30,716 - INFO -  * Restarting with stat
+2020-02-23 12:44:31,250 - WARNING -  * Debugger is active!
+2020-02-23 12:44:31,253 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:44:31,258 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:44:58,118 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:44:58,134 - INFO -  * Restarting with stat
+2020-02-23 12:44:58,652 - WARNING -  * Debugger is active!
+2020-02-23 12:44:58,655 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:44:58,660 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:45:01,873 - INFO - 127.0.0.1 - - [23/Feb/2020 12:45:01] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 12:45:02,794 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:45:02,811 - INFO -  * Restarting with stat
+2020-02-23 12:45:03,336 - WARNING -  * Debugger is active!
+2020-02-23 12:45:03,339 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:45:03,343 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:45:18,854 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:45:18,872 - INFO -  * Restarting with stat
+2020-02-23 12:45:19,417 - WARNING -  * Debugger is active!
+2020-02-23 12:45:19,420 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:45:19,425 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:45:20,937 - INFO - 127.0.0.1 - - [23/Feb/2020 12:45:20] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 12:45:28,692 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:45:28,712 - INFO -  * Restarting with stat
+2020-02-23 12:45:29,264 - WARNING -  * Debugger is active!
+2020-02-23 12:45:29,267 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:45:29,271 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:45:43,723 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:45:43,742 - INFO -  * Restarting with stat
+2020-02-23 12:45:44,297 - WARNING -  * Debugger is active!
+2020-02-23 12:45:44,300 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:45:44,305 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:45:46,597 - INFO - 127.0.0.1 - - [23/Feb/2020 12:45:46] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 12:45:48,432 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:45:48,452 - INFO -  * Restarting with stat
+2020-02-23 12:45:48,998 - WARNING -  * Debugger is active!
+2020-02-23 12:45:49,000 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:45:49,005 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:46:18,953 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:46:18,973 - INFO -  * Restarting with stat
+2020-02-23 12:46:19,543 - WARNING -  * Debugger is active!
+2020-02-23 12:46:19,547 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:46:19,552 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:46:20,410 - INFO - 127.0.0.1 - - [23/Feb/2020 12:46:20] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 12:46:23,679 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:46:23,696 - INFO -  * Restarting with stat
+2020-02-23 12:46:24,228 - WARNING -  * Debugger is active!
+2020-02-23 12:46:24,231 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:46:24,235 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:47:42,549 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:47:42,568 - INFO -  * Restarting with stat
+2020-02-23 12:47:43,118 - WARNING -  * Debugger is active!
+2020-02-23 12:47:43,120 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:47:43,126 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:47:43,733 - ERROR - HOME------This is error from getDetailsComments function:<class 'Exception'>_______unsupported operand type(s) for %: 'int' and 'tuple'
+2020-02-23 12:47:43,734 - INFO - 127.0.0.1 - - [23/Feb/2020 12:47:43] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 12:47:54,462 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:47:54,481 - INFO -  * Restarting with stat
+2020-02-23 12:47:55,019 - WARNING -  * Debugger is active!
+2020-02-23 12:47:55,022 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:47:55,027 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:47:56,292 - INFO - 127.0.0.1 - - [23/Feb/2020 12:47:56] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 12:47:58,135 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:47:58,156 - INFO -  * Restarting with stat
+2020-02-23 12:47:58,696 - WARNING -  * Debugger is active!
+2020-02-23 12:47:58,699 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:47:58,704 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:48:07,976 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:48:07,995 - INFO -  * Restarting with stat
+2020-02-23 12:48:08,556 - WARNING -  * Debugger is active!
+2020-02-23 12:48:08,559 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:48:08,565 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:48:09,582 - INFO - 127.0.0.1 - - [23/Feb/2020 12:48:09] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 12:48:10,641 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:48:10,660 - INFO -  * Restarting with stat
+2020-02-23 12:48:11,201 - WARNING -  * Debugger is active!
+2020-02-23 12:48:11,203 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:48:11,208 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:48:21,564 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:48:21,582 - INFO -  * Restarting with stat
+2020-02-23 12:48:22,149 - WARNING -  * Debugger is active!
+2020-02-23 12:48:22,152 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:48:22,157 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:48:23,061 - ERROR - HOME------This is error from getDetailsComments function:<class 'Exception'>_______%d format: a number is required, not str
+2020-02-23 12:48:23,061 - INFO - 127.0.0.1 - - [23/Feb/2020 12:48:23] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 12:49:34,357 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:49:34,373 - INFO -  * Restarting with stat
+2020-02-23 12:49:34,913 - WARNING -  * Debugger is active!
+2020-02-23 12:49:34,915 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:49:34,920 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:49:40,100 - INFO - 127.0.0.1 - - [23/Feb/2020 12:49:40] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 12:49:41,157 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:49:41,176 - INFO -  * Restarting with stat
+2020-02-23 12:49:41,720 - WARNING -  * Debugger is active!
+2020-02-23 12:49:41,721 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:49:41,727 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:50:06,470 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:50:06,489 - INFO -  * Restarting with stat
+2020-02-23 12:50:07,025 - WARNING -  * Debugger is active!
+2020-02-23 12:50:07,028 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:50:07,033 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:50:11,802 - INFO - 127.0.0.1 - - [23/Feb/2020 12:50:11] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 12:50:41,096 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:50:41,113 - INFO -  * Restarting with stat
+2020-02-23 12:50:41,646 - WARNING -  * Debugger is active!
+2020-02-23 12:50:41,649 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:50:41,653 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:50:45,788 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:50:45,809 - INFO -  * Restarting with stat
+2020-02-23 12:50:46,347 - WARNING -  * Debugger is active!
+2020-02-23 12:50:46,349 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:50:46,354 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:50:49,604 - ERROR - HOME------This is error from getDetailsComments function:<class 'Exception'>_______local variable 'userPhone' referenced before assignment
+2020-02-23 12:50:49,605 - INFO - 127.0.0.1 - - [23/Feb/2020 12:50:49] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 12:50:57,722 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:50:57,738 - INFO -  * Restarting with stat
+2020-02-23 12:50:58,264 - WARNING -  * Debugger is active!
+2020-02-23 12:50:58,267 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:50:58,274 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:50:59,546 - INFO - 127.0.0.1 - - [23/Feb/2020 12:50:59] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 12:52:37,152 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:52:37,168 - INFO -  * Restarting with stat
+2020-02-23 12:52:37,689 - WARNING -  * Debugger is active!
+2020-02-23 12:52:37,691 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:52:37,696 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:54:30,235 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:54:30,256 - INFO -  * Restarting with stat
+2020-02-23 12:54:30,814 - WARNING -  * Debugger is active!
+2020-02-23 12:54:30,816 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:54:30,821 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:54:42,187 - INFO - 127.0.0.1 - - [23/Feb/2020 12:54:42] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 12:55:00,676 - INFO - 127.0.0.1 - - [23/Feb/2020 12:55:00] "[37mPOST /api/home/toLikeComments HTTP/1.1[0m" 200 -
+2020-02-23 12:55:16,121 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:55:16,142 - INFO -  * Restarting with stat
+2020-02-23 12:55:16,703 - WARNING -  * Debugger is active!
+2020-02-23 12:55:16,706 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:55:16,713 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:55:17,902 - INFO - 127.0.0.1 - - [23/Feb/2020 12:55:17] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 12:55:57,434 - ERROR - HOME------This is error from toLikeComments function:<class 'Exception'>_______%d format: a number is required, not str
+2020-02-23 12:55:57,434 - INFO - 127.0.0.1 - - [23/Feb/2020 12:55:57] "[37mPOST /api/home/cancelLikeComments HTTP/1.1[0m" 200 -
+2020-02-23 12:56:24,720 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:56:24,739 - INFO -  * Restarting with stat
+2020-02-23 12:56:25,274 - WARNING -  * Debugger is active!
+2020-02-23 12:56:25,277 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:56:25,282 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:56:31,823 - ERROR - HOME------This is error from toLikeComments function:<class 'Exception'>_______%d format: a number is required, not str
+2020-02-23 12:56:31,824 - INFO - 127.0.0.1 - - [23/Feb/2020 12:56:31] "[37mPOST /api/home/cancelLikeComments HTTP/1.1[0m" 200 -
+2020-02-23 12:57:10,627 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:57:10,644 - INFO -  * Restarting with stat
+2020-02-23 12:57:11,184 - WARNING -  * Debugger is active!
+2020-02-23 12:57:11,187 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:57:11,191 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:57:14,607 - ERROR - HOME------This is error from toLikeComments function:<class 'Exception'>_______%d format: a number is required, not str
+2020-02-23 12:57:14,607 - INFO - 127.0.0.1 - - [23/Feb/2020 12:57:14] "[37mPOST /api/home/cancelLikeComments HTTP/1.1[0m" 200 -
+2020-02-23 12:57:36,933 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:57:36,953 - INFO -  * Restarting with stat
+2020-02-23 12:57:37,505 - WARNING -  * Debugger is active!
+2020-02-23 12:57:37,507 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:57:37,512 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:57:38,076 - ERROR - HOME------This is error from toLikeComments function:<class 'Exception'>_______%d format: a number is required, not str
+2020-02-23 12:57:38,077 - INFO - 127.0.0.1 - - [23/Feb/2020 12:57:38] "[37mPOST /api/home/cancelLikeComments HTTP/1.1[0m" 200 -
+2020-02-23 12:57:40,621 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:57:40,641 - INFO -  * Restarting with stat
+2020-02-23 12:57:41,196 - WARNING -  * Debugger is active!
+2020-02-23 12:57:41,198 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:57:41,203 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:58:18,345 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 12:58:18,363 - INFO -  * Restarting with stat
+2020-02-23 12:58:18,922 - WARNING -  * Debugger is active!
+2020-02-23 12:58:18,925 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 12:58:18,930 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 12:58:20,044 - INFO - 127.0.0.1 - - [23/Feb/2020 12:58:20] "[37mPOST /api/home/cancelLikeComments HTTP/1.1[0m" 200 -
+2020-02-23 12:58:29,101 - INFO - 127.0.0.1 - - [23/Feb/2020 12:58:29] "[37mPOST /api/home/toLikeComments HTTP/1.1[0m" 200 -
+2020-02-23 12:58:33,531 - INFO - 127.0.0.1 - - [23/Feb/2020 12:58:33] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 12:58:36,064 - INFO - 127.0.0.1 - - [23/Feb/2020 12:58:36] "[37mPOST /api/home/cancelLikeComments HTTP/1.1[0m" 200 -
+2020-02-23 12:58:38,391 - INFO - 127.0.0.1 - - [23/Feb/2020 12:58:38] "[37mGET /api/home/getDetailsComments?articleId=Article1890460850720200222121418&pageIndex=1 HTTP/1.1[0m" 200 -
+2020-02-23 13:44:01,935 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 13:44:01,956 - INFO -  * Restarting with stat
+2020-02-23 13:44:02,492 - WARNING -  * Debugger is active!
+2020-02-23 13:44:02,494 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 13:44:02,499 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 13:44:07,657 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 13:44:07,675 - INFO -  * Restarting with stat
+2020-02-23 13:44:08,217 - WARNING -  * Debugger is active!
+2020-02-23 13:44:08,220 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 13:44:08,225 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 13:57:28,449 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 13:57:28,474 - INFO -  * Restarting with stat
+2020-02-23 13:57:29,013 - WARNING -  * Debugger is active!
+2020-02-23 13:57:29,015 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 13:57:29,020 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 13:57:55,220 - ERROR - HOME------This is error from toLikeComments function:<class 'Exception'>_______'HTTP_PHONE'
+2020-02-23 13:57:55,221 - INFO - 127.0.0.1 - - [23/Feb/2020 13:57:55] "[37mPOST /api/home/toComments HTTP/1.1[0m" 200 -
+2020-02-23 13:58:15,390 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 13:58:15,408 - INFO -  * Restarting with stat
+2020-02-23 13:58:15,972 - WARNING -  * Debugger is active!
+2020-02-23 13:58:15,974 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 13:58:15,979 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 13:58:26,297 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 13:58:26,343 - INFO -  * Restarting with stat
+2020-02-23 13:58:26,884 - WARNING -  * Debugger is active!
+2020-02-23 13:58:26,886 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 13:58:26,891 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 13:58:38,226 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 13:58:38,248 - INFO -  * Restarting with stat
+2020-02-23 13:58:38,809 - WARNING -  * Debugger is active!
+2020-02-23 13:58:38,811 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 13:58:38,816 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 13:58:43,765 - ERROR - HOME------This is error from toComments function:<class 'Exception'>_______'articleId'
+2020-02-23 13:58:43,765 - INFO - 127.0.0.1 - - [23/Feb/2020 13:58:43] "[37mPOST /api/home/toComments HTTP/1.1[0m" 200 -
+2020-02-23 13:59:11,777 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 13:59:11,799 - INFO -  * Restarting with stat
+2020-02-23 13:59:12,341 - WARNING -  * Debugger is active!
+2020-02-23 13:59:12,343 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 13:59:12,348 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 13:59:14,425 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 13:59:14,444 - INFO -  * Restarting with stat
+2020-02-23 13:59:14,995 - WARNING -  * Debugger is active!
+2020-02-23 13:59:14,997 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 13:59:15,004 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 13:59:19,526 - ERROR - HOME------This is error from toComments function:<class 'Exception'>_______exce_insert_data() missing 1 required positional argument: 'table'
+2020-02-23 13:59:19,527 - INFO - 127.0.0.1 - - [23/Feb/2020 13:59:19] "[37mPOST /api/home/toComments HTTP/1.1[0m" 200 -
+2020-02-23 14:00:30,148 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 14:00:30,167 - INFO -  * Restarting with stat
+2020-02-23 14:00:30,693 - WARNING -  * Debugger is active!
+2020-02-23 14:00:30,695 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 14:00:30,701 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 14:00:39,960 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 14:00:39,978 - INFO -  * Restarting with stat
+2020-02-23 14:01:09,737 - INFO -  * Restarting with stat
+2020-02-23 14:01:10,261 - WARNING -  * Debugger is active!
+2020-02-23 14:01:10,263 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 14:01:10,268 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 14:01:13,248 - ERROR - HOME------This is error from toComments function:<class 'Exception'>_______exce_insert_data() missing 1 required positional argument: 'table'
+2020-02-23 14:01:13,249 - INFO - 127.0.0.1 - - [23/Feb/2020 14:01:13] "[37mPOST /api/home/toComments HTTP/1.1[0m" 200 -
+2020-02-23 14:01:22,613 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 14:01:22,631 - INFO -  * Restarting with stat
+2020-02-23 14:01:23,164 - WARNING -  * Debugger is active!
+2020-02-23 14:01:23,167 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 14:01:23,171 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 14:01:48,992 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 14:01:49,009 - INFO -  * Restarting with stat
+2020-02-23 14:01:49,546 - WARNING -  * Debugger is active!
+2020-02-23 14:01:49,548 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 14:01:49,553 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 14:01:54,926 - ERROR - HOME------This is error from toComments function:<class 'Exception'>_______exce_insert_data() missing 1 required positional argument: 'table'
+2020-02-23 14:01:54,927 - INFO - 127.0.0.1 - - [23/Feb/2020 14:01:54] "[37mPOST /api/home/toComments HTTP/1.1[0m" 200 -
+2020-02-23 14:02:15,362 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 14:02:15,379 - INFO -  * Restarting with stat
+2020-02-23 14:02:15,932 - WARNING -  * Debugger is active!
+2020-02-23 14:02:15,934 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 14:02:15,941 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 14:02:18,491 - ERROR - DBERRPR insert_data<class 'Exception'>____(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '18904608507','2020-02-23 14:02:18','¥Û∏Á≥ˆ∆∑£¨±ÿ≥ˆæ´∆∑)' at line 1")
+2020-02-23 14:02:18,491 - INFO - 127.0.0.1 - - [23/Feb/2020 14:02:18] "[37mPOST /api/home/toComments HTTP/1.1[0m" 200 -
+2020-02-23 14:03:22,420 - ERROR - DBERRPR insert_data<class 'Exception'>____(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '18904608507','2020-02-23 14:03:22','¥Û∏Á≥ˆ∆∑£¨±ÿ≥ˆæ´∆∑)' at line 1")
+2020-02-23 14:03:22,420 - INFO - 127.0.0.1 - - [23/Feb/2020 14:03:22] "[37mPOST /api/home/toComments HTTP/1.1[0m" 200 -
+2020-02-23 14:04:17,532 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 14:04:17,555 - INFO -  * Restarting with stat
+2020-02-23 14:04:18,079 - WARNING -  * Debugger is active!
+2020-02-23 14:04:18,081 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 14:04:18,086 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 14:04:20,714 - ERROR - DBERRPR insert_data<class 'Exception'>____(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '18904608507','2020-02-23 14:04:20',0,'¥Û∏Á≥ˆ∆∑£¨±ÿ≥ˆæ´∆∑)' at line 1")
+2020-02-23 14:04:20,715 - INFO - 127.0.0.1 - - [23/Feb/2020 14:04:20] "[37mPOST /api/home/toComments HTTP/1.1[0m" 200 -
+2020-02-23 14:06:00,134 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 14:06:00,151 - INFO -  * Restarting with stat
+2020-02-23 14:06:00,698 - WARNING -  * Debugger is active!
+2020-02-23 14:06:00,701 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 14:06:00,705 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 14:06:52,494 - ERROR - DBERRPR insert_data<class 'Exception'>____(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '18904608507','2020-02-23 14:06:52','¥Û∏Á≥ˆ∆∑£¨±ÿ≥ˆæ´∆∑)' at line 1")
+2020-02-23 14:06:52,495 - INFO - 127.0.0.1 - - [23/Feb/2020 14:06:52] "[37mPOST /api/home/toComments HTTP/1.1[0m" 200 -
+2020-02-23 14:08:01,223 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 14:08:01,241 - INFO -  * Restarting with stat
+2020-02-23 14:08:01,785 - WARNING -  * Debugger is active!
+2020-02-23 14:08:01,787 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 14:08:01,792 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 14:08:04,143 - ERROR - DBERRPR insert_data<class 'Exception'>____(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '18904608507','2020-02-23 14:08:04','¥Û∏Á≥ˆ∆∑£¨±ÿ≥ˆæ´∆∑)' at line 1")
+2020-02-23 14:08:04,145 - INFO - 127.0.0.1 - - [23/Feb/2020 14:08:04] "[37mPOST /api/home/toComments HTTP/1.1[0m" 200 -
+2020-02-23 14:08:05,933 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 14:08:05,953 - INFO -  * Restarting with stat
+2020-02-23 14:08:06,498 - WARNING -  * Debugger is active!
+2020-02-23 14:08:06,504 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 14:08:06,509 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 14:08:26,102 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\tool\\DBConnect.py', reloading
+2020-02-23 14:08:26,119 - INFO -  * Restarting with stat
+2020-02-23 14:08:26,675 - WARNING -  * Debugger is active!
+2020-02-23 14:08:26,678 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 14:08:26,684 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 14:08:29,155 - ERROR - DBERRPR insert_data<class 'Exception'>____(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '18904608507','2020-02-23 14:08:29','¥Û∏Á≥ˆ∆∑£¨±ÿ≥ˆæ´∆∑)' at line 1")
+2020-02-23 14:08:29,156 - INFO - 127.0.0.1 - - [23/Feb/2020 14:08:29] "[37mPOST /api/home/toComments HTTP/1.1[0m" 200 -
+2020-02-23 14:08:30,825 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 14:08:30,842 - INFO -  * Restarting with stat
+2020-02-23 14:08:31,379 - WARNING -  * Debugger is active!
+2020-02-23 14:08:31,382 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 14:08:31,387 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 14:08:38,606 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\tool\\DBConnect.py', reloading
+2020-02-23 14:08:38,628 - INFO -  * Restarting with stat
+2020-02-23 14:08:39,186 - WARNING -  * Debugger is active!
+2020-02-23 14:08:39,188 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 14:08:39,193 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 14:08:41,874 - ERROR - DBERRPR insert_data<class 'Exception'>____(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '18904608507','2020-02-23 14:08:41','¥Û∏Á≥ˆ∆∑£¨±ÿ≥ˆæ´∆∑)' at line 1")
+2020-02-23 14:08:41,874 - INFO - 127.0.0.1 - - [23/Feb/2020 14:08:41] "[37mPOST /api/home/toComments HTTP/1.1[0m" 200 -
+2020-02-23 14:08:43,325 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 14:08:43,343 - INFO -  * Restarting with stat
+2020-02-23 14:08:43,892 - WARNING -  * Debugger is active!
+2020-02-23 14:08:43,894 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 14:08:43,899 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 14:11:14,544 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 14:11:14,562 - INFO -  * Restarting with stat
+2020-02-23 14:11:15,109 - WARNING -  * Debugger is active!
+2020-02-23 14:11:15,112 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 14:11:15,116 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 14:11:17,045 - ERROR - DBERRPR insert_data<class 'Exception'>____(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '18904608507','2020-02-23 14:11:17','¥Û∏Á≥ˆ∆∑£¨±ÿ≥ˆæ´∆∑)' at line 1")
+2020-02-23 14:11:17,046 - INFO - 127.0.0.1 - - [23/Feb/2020 14:11:17] "[37mPOST /api/home/toComments HTTP/1.1[0m" 200 -
+2020-02-23 14:11:18,221 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 14:11:18,241 - INFO -  * Restarting with stat
+2020-02-23 14:11:18,782 - WARNING -  * Debugger is active!
+2020-02-23 14:11:18,785 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 14:11:18,789 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 14:12:20,755 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 14:12:20,772 - INFO -  * Restarting with stat
+2020-02-23 14:12:21,301 - WARNING -  * Debugger is active!
+2020-02-23 14:12:21,303 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 14:12:21,308 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 14:12:24,158 - ERROR - DBERRPR insert_data<class 'Exception'>____(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '18904608507','2020-02-23 14:12:24','¥Û∏Á≥ˆ∆∑£¨±ÿ≥ˆæ´∆∑)' at line 1")
+2020-02-23 14:12:24,160 - INFO - 127.0.0.1 - - [23/Feb/2020 14:12:24] "[37mPOST /api/home/toComments HTTP/1.1[0m" 200 -
+2020-02-23 14:12:25,464 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 14:12:25,484 - INFO -  * Restarting with stat
+2020-02-23 14:12:26,026 - WARNING -  * Debugger is active!
+2020-02-23 14:12:26,028 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 14:12:26,033 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 14:13:33,043 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\tool\\DBConnect.py', reloading
+2020-02-23 14:13:33,062 - INFO -  * Restarting with stat
+2020-02-23 14:13:33,601 - WARNING -  * Debugger is active!
+2020-02-23 14:13:33,604 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 14:13:33,609 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 14:16:29,683 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 14:16:29,699 - INFO -  * Restarting with stat
+2020-02-23 14:16:30,221 - WARNING -  * Debugger is active!
+2020-02-23 14:16:30,224 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 14:16:30,229 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 14:16:34,459 - ERROR - HOME------This is error from toComments function:<class 'Exception'>_______(1054, "Unknown column 'a' in 'field list'")
+2020-02-23 14:16:34,461 - INFO - 127.0.0.1 - - [23/Feb/2020 14:16:34] "[37mPOST /api/home/toComments HTTP/1.1[0m" 200 -
+2020-02-23 14:16:58,102 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 14:16:58,123 - INFO -  * Restarting with stat
+2020-02-23 14:16:58,641 - WARNING -  * Debugger is active!
+2020-02-23 14:16:58,644 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 14:16:58,649 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 14:17:01,368 - ERROR - HOME------This is error from toComments function:<class 'Exception'>_______'DBConnect' object has no attribute 'commit'
+2020-02-23 14:17:01,369 - INFO - 127.0.0.1 - - [23/Feb/2020 14:17:01] "[37mPOST /api/home/toComments HTTP/1.1[0m" 200 -
+2020-02-23 14:17:02,776 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 14:17:02,796 - INFO -  * Restarting with stat
+2020-02-23 14:17:03,332 - WARNING -  * Debugger is active!
+2020-02-23 14:17:03,334 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 14:17:03,340 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 14:19:58,509 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\tool\\DBConnect.py', reloading
+2020-02-23 14:19:58,528 - INFO -  * Restarting with stat
+2020-02-23 14:19:59,075 - WARNING -  * Debugger is active!
+2020-02-23 14:19:59,078 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 14:19:59,082 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 14:20:18,717 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 14:20:18,733 - INFO -  * Restarting with stat
+2020-02-23 14:20:19,262 - WARNING -  * Debugger is active!
+2020-02-23 14:20:19,264 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 14:20:19,269 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 14:20:22,576 - INFO - 127.0.0.1 - - [23/Feb/2020 14:20:22] "[37mPOST /api/home/toComments HTTP/1.1[0m" 200 -
+2020-02-23 14:22:05,505 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 14:22:05,526 - INFO -  * Restarting with stat
+2020-02-23 14:22:06,066 - WARNING -  * Debugger is active!
+2020-02-23 14:22:06,069 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 14:22:06,075 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 14:22:07,114 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\tool\\DBConnect.py', reloading
+2020-02-23 14:22:07,136 - INFO -  * Restarting with stat
+2020-02-23 14:22:07,681 - WARNING -  * Debugger is active!
+2020-02-23 14:22:07,683 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 14:22:07,688 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 14:23:47,624 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\tool\\DBConnect.py', reloading
+2020-02-23 14:23:47,641 - INFO -  * Restarting with stat
+2020-02-23 14:23:48,174 - WARNING -  * Debugger is active!
+2020-02-23 14:23:48,176 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 14:23:48,181 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 14:24:05,668 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 14:24:05,686 - INFO -  * Restarting with stat
+2020-02-23 14:24:06,219 - WARNING -  * Debugger is active!
+2020-02-23 14:24:06,221 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 14:24:06,226 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 14:24:11,667 - ERROR - HOME------This is error from toComments function:<class 'Exception'>_______'dict' object has no attribute 'message'
+2020-02-23 14:24:11,668 - INFO - 127.0.0.1 - - [23/Feb/2020 14:24:11] "[37mPOST /api/home/toComments HTTP/1.1[0m" 200 -
+2020-02-23 14:24:31,971 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\tool\\DBConnect.py', reloading
+2020-02-23 14:24:32,000 - INFO -  * Restarting with stat
+2020-02-23 14:24:32,544 - WARNING -  * Debugger is active!
+2020-02-23 14:24:32,546 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 14:24:32,551 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 14:24:53,166 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 14:24:53,183 - INFO -  * Restarting with stat
+2020-02-23 14:24:53,718 - WARNING -  * Debugger is active!
+2020-02-23 14:24:53,720 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 14:24:53,726 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 14:24:57,252 - INFO - 127.0.0.1 - - [23/Feb/2020 14:24:57] "[37mPOST /api/home/toComments HTTP/1.1[0m" 200 -
+2020-02-23 14:25:15,367 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\home\\index.py', reloading
+2020-02-23 14:25:15,386 - INFO -  * Restarting with stat
+2020-02-23 14:25:15,913 - WARNING -  * Debugger is active!
+2020-02-23 14:25:15,915 - INFO -  * Debugger PIN: 225-166-092
+2020-02-23 14:25:15,921 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-02-23 14:25:18,015 - INFO - 127.0.0.1 - - [23/Feb/2020 14:25:18] "[37mPOST /api/home/toComments HTTP/1.1[0m" 200 -
