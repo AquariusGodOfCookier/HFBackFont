@@ -38,13 +38,16 @@ class DBConnect:
             return res
         except Exception as data:
             logging.error("%s____%s" % (Exception, data))
+
     def exce_data_commitsql(self,sql):
         try:
             self.cursor.execute(sql)
             self.db.commit()
             return "success"
         except Exception as data:
-            return data
+            print(data)
+            return "error"
+        
     def exce_insert_data(self,objects,table):
         try:
             keyList = []
@@ -70,7 +73,7 @@ class DBConnect:
             self.db.commit()
         except Exception as data:
             logging.info("DBERROR Update_data%s____%s" % (Exception, data))
-    
+
     def close(self):
         try:
             self.db.close()

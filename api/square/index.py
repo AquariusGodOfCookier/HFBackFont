@@ -2,15 +2,14 @@ import sys
 import os
 BASE_PATH = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.append(BASE_PATH + "\\tool")
-import DBConnect
-import logging
-import json
-import time
-import base64
-import datetime
+import DBConnect, Token
+import logging, socket, time, json, random, base64, hmac, hashlib, redis,datetime
 from flask import Blueprint, request, jsonify
 dblogPath = os.path.dirname(DBConnect.__file__)
 db = DBConnect.DBConnect("localhost", "root", "", "happy", dblogPath)
+r = redis.StrictRedis(host="localhost", port=6379, db=0)
+tokens = Token.Token()
+
 logging.basicConfig(
     filemode="w",
     level=logging.DEBUG,
@@ -37,23 +36,6 @@ def base64ToBufferPhoto(fileName,fileBase):
     file.close()
     return fileName
 
-# 遍历缓存区是否存在该图片
-def isBuffer(imgName):
-    bufferPath = os.getcwd()+"\\static\\bufferImage"
-    for files in os.listdir(bufferPath):
-        if(files==imgName):
-            return True
-
-# 将缓存区的图片存储到存储区中
-def bufferTostore(imgList):
-    for i in imgList:
-        if isBuffer(i):
-            BIpath = os.getcwd()+"\\static\\bufferImage\\"+i
-            with open(BIpath,"rb") as f:
-                base64_data = base64.b64decode(base64.b64encode(f.read()))
-                file = open('./static/storeImage/'+i,'wb')
-                file.write(base64_data)
-                file.close()
 
 # 获取当前时间
 def getNow():
@@ -90,32 +72,6 @@ def uploadImage():
         return jsonify({
             "status":20040,
             "message":"上传失败",
-            "type":"error"
-        })
-
-# 发布动态接口
-@square.route("/toDynamic",methods=["POST"])
-def toDynamic():
-    try:
-        res = request.get_json()
-        userId = res["userId"]
-        content = res["content"]
-        pushTime = res["pushTime"]
-        BFImage = res["image"]
-        bufferTostore(BFImage)
-        return jsonify({
-            "status":200,
-            "message":"发布成功",
-            "type":"success",
-            "data":{}
-        })
-    except Exception as data:
-        logging.error(
-            "SQUARE----This error from toDynamic function:%s______%s" % (Exception, data)
-        )
-        return jsonify({
-            "status":5001,
-            "message":"发布失败",
             "type":"error"
         })
 
