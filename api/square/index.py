@@ -10,12 +10,6 @@ db = DBConnect.DBConnect("localhost", "root", "", "happy", dblogPath)
 r = redis.StrictRedis(host="localhost", port=6379, db=0)
 tokens = Token.Token()
 
-logging.basicConfig(
-    filemode="w",
-    level=logging.DEBUG,
-    filename=os.path.dirname(os.path.abspath(__file__)) + "\HomeAPIlog.log",
-    format="%(asctime)s - %(levelname)s - %(message)s",
-)
 # 验证token
 def verificationToken(token):
     token_str = base64.urlsafe_b64decode(token).decode('utf-8')

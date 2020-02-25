@@ -11,12 +11,6 @@ dblogPath = os.path.dirname(DBConnect.__file__)
 db = DBConnect.DBConnect("localhost", "root", "", "happy", dblogPath)
 r = redis.StrictRedis(host="localhost", port=6379, db=0)
 tokens = Token.Token()
-logging.basicConfig(
-    filemode="w",
-    level=logging.DEBUG,
-    filename=os.path.dirname(os.path.abspath(__file__)) + "\HomeAPIlog.log",
-    format="%(asctime)s - %(levelname)s - %(message)s",
-)
 
 
 # @author dong.sun

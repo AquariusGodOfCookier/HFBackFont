@@ -12,13 +12,6 @@ db = DBConnect.DBConnect("localhost", "root", "", "happy", dblogPath)
 r = redis.StrictRedis(host="localhost", port=6379, db=0)
 tokens = Token.Token()
 
-logging.basicConfig(
-    filemode="w",
-    level=logging.DEBUG,
-    filename=os.path.dirname(os.path.abspath(__file__)) + "\HomeAPIlog.log",
-    format="%(asctime)s - %(levelname)s - %(message)s",
-)
-
 # @author dong.sun
 # 根据前端传来页数，每次发送pageSizes条数据返回前端
 # @return sql
