@@ -14,10 +14,13 @@ tokens = Token.Token()
 
 # @author dong.sun
 # 根据前端传来页数，每次发送pageSizes条数据返回前端
-# @return sql
-def getDBLimit(page, pageSizes):
-    pageCounts = 0 + (page - 1) * pageSizes
-    return "select * from article limit %d,%d" % (pageCounts, pageSizes)
+# @param sql 拼接的mysql语句，pageIndex页数,pageSizes 每页的查询个数
+# @return Array
+def getDBLimit(sqls,pageIndex, pageSize):
+    pageCounts = 0 + (pageIndex - 1) * pageSize
+    sql = sqls+' limit %d,%d'%(pageCounts,pageSize)
+    results = db.exce_data_all(sql)
+    return results
 
 # @author dong.sun
 # 根据用户手机号获取用户,在getRecommend接口使用
@@ -52,6 +55,29 @@ def articleGetUser(articleId):
     return userName[0]
 
 
+# @author dong.sun
+# 遍历获取文章或者动态的时候，判断该文章/动态是否点过赞
+# @return object
+def judgeIsLike(ids,phone):
+    statusid = "%s::%s" % (ids, phone)
+    if r.exists(statusid) and str(r.get(statusid), "utf-8") == "1":
+        status = True
+    else:
+        status = False
+    return status
+
+# @author dong.sun
+# 添加点赞功能,在各个点赞接口使用
+# @return string
+def toLike(ids,phone):
+    if judgeIsLike(ids,phone):
+        # 如果点过赞了
+        return 'error'
+    else:
+        statusid = "%s::%s" % (ids, phone)
+        r.set(name=statusid, value=1)
+        return 'success'
+
 # 首页推荐页
 # author dong.sun
 home = Blueprint("home", __name__)
@@ -62,32 +88,35 @@ home = Blueprint("home", __name__)
 def getRecommend():
     try:
         pageIndex = int(request.args.get("pageIndex"))
-        requestList = db.exce_data_all(getDBLimit(pageIndex, 10))
-        dataList = []
-        for data in requestList:
-            articleId = data[0]
-            title = data[1]
-            userPhone = data[2]
-            portrait = data[3]
-            userName = getUserName(userPhone)
-            dataList.append(
-                {
-                    "articleId": articleId,
-                    "title": title,
-                    "userPhone": userPhone,
-                    "userName": userName,
-                    "portrait": portrait,
-                }
-            )
-        return jsonify(
-            {
+        A_type = request.args.get("type")
+        resultsList = getDBLimit("select * from article where A_type='%s'"%A_type,pageIndex,10)
+        if resultsList==None:
+            return jsonify({
                 "status": 200,
                 "message": "查询成功",
                 "type": "success",
-                "data": {"articleList": dataList},
-            }
-        )
+                "data": ""
+            })
+        else:
+            dataList = []
+            for data in resultsList:
+                articleId = data[0]
+                title = data[1]
+                userPhone = data[2]
+                portrait = data[3]
+                userName = getUserName(userPhone)
+                dataList.append(
+                    {
+                        "articleId": articleId,
+                        "title": title,
+                        "userPhone": userPhone,
+                        "userName": userName,
+                        "portrait": portrait,
+                    }
+                )
+            return jsonify({"status": 200,"message": "查询成功","type": "success","data": {"articleList": dataList},})
     except Exception as data:
+        print(data)
         logging.error(
             "HOME----This error from getRecommend function:%s______%s"
             % (Exception, data)
@@ -141,7 +170,6 @@ def getDetails():
             }
         )
     except Exception as data:
-        print(data)
         logging.error(
             "HOME------This is error from getDetails function:%s_______%s"
             % (Exception, data)
@@ -206,66 +234,9 @@ def getDetailsComments():
         return jsonify({"status": 5002, "message": "数据库查询失败", "type": "error"})
 
 
-# 评论点赞接口,需要验证登陆
-@home.route("/toLikeComments", methods=["POST"])
-def toLikeComments():
-    try:
-        # 验证Token
-        token = request.headers["Token"]
-        Phone = request.headers["userPhone"]
-        if tokens.verificationToken(Phone, token):
-            # 主要内容
-            res = request.get_json()
-            commentsId = res["commentsId"]
-            statusid = "%s::%s" % (commentsId, Phone)
-            r.set(name=statusid, value=1)
-            db.exce_update_data(
-                "update comment set Comment_likeCounts = Comment_likeCounts +1 where Comment_id = '%s'"
-                % commentsId
-            )
-            return jsonify({"status": 200, "message": "点赞成功", "type": "success"})
-        else:
-            return jsonify({"status": 1004, "message": "token过期", "type": "error"})
-    except Exception as data:
-        print(data)
-        logging.error(
-            "HOME------This is error from toLikeComments function:%s_______%s"
-            % (Exception, data)
-        )
-        return jsonify({"status": 5001, "message": "数据库添加失败", "type": "error"})
-
-
-# 取消评论点赞接口，需要验证登陆
-@home.route("/cancelLikeComments", methods=["post"])
-def cancelLikeComments():
-    try:
-        # 验证Token
-        token = request.headers["Token"]
-        Phone = request.headers["userPhone"]
-        if tokens.verificationToken(Phone, token):
-            # 主要内容
-            res = request.get_json()
-            commentsId = res["commentsId"]
-            statusid = "%s::%s" % (commentsId, Phone)
-            r.delete(statusid)
-            db.exce_update_data(
-                "update comment set Comment_likeCounts = Comment_likeCounts -1 where Comment_id = '%s'"
-                % commentsId
-            )
-            return jsonify({"status": 200, "message": "取消点赞成功", "type": "success"})
-        else:
-            return jsonify({"status": 1004, "message": "token过期", "type": "error"})
-    except Exception as data:
-        logging.error(
-            "HOME------This is error from toLikeComments function:%s_______%s"
-            % (Exception, data)
-        )
-        return jsonify({"status": 5001, "message": "发生了某些意料以外的错误", "type": "error"})
-
-
 # 文章评论接口，需要验证登陆
-@home.route("/toComments", methods=["POST"])
-def toComments():
+@home.route("/addComments", methods=["POST"])
+def addComments():
     try:
         # 验证token
         token = request.headers["Token"]
@@ -276,11 +247,15 @@ def toComments():
             commentTime = getNow(1)
             commentId = "CA" + phone + getNow(0)
             commentContent = res["commentContent"]
-            sql = (
+            sqlComment = (
                 "insert into comment (Comment_id,Commented_id,U_phone,Comment_time,Comment_content) values('%s','%s','%s','%s','%s')"
                 % (commentId, articleId, phone, commentTime, commentContent)
             )
-            db.exce_data_commitsql(sql)
+            sqlCommentCount = (
+                "update articlecontent set A_comments = A_comments + 1 where A_id = '%s'"
+                %articleId
+            )
+            db.exce_data_commitsqls([sqlComment,sqlCommentCount])
             return jsonify({"status": 200, "message": "评论成功", "type": "success"})
         else:
             return jsonify({"status": 1004, "message": "token过期", "type": "info"})
@@ -293,8 +268,8 @@ def toComments():
 
 
 # 文章点赞接口,需要验证登陆
-@home.route("/toLikeArticle",methods=["POST"])
-def toLikeArticle():
+@home.route("/updateLikeArticle",methods=["PUT"])
+def updateLikeArticle():
     try:
         # 验证Token
         token = request.headers["Token"]
@@ -303,40 +278,66 @@ def toLikeArticle():
             # 主要内容
             res = request.get_json()
             articleId = res["articleId"]
-            statusid = "%s::%s" % (articleId, phone)
-            r.set(name=statusid, value=1)
-            db.exce_update_data(
-                "update articlecontent set A_likeCounts = A_likeCounts +1 where A_id = '%s'"
-                % articleId
-            )
-            return jsonify({"status": 200, "message": "点赞成功", "type": "success"})
+            likeType = int(res["type"])
+            if likeType == 0:
+                # 点赞
+                result = toLike(articleId,phone)
+                if result =='error':
+                    return jsonify({"status": 200, "message": "已经点过赞了", "type": "info"})
+                elif result=='success':
+                    db.exce_update_data(
+                        "update articlecontent set A_likeCounts = A_likeCounts +1 where A_id = '%s'"
+                        % articleId
+                    )
+                    return jsonify({"status": 200, "message": "点赞成功", "type": "success"})
+            else:
+                statusid = "%s::%s" % (articleId, phone)
+                r.delete(statusid)
+                db.exce_update_data(
+                    "update articlecontent set A_likeCounts = A_likeCounts -1 where A_id = '%s'"
+                    % articleId
+                )
+                return jsonify({"status": 200, "message": "取消点赞成功", "type": "success"})
         else:
             return jsonify({"status": 1004, "message": "token过期", "type": "error"})
     except Exception as data:
         logging.error(
-            "HOME------This is error from toLikeComments function:%s_______%s"
+            "HOME------This is error from toLikeArticle function:%s_______%s"
             % (Exception, data)
         )
         return jsonify({"status": 5001, "message": "发生了意料以外的错误", "type": "error"})
 
-# 取消文章点赞接口,需要验证登陆
-@home.route("/cancelLikeArticle",methods=["POST"])
-def cancelLikeArticle():
+# 评论点赞接口,需要验证登陆
+@home.route("/updateLikeComments", methods=["PUT"])
+def updateLikeComments():
     try:
         # 验证Token
         token = request.headers["Token"]
-        Phone = request.headers["userPhone"]
-        if tokens.verificationToken(Phone, token):
+        phone = request.headers["userPhone"]
+        if tokens.verificationToken(phone, token):
             # 主要内容
             res = request.get_json()
-            articleId = res["articleId"]
-            statusid = "%s::%s" % (articleId, Phone)
-            r.delete(statusid)
-            db.exce_update_data(
-                "update articlecontent set A_likeCounts = A_likeCounts -1 where A_id = '%s'"
-                % articleId
-            )
-            return jsonify({"status": 200, "message": "取消点赞成功", "type": "success"})
+            commentsId = res["commentsId"]
+            likeType = int(res["type"])
+            if likeType == 0:
+                #点赞
+                result = toLike(commentsId,phone)
+                if result == 'error':
+                    return jsonify({"status": 200, "message": "已经点过赞了", "type": "info"})
+                elif result=='success':
+                    db.exce_update_data(
+                        "update comment set Comment_likeCounts = Comment_likeCounts +1 where Comment_id = '%s'"
+                        % commentsId
+                    )
+                    return jsonify({"status": 200, "message": "点赞成功", "type": "success"})
+            else:
+                statusid = "%s::%s" % (commentsId, phone)
+                r.delete(statusid)
+                db.exce_update_data(
+                    "update comment set Comment_likeCounts = Comment_likeCounts -1 where Comment_id = '%s'"
+                    % commentsId
+                )
+                return jsonify({"status": 200, "message": "取消点赞成功", "type": "success"})
         else:
             return jsonify({"status": 1004, "message": "token过期", "type": "error"})
     except Exception as data:
@@ -344,4 +345,5 @@ def cancelLikeArticle():
             "HOME------This is error from toLikeComments function:%s_______%s"
             % (Exception, data)
         )
-        return jsonify({"status": 5001, "message": "发生了某些意料以外的错误", "type": "error"})
+        return jsonify({"status": 5001, "message": "数据库添加失败", "type": "error"})
+

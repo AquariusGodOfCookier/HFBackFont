@@ -23,6 +23,18 @@ def getNow(type):
         return datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
 # @author dong.sun
+# base64转换图片存到缓存区
+# @reuturn string 在上传图片接口使用
+def base64ToBufferPhoto(fileName,fileBase):
+    imgdata = base64.b64decode(fileBase)
+    file = open('./static/bufferImage/'+fileName,'wb')
+    file.write(imgdata)
+    file.close()
+    return fileName
+
+
+
+# @author dong.sun
 # 遍历缓存区，如果有相同的图片，说明提交的就是该图片
 # @reuturn string 在发布动态接口中引用
 def isBuffer(imgName):
@@ -54,8 +66,8 @@ def bufferTostore(imgList):
 push = Blueprint("push", __name__)
 
 # 发布文章接口,需要验证登陆
-@push.route("/toPushArticle", methods=["POST"])
-def toPushArticle():
+@push.route("/addArticle", methods=["POST"])
+def addArticle():
     try:
         # 验证token
         token = request.headers["Token"]
@@ -65,13 +77,15 @@ def toPushArticle():
             title = res["title"]
             content = res["content"]
             portraitUrl = res["portrait"]
+            A_type = res["type"]
             releaseTime = getNow(1)
             articleId = "Article" + phone + getNow(0)
             db.exce_insert_data({
                 "A_id":"'%s'"%articleId,
                 "A_title":"'%s'"%title,
                 "U_Phone":"'%s'"%phone,
-                "A_image":"'%s'"%portraitUrl
+                "A_image":"'%s'"%portraitUrl,
+                "A_type":"'%s'"%A_type
             },'article')
             sql = (
                 "insert into articlecontent (A_id,A_content,A_releaseTime) values('%s','%s','%s')"
@@ -89,9 +103,8 @@ def toPushArticle():
         return jsonify({"status": 5001, "message": "发生了某些意料之外的错误", "type": "error"})
 
 # 发布动态接口,需要验证登陆
-# 发布动态接口
-@push.route("/toDynamic",methods=["POST"])
-def toDynamic():
+@push.route("/addDynamic",methods=["POST"])
+def addDynamic():
     try:
         # 验证token
         token = request.headers["Token"]
@@ -105,8 +118,13 @@ def toDynamic():
             pushTime = getNow(1)
             storeList = bufferTostore(imageList)
             D_id = 'Dynamic'+phone+getNow(0)
+            for span_title in labelList:
+                db.exce_update_data(
+                    "update spanmanage set DegreeOfHeat = DegreeOfHeat +1 where Span_title = '%s'"
+                    % span_title
+                )
             strLabelList = ','.join(labelList)
-            strStoreList = '.'.join(storeList)
+            strStoreList = ','.join(storeList)
             sql = (
                 "insert into dynamic(U_Phone,D_id,D_time,D_content,D_image,D_span,D_address) values('%s','%s','%s','%s','%s','%s','%s')"
                 %(phone,D_id,pushTime,content,strStoreList,strLabelList,address)
@@ -128,5 +146,28 @@ def toDynamic():
         return jsonify({
             "status":5001,
             "message":"发生了某些意料以外的错误",
+            "type":"error"
+        })
+
+# 上传图片接口.不需要验证登陆，只是一个功能性接口
+@push.route("/uploadImage",methods=["POST"])
+def uploadImage():
+    try:
+        res = request.get_json()
+        fileName = res["fileName"]
+        fileBase = res["fileBase"]
+        imageUrl = base64ToBufferPhoto(fileName,fileBase)
+        return jsonify({
+            "status":200,
+            "message":"上传成功",
+            "type":"success",
+            "data":{
+                "imageUrl":imageUrl
+            }
+        })
+    except Exception as data:
+        return jsonify({
+            "status":20040,
+            "message":"上传失败",
             "type":"error"
         })

@@ -46,6 +46,14 @@ def getNow(type):
     elif type == 1:
         return datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
+# @author dong.sun
+# 登陆之后，修改用户最后登陆时间
+# @param phone 用户手机号
+# @return
+def updateLastLoginTime(phone):
+    lastLoginTime = getNow(1)
+    sql = "update user set U_lastLoginTime = '%s' where U_phone = '%s'"%(lastLoginTime,phone)
+    db.exce_data_commitsql(sql)
 
 user = Blueprint("user", __name__)
 # 登陆接口
@@ -61,6 +69,7 @@ def login():
             )[0]
             if PWEncryption(password) == DBpassword:
                 token = tokens.generateToken(userPhone)
+                updateLastLoginTime(userPhone)
                 return jsonify(
                     {
                         "status": 200,
@@ -78,6 +87,7 @@ def login():
                 MessageCode = r.get(userPhone)
                 if str(MessageCode, "utf-8") == messageCode:
                     token = tokens.generateToken(userPhone)
+                    updateLastLoginTime(userPhone)
                     return jsonify(
                         {
                             "status": 200,
@@ -92,8 +102,10 @@ def login():
                     )
             else:
                 return jsonify({"status": 1003, "message": "验证码已过期", "type": "error"})
-
     except Exception as data:
+        logging.error(
+            "USER----This error from Login function:%s______%s" % (Exception, data)
+        )
         return jsonify({"status": 5002, "message": "登陆失败", "type": "error"})
 
 
@@ -186,7 +198,7 @@ def getMyArticle():
 
 
 # 删除我发布过的某个文章
-@user.route("/delMyArticle", methods=["POST"])
+@user.route("/delMyArticle", methods=["DELETE"])
 def delMyArticle():
     try:
         # 验证Token
@@ -196,7 +208,7 @@ def delMyArticle():
             res = request.get_json()
             articleIdList = res["articleIdList"]
             for articleId in articleIdList:
-                sql = "DELETE FROM article where A_id ='%s'" % articleId
+                sql = "DELETE FROM article where A_id ='%s' and U_phone ='%s'" % (articleId,phone)
                 result = db.exce_data_commitsql(sql)
             return jsonify(
                 {"status": 200, "message": "删除成功", "type": "success", "data": result}
@@ -209,6 +221,7 @@ def delMyArticle():
             % (Exception, data)
         )
         return jsonify({"status": 5002, "message": "发生了某些意料以外的错误", "type": "error"})
+
 
 
 # 查看我发布过的动态
@@ -272,7 +285,7 @@ def getMyDynamic():
 
 
 # 删除我发布过的动态
-@user.route("/delMyDynamic", methods=["POST"])
+@user.route("/delMyDynamic", methods=["DELETE"])
 def delMyDynamic():
     try:
         # 验证token
@@ -281,7 +294,7 @@ def delMyDynamic():
         if tokens.verificationToken(phone, token):
             res = request.get_json()
             dynamicId = res["dynamicId"]
-            sql = "delete from dynamic where D_id = '%s'" % dynamicId
+            sql = "delete from dynamic where D_id = '%s' and U_phone ='%s'" % (dynamicId,phone)
             result = db.exce_data_commitsql(sql)
             return jsonify({"status": 200, "message": "删除成功", "type": result})
         else:
