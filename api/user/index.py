@@ -115,7 +115,6 @@ def register():
     try:
         res = request.get_json()
         userPhone = res["userPhone"]
-        print(userPhone)
         if checkIsRegister(userPhone):
             return jsonify({"status": 2001, "message": "该手机号已经被注册，可通过验证码登陆", "type": "success"})
         else:
@@ -127,10 +126,10 @@ def register():
             userPhone = res["userPhone"]
             birthday = res["birthday"]
             time = getNow(1)
-            G_id = res["G_id"]
+            userId = getNow(0)+PWEncryption(userPhone)
             sql = (
-                "insert into user (G_id,U_name,U_password,U_mailbox,U_portrait,U_birthday,U_phone,U_registerTime,U_lastLoginTime) values ('%s','%s','%s','%s','%s','%s','%s','%s','%s')"
-                %(G_id,userName,password,mailbox,portrait,birthday,userPhone,time,time)
+                "insert into user (U_id,U_name,U_password,U_mailbox,U_portrait,U_birthday,U_phone,U_registerTime,U_lastLoginTime) values ('%s','%s','%s','%s','%s','%s','%s','%s','%s')"
+                %(userId,userName,password,mailbox,portrait,birthday,userPhone,time,time)
             )
             result = db.exce_data_commitsql(sql)
             return jsonify({"status": 200, "message": "注册成功", "type": result})

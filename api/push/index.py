@@ -85,7 +85,8 @@ def addArticle():
                 "A_title":"'%s'"%title,
                 "U_Phone":"'%s'"%phone,
                 "A_image":"'%s'"%portraitUrl,
-                "A_type":"'%s'"%A_type
+                "A_type":"'%s'"%A_type,
+                "A_releaseTime":"'%s'"%releaseTime
             },'article')
             sql = (
                 "insert into articlecontent (A_id,A_content,A_releaseTime) values('%s','%s','%s')"
@@ -95,10 +96,11 @@ def addArticle():
             return jsonify({"status": 200, "message": "发布成功", "type": "success"})
         else:
             return jsonify({"status": 1004, "message": "token过期", "type": "info"})
-    except Exception as data:
+    except Exception as err:
+        print(err)
         logging.error(
             "HOME------This is error from toPushArticle function:%s_______%s"
-            % (Exception, data)
+            % (Exception, err)
         )
         return jsonify({"status": 5001, "message": "发生了某些意料之外的错误", "type": "error"})
 

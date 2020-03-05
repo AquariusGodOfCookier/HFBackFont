@@ -4,7 +4,8 @@ import traceback
 import io
 import sys
 import os
-
+import time
+import threading
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
 
 
@@ -14,6 +15,7 @@ class DBConnect:
             host=host, user=user, password=password, database=database
         )
         self.cursor = self.db.cursor()
+        self.lock = threading.Lock()
         logging.basicConfig(
             filename=logPath + "\dblog.log",
             level=logging.DEBUG,
@@ -24,7 +26,9 @@ class DBConnect:
     def exce_data_all(self, sql):
         res = ""
         try:
+            self.lock.acquire()
             self.cursor.execute(sql)
+            self.lock.release()
             res = self.cursor.fetchall()
             return res
         except Exception as data:
@@ -33,16 +37,21 @@ class DBConnect:
     def exce_data_one(self,sql):
         res = ""
         try:
+            self.lock.acquire()
             self.cursor.execute(sql)
+            self.lock.release()
             res = self.cursor.fetchone()
             return res
         except Exception as data:
+            print(data)
             logging.error("%s____%s" % (Exception, data))
             return "error"
 
     def exce_data_commitsql(self,sql):
         try:
+            self.lock.acquire()
             self.cursor.execute(sql)
+            self.lock.release()
             self.db.commit()
             return "success"
         except Exception as data:
@@ -73,7 +82,9 @@ class DBConnect:
             keyStr = ','.join(keyList)
             valueStr = ','.join(valueList)
             sql = "insert into %s (%s) values (%s)"%(table,keyStr,valueStr)
+            self.lock.acquire()
             self.cursor.execute(sql)
+            self.lock.release()
             self.db.commit()
             return 'success'
         except Exception as data:
@@ -83,7 +94,9 @@ class DBConnect:
     
     def exce_update_data(self,sql):
         try:
+            self.lock.acquire()
             self.cursor.execute(sql)
+            self.lock.release()
             self.db.commit()
         except Exception as data:
             self.db.rollback()
