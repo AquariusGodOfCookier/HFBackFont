@@ -9,7 +9,7 @@ dblogPath = os.path.dirname(DBConnect.__file__)
 db = DBConnect.DBConnect("localhost", "root", "", "happy", dblogPath)
 r = redis.StrictRedis(host="localhost", port=6379, db=0)
 tokens = Token.Token()
-
+myaddr = socket.gethostbyname(socket.gethostname())
 # 验证token
 def verificationToken(token):
     token_str = base64.urlsafe_b64decode(token).decode('utf-8')
@@ -48,7 +48,7 @@ def getDBLimit(sqls,pageIndex, pageSize):
 # 根据用户手机号获取该用户的用户名，头像信息,在广场页推荐接口使用
 # @return object
 def getUserInfoByPhone(userPhone):
-    sql = "select U_name,U_portrait from user where U_phone = %s"%userPhone
+    sql = "select U_id,U_name,U_portrait from user where U_phone = %s"%userPhone
     results = db.exce_data_one(sql)
     return results
 
@@ -76,16 +76,25 @@ def toLike(ids,phone):
         return 'success'
 
 # @author dong.sun
-# 通过标签name判断该标签是否被创建过,在创建标签接口中使用
-# @return Boolean
-def isHaveThisLabel(labelName):
-    sql = "select * from spanmanage where Span_title = '%s'"%labelName
-    result = db.exce_data_one(sql)
-    if result == None:
-        # 如果为空，说明没有创建过，返回false
-        return False
-    else:
-        return True
+# 将图片路径拼接成可以获取的图片路径
+# @return string
+def getLocalImageUrl(imageName):
+    f = open("./log/config.json",encoding='utf-8')
+    setting = json.load(f)
+    port = setting['port']
+    myaddr = socket.gethostbyname(socket.gethostname())
+    imageUrl = "http://%s:%s/static/storeImage/%s"%(myaddr,port,imageName)
+    return imageUrl
+
+# @author dong.sun
+# 将从数据库取出的数据转换成数组并且拼接成可以获取的图片路径
+# @return list
+def changeImageList(imgStr):
+    imageList = imgStr.split(',')
+    imagesList = []
+    for img in imageList:
+        imagesList.append(getLocalImageUrl(img))
+    return imagesList
 
 # 广场页
 square = Blueprint("square",__name__)
@@ -98,52 +107,35 @@ def getRecommend():
         phone = request.headers["userPhone"]
         if tokens.verificationToken(phone,token):
             pageIndex = int(request.args.get("pageIndex"))
-            resultsList = getDBLimit("select * from dynamic where U_phone<>%s"%phone,pageIndex,10)
+            results = getDBLimit("select * from dynamic where U_phone<>%s order by D_time DESC"%phone,pageIndex,1)
             dynamicList = []
-            myaddr = socket.gethostbyname(socket.gethostname())
-            f = open("./log/config.json", encoding="utf-8")
-            setting = json.load(f)
-            port = setting["port"]
-            for data in resultsList:
+            userInfo = []
+            for data in results:
                 userPhone = data[0]
-                dynamicId = data[1]
-                time = data[2]
-                content = data[3]
-                imags = data[4]
-                labelList = data[5]
-                address = data[6]
-                likeCounts = data[7]
-                comments = data[8]
-                user = getUserInfoByPhone(userPhone)
-                userName = user[0]
-                portrait = user[1]
-                status = judgeIsLike(dynamicId,phone)
-                images = imags.split(",")
-                imageList = []
-                for image in images:
-                    imageList.append(myaddr + ":" + str(port) + image)
-                labelList = labelList.split(",")
-                dynamicList.append(
-                    {
-                        "userPhone":userPhone,
-                        "dynamicId": dynamicId,
-                        "time": time,
-                        "userName":userName,
-                        "portrait":portrait,
-                        "content": content,
-                        "imageList": imageList,
-                        "labelList": labelList,
-                        "address": address,
-                        "likeCounts": likeCounts,
-                        "comments": comments,
-                        "status":status
-                    }
-                )
+                userInfoList = getUserInfoByPhone(userPhone)
+                userInfo.append({
+                    "userId":userInfoList[0],
+                    "userName":userInfoList[1],
+                    "userPortrait":userInfoList[2]
+                })
+                dynamicList.append({
+                    "dynamicId":data[1],
+                    "pushTime":data[2],
+                    "content":data[3],
+                    "imageList":changeImageList(data[4]),
+                    "labelList":data[5].split(','),
+                    "address":data[6],
+                    "likeCounts":int(data[7]),
+                    "comments":int(data[8])
+                })
             return jsonify({
                 "status":200,
                 "message":"查询成功",
                 "type":"success",
-                "data": {"dynamicList": dynamicList},
+                "data": {
+                    "dynamicList": dynamicList,
+                    "userInfo":userInfo
+                },
             })
         else:
             return jsonify({"status": 1004, "message": "token过期", "type": "info"})
@@ -155,42 +147,6 @@ def getRecommend():
         )
         return jsonify({"status": 5001, "message": "发生了某些意料之外的错误", "type": "error"})
 
-# 创建标签接口
-@square.route("/addLabel",methods=["POST"])
-def addLabel():
-    try:
-        token = request.headers["Token"]
-        phone = request.headers["userPhone"]
-        if tokens.verificationToken(phone,token):
-            res = request.get_json()
-            labelName = res["label_name"]
-            if isHaveThisLabel(labelName):
-                #如果存在这个label
-                return jsonify({
-                    "status":2002,
-                    "message":"该标签已经存在，您可以通过搜索该标签添加",
-                    "type":"success"
-                })
-            else:
-                results = db.exce_insert_data({
-                    "Span_title":"'%s'"%labelName
-                },"spanmanage")
-                return jsonify({
-                    "status":200,
-                    "message":"创建成功",
-                    "type":results
-                })
-        else:
-            return jsonify({"status": 1004, "message": "token过期", "type": "info"})
-    except Exception as data:
-        logging.error(
-            "SQUARE----This error from createLabel function:%s______%s"%(Exception,data)
-        )
-        return jsonify({
-            "status":5001,
-            "message":"创建失败",
-            "type":"error"
-        })
 
 # 查询标签接口
 @square.route("/getLabels",methods=["GET"])
@@ -199,8 +155,7 @@ def getLabels():
         token = request.headers["Token"]
         phone = request.headers["userPhone"]
         if tokens.verificationToken(phone,token):
-            pageIndex = int(request.args.get('pageIndex'))
-            resultsList = getDBLimit('select * from spanmanage',pageIndex,20)
+            resultsList = getDBLimit("select Span_title from spanmanage order by DegreeOfHeat DESC",1,10)
             labelList = []
             for data in resultsList:
                 labelList.append(data[0])

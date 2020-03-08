@@ -61,7 +61,7 @@ def getNow(type):
 # @return String
 def articleGetUser(articleId):
     user = db.exce_data_one(
-        "select U_name,U_portrait,U_phone from user where U_phone in (select U_phone from article where A_id ='%s')"
+        "select U_name,U_portrait,U_id from user where U_phone in (select U_phone from article where A_id ='%s')"
         % (articleId)
     )
     return user
@@ -138,6 +138,16 @@ def judgeIsAttention(lists, ids):
         status = 2
     return status
 
+# @author dong.sun
+# 将图片路径拼接成可以获取的图片路径
+# @return string
+def getLocalImageUrl(imageName):
+    f = open("./log/config.json",encoding='utf-8')
+    setting = json.load(f)
+    port = setting['port']
+    myaddr = socket.gethostbyname(socket.gethostname())
+    imageUrl = "http://%s:%s/static/storeImage/%s"%(myaddr,port,imageName)
+    return imageUrl
 
 # 首页推荐页
 # author dong.sun
@@ -161,8 +171,7 @@ def getRecommend():
             for data in results:
                 articleInfo={
                     "id":data[0],
-                    "preview":data[3],
-                    "time":data[5],
+                    "preview":getLocalImageUrl(data[3]),
                     "title":data[1],
                     "type":data[4]
                 }
@@ -171,11 +180,11 @@ def getRecommend():
                     "userId":getUserInfo(data[2])[1],
                     "userName":getUserInfo(data[2])[0]
                 }
-
                 articleList.append({
                     "articleInfo":articleInfo,
                     "userInfo":userInfo
                 })
+            
             return jsonify({
                 "status":200,
                 "message":"请求成功",
@@ -196,63 +205,64 @@ def getRecommend():
 
 
 # 首页文章详情页,不需要是否验证登陆;如果登陆了则显示点赞状态，没登陆则只显示点赞数量，不显示状态
-@home.route("/getDetails", methods=["GET"])
-def getDetails():
+@home.route("/getDetail", methods=["GET"])
+def getDetail():
     try:
-        token = ""
-        try:
-            # 已经登陆了
-            token = request.headers["Token"]
-            phone = request.headers["userPhone"]
-        except:
-            token = ""
-            phone = ""
-        articleId = request.args.get("articleId")
-        # 根据文章id寻找到用户信息
-        user = articleGetUser(articleId)
-        userName = user[0]
-        portrait = user[1]
-        userPhone = user[2]
-        AdbList = db.exce_data_one(
-            "select * from articlecontent where A_id = '%s'" % articleId
-        )
-        content = AdbList[1]
-        releaseTime = AdbList[2]
-        likeCounts = AdbList[3]
-        comments = AdbList[4]
-        if token != "" and phone != "":
-            # 这里是登录了的,看是否给这个文章点过赞
+        token = request.headers["Token"]
+        phone = request.headers["userPhone"]
+        if tokens.verificationToken(phone, token):
+            articleId = request.args.get("articleId")
+            # 根据文章id寻找到用户信息
+            user = articleGetUser(articleId)
             statusid = "%s::%s" % (articleId, phone)
             if r.exists(statusid) and str(r.get(statusid), "utf-8") == "1":
                 status = True
             else:
                 status = False
-        else:
-            status = False
-        return jsonify(
-            {
-                "status": 200,
-                "message": "查询成功",
-                "type": "success",
-                "data": {
-                    "articleId": articleId,
-                    "content": content,
-                    "releaseTime": releaseTime,
-                    "likeCounts": likeCounts,
-                    "user": {
-                        "userName": userName,
-                        "userPhone": userPhone,
-                        "portrait": portrait,
-                    },
-                    "comments": comments,
-                    "status": status,
-                },
+            articleContentList = db.exce_data_one(
+                "select * from articlecontent where A_id = '%s'" % articleId
+            )
+            articleInfo = db.exce_data_one(
+                "select * from article where A_id = '%s'"%articleId
+            )
+            userList = {
+                "userName":user[0],
+                "portrait":user[1],
+                "userId":user[2]
             }
-        )
-    except Exception as data:
+            articleContent = {
+                "content":articleContentList[1],
+                "releaseTime":articleContentList[2],
+                "likeCounts":articleContentList[3],
+                "comments":articleContentList[4],
+                "status":status
+            }
+            articleInfo = {
+                "title":articleInfo[1],
+                "portrait":getLocalImageUrl(articleInfo[3]),
+                "type":articleInfo[4]
+            }
+            print(articleContent)
+            # 这里是登录了的,看是否给这个文章点过赞
+            return jsonify(
+                {
+                    "status": 200,
+                    "message": "查询成功",
+                    "type": "success",
+                    "data": {
+                        "articleContent":articleContent,
+                        "user": userList,
+                        'articleInfo':articleInfo,
+                    },
+                }
+            )
+        else:
+            return jsonify({"status": 1004, "message": "token过期", "type": "error"})
+    except Exception as err:
+        print(err)
         logging.error(
             "HOME------This is error from getDetails function:%s_______%s"
-            % (Exception, data)
+            % (Exception, err)
         )
         return jsonify({"status": 5002, "message": "查询失败", "type": "error"})
 
@@ -568,10 +578,13 @@ def getFollowGames():
                 "select U_attention_games from userattentions where U_phone='%s'"
                 % phone
             )[0]
-            gamestr = results.split(",")
-            gameList = []
-            for i in gamestr:
-                gameList.append(getGameList(i))
+            if results=='' or results == None:
+                gameList = []
+            else:
+                gamestr = results.split(",")
+                gameList = []
+                for i in gamestr:
+                    gameList.append(getGameList(i))
             return jsonify(
                 {
                     "status": 200,
@@ -610,7 +623,10 @@ def getAllGames():
                 "select U_attention_games from userattentions where U_phone='%s'"
                 % phone
             )[0]
-            MyGame = Myresults.split(",")
+            if Myresults == None:
+                MyGame = ''
+            else:
+                MyGame = Myresults.split(",")
             CGList = []
             MGList = []
             for i in CGSQL:
@@ -664,7 +680,6 @@ def searchGame():
         content = res["content"]
         args = "%" + content + "%"
         results = db.exce_data_all("select * from game where G_name like '%s'" % args)
-        print(results)
         game = []
         for item in results:
             game.append(
@@ -716,7 +731,10 @@ def updateGameAttention():
             else:
                 # 加入
                 MyGame = db.exce_data_one("select U_attention_games from userattentions where U_phone='%s' for update"% phone)[0]
-                MyGame = MyGame+','+gameId
+                if MyGame == '' or MyGame == None:
+                    MyGame = gameId
+                else:
+                    MyGame = MyGame+','+gameId
                 db.exce_update_data(
                     "update userattentions set U_attention_games = '%s' where U_phone ='%s'"
                     %(MyGame,phone)
@@ -728,10 +746,10 @@ def updateGameAttention():
                 return jsonify({"status": 200, "message": "加入成功", "type": "success"})
         else:
             return jsonify({"status": 1004, "message": "token过期", "type": "error"})
-    except Exception as data:
-        print(data)
+    except Exception as err:
+        print(err)
         logging.error(
             "SQUARE------This is error from updateGameAttention function:%s_______%s"
-            % (Exception, data)
+            % (Exception, err)
         )
         return jsonify({"status": 5001, "message": "发生了意料以外的错误", "type": "error"})

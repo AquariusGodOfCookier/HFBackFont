@@ -53,11 +53,17 @@ class DBConnect:
             self.cursor.execute(sql)
             self.lock.release()
             self.db.commit()
-            return "success"
-        except Exception as data:
+            return {
+                "type":"success",
+                "msg":"提交成功"
+            }
+        except Exception as err:
             self.db.rollback()
-            print(data)
-            return "error"
+            logging.info("DBERROR exce_data_commitsql%s____%s" % (Exception, err))
+            return {
+                "type":'error',
+                "msg":err
+            }
 
     def exce_data_commitsqls(self,objects):
         try:
@@ -98,9 +104,11 @@ class DBConnect:
             self.cursor.execute(sql)
             self.lock.release()
             self.db.commit()
+            return 'success'
         except Exception as data:
             self.db.rollback()
             logging.info("DBERROR Update_data%s____%s" % (Exception, data))
+            return 'error'
 
     def close(self):
         try:
