@@ -1,6 +1,8 @@
 import sys
 import os
 import re
+import random
+import string
 BASE_PATH = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.append(BASE_PATH + "\\tool")
 import DBConnect, Token
@@ -80,7 +82,6 @@ def analyArticle(content):
     pattern =r"bufferImage/(.*?g|.*?G)"
     reg = re.compile(pattern)
     m1 = re.findall(reg,content)
-    print(m1)
     bufferImageToStore(m1[0])
     return m1
 
@@ -117,7 +118,7 @@ def addArticle():
             portraitUrl = res["portrait"]
             A_type = res["type"]
             releaseTime = getNow(1)
-            articleId = phone + getNow(0)
+            articleId = encryPhone(phone)+random.choice(string.ascii_lowercase)+getNow(0)
             articleImages = analyArticle(content)
             portraiImage = analyArticle(portraitUrl)
             imgList = articleImages+portraiImage
@@ -158,32 +159,41 @@ def addDynamic():
             imageList = json.loads(res["imageList"])
             address = res["address"]
             labelList = json.loads(res["labelList"])
-            for span_title in labelList:
-                if isHaveThisLabel(span_title):
-                    # 已经创建过该值了
-                    result = db.exce_update_data(
-                        "update spanmanage set DegreeOfHeat = DegreeOfHeat +1 where Span_title = '%s'"
-                        %span_title
-                    )
-                    if result == 'error':
-                        return jsonify({"status": 5001, "message": "插入标签失败", "type": "error"})
-                else:
-                    # 创建标签
-                    sqlContent = (
-                        "insert into spanmanage(Span_title,DegreeOfHeat) values('%s',1)"
-                        %(span_title)
-                    )
-                    result = db.exce_data_commitsql(sqlContent)
-                    if result == 'error':
-                        return jsonify({"status": 5001, "message": "创建标签失败", "type": "error"})
-            strimage = []
-            for imglist in imageList:
+            if len(labelList) == 0:
+                strLabelList = ''
+            else:
+                for span_title in labelList:
+                    if isHaveThisLabel(span_title):
+                        # 已经创建过该值了
+                        result = db.exce_update_data(
+                            "update spanmanage set DegreeOfHeat = DegreeOfHeat +1 where Span_title = '%s'"
+                            %span_title
+                        )
+                        if result == 'error':
+                            return jsonify({"status": 5001, "message": "插入标签失败", "type": "error"})
+                    else:
+                        # 创建标签
+                        sqlContent = (
+                            "insert into spanmanage(Span_title,DegreeOfHeat) values('%s',1)"
+                            %(span_title)
+                        )
+                        result = db.exce_data_commitsql(sqlContent)
+                        if result == 'error':
+                            return jsonify({"status": 5001, "message": "创建标签失败", "type": "error"})
+                strLabelList = ",".join(labelList)
+            if len(imageList) == 0:
+                strimageList = ''
+            else:
+                strimage = []
                 bufferImageToStore(imageList)
-                strimage.append(analyArticle(imglist)[0])
-            dynamicId = encryPhone(phone)+getNow(0)
+                print(imageList)
+                for imglist in imageList:
+                    strimage.append(analyArticle(imglist)[0])
+                strimageList = ','.join(strimage)
+            print(strimageList,'----')
+            dynamicId = encryPhone(phone)+random.choice(string.ascii_lowercase)+getNow(0)
             pushTime = getNow(1)
-            strLabelList = ",".join(labelList)
-            strimageList = ",".join(strimage)
+            
             sql = (
                 "insert into dynamic(U_Phone,D_id,D_time,D_content,D_image,D_span,D_address) values('%s','%s','%s','%s','%s','%s','%s')"
                 % (phone, dynamicId, pushTime, content, strimageList, strLabelList, address)

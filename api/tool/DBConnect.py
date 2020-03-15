@@ -58,23 +58,33 @@ class DBConnect:
                 "msg":"提交成功"
             }
         except Exception as err:
+            print(err)
             self.db.rollback()
             logging.info("DBERROR exce_data_commitsql%s____%s" % (Exception, err))
             return {
                 "type":'error',
-                "msg":err
+                "msg":"提交失败"
             }
 
     def exce_data_commitsqls(self,objects):
         try:
             for sql in objects:
                 self.cursor.execute(sql)
-            self.db.commit() 
-            return 'success'
-        except Exception as data:
+        except Exception as err:
             self.db.rollback()
-            print(data)
-            return "error"   
+            print(err)
+            return {
+                "type":"error",
+                "msg":"提交失败",
+                "status":500
+            }
+        else:
+            self.db.commit()
+            return {
+                "type":"success",
+                "msg":"提交成功",
+                "status":200
+            }
     
     def exce_insert_data(self,objects,table):
         try:
@@ -104,11 +114,17 @@ class DBConnect:
             self.cursor.execute(sql)
             self.lock.release()
             self.db.commit()
-            return 'success'
-        except Exception as data:
+            return {
+                "type":"success",
+                "msg":"更新成功"
+            }
+        except Exception as err:
             self.db.rollback()
-            logging.info("DBERROR Update_data%s____%s" % (Exception, data))
-            return 'error'
+            logging.info("DBERROR Update_data%s____%s" % (Exception, err))
+            return {
+                "type":'error',
+                "msg":err
+            }
 
     def close(self):
         try:

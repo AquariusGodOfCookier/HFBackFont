@@ -9,6 +9,7 @@ from api.user.index import user
 from api.home.index import home
 from api.square.index import square
 from api.push.index import push
+from api.chat.index import chat
 from flask_apscheduler import APScheduler
 
 
@@ -20,7 +21,7 @@ app.register_blueprint(user,url_prefix='/api/user')
 app.register_blueprint(home,url_prefix='/api/home')
 app.register_blueprint(square,url_prefix='/api/square')
 app.register_blueprint(push,url_prefix='/api/push')
-
+app.register_blueprint(chat,url_prefix='/api/chat')
 class Config(object):
     JOBS=[
         {

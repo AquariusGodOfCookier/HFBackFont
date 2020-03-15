@@ -70,12 +70,13 @@ def login():
             if PWEncryption(password) == DBpassword:
                 token = tokens.generateToken(userPhone)
                 updateLastLoginTime(userPhone)
+                userId = db.exce_data_one("select U_id from user where U_phone ='%s'"%userPhone)[0]
                 return jsonify(
                     {
                         "status": 200,
                         "message": "登陆成功",
                         "type": "success",
-                        "data": {"token": token, "userPhone": userPhone},
+                        "data": {"token": token, "userPhone": userPhone,"userId":userId},
                     }
                 )
             else:

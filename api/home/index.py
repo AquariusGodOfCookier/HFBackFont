@@ -499,7 +499,7 @@ def getFollowUser():
                 "select U_attention_articles from userattentions where U_phone='%s'"
                 % phone
             )[0]
-            if results == None:
+            if results == None or results == '':
                 userList = []
             else:
                 userList = []
