@@ -14,7 +14,7 @@ class SendPhone:
         for i in range(10):
             messageId += random.choice(ids)
         params = {
-            'message':'您的验证码为:'+code+'验证码有效时间为5分钟，请勿向他人泄露。您正在登陆遇见你，如非本人操作，可忽略本消息',
+            'message':'您的验证码为:'+code+'验证码有效时间为2分钟，请勿向他人泄露。您正在登陆有趣(Have Fun)App，如非本人操作，可忽略本消息',
             'number':self.phone,
             'messageId':messageId
             }
@@ -26,6 +26,3 @@ class SendPhone:
         }
     def getMessage(self,Mid):
         return self.client.findSmsByMessageId('%s'%Mid)
-
-# sends = SendPhone('111')
-# print(sends.send())

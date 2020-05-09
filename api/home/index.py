@@ -242,7 +242,6 @@ def getDetail():
                 "portrait":getLocalImageUrl(articleInfo[3]),
                 "type":articleInfo[4]
             }
-            print(articleContent)
             # 这里是登录了的,看是否给这个文章点过赞
             return jsonify(
                 {
@@ -266,17 +265,73 @@ def getDetail():
         )
         return jsonify({"status": 5002, "message": "查询失败", "type": "error"})
 
+# 获取游戏详情页
+@home.route("/getGameDetail",methods=["POST"])
+def getGameDetail():
+    try:
+        res = request.get_json()
+        gameId = res["gameId"]
+        pageIndex = int(res["pageIndex"])
+        gameInfoSql = db.exce_data_one(
+            "select * from game where G_id = '%s'"%gameId
+        )
+        gameInfo = {
+            "name":gameInfoSql[0],
+            "id":gameInfoSql[1],
+            "avator":gameInfoSql[2],
+            "hot":gameInfoSql[3],
+            "platform":gameInfoSql[4],
+            "describe":gameInfoSql[5]
+        }
+        gameArticleSql  = getDBLimit("select * from article where A_type = '%s'"%gameId,pageIndex,10)
+        try:
+            gameArticleList = []
+            for data in gameArticleSql:
+                articleInfo={
+                    "id":data[0],
+                    "preview":getLocalImageUrl(data[3]),
+                    "title":data[1],
+                    "type":data[4]
+                }
+                userInfo = {
+                    "portrait":getUserInfo(data[2])[2],
+                    "userId":getUserInfo(data[2])[1],
+                    "userName":getUserInfo(data[2])[0]
+                }
+                gameArticleList.append({
+                    "articleInfo":articleInfo,
+                    "userInfo":userInfo
+                })
+        except:
+            gameArticleList = []
+        result = {
+            "gameInfo":gameInfo,
+            "article":gameArticleList,
+            "pageIndex":pageIndex
+        }
+        return jsonify({"status": 200, "message": "请求成功", "type": "success","data":result})
+    except Exception as err:
+        print(err)
+        logging.error(
+            "HOME------This is error from getGameDetail function:%s_______%s"
+            % (Exception, err)
+        )
+        return jsonify({"status": 5001, "message": "发生了某些意料之外的错误", "type": "error"})
+
 
 # 查看该文章的评论内容, 需要验证登陆
-@home.route("/getDetailsComments", methods=["GET"])
+@home.route("/getDetailsComments", methods=["GET","POST"])
 def getDetailsComments():
     try:
         # 验证Token
         token = request.headers["Token"]
         Phone = request.headers["userPhone"]
         if tokens.verificationToken(Phone, token):
-            articleId = request.args.get("articleId")
-            pageIndex = int(request.args.get("pageIndex"))
+            # articleId = request.args.get("articleId")
+            # pageIndex = int(request.args.get("pageIndex"))
+            res = request.get_json()
+            articleId = res["articleId"]
+            pageIndex = int(res["pageIndex"])
             pageCounts = 0 + (pageIndex - 1) * 10
             resultsList = db.exce_data_all(
                 "select * from comment where Commented_id = '%s' limit %d,10"
@@ -351,7 +406,7 @@ def addComments():
             return jsonify({"status": 1004, "message": "token过期", "type": "info"})
     except Exception as data:
         logging.error(
-            "HOME------This is error from toComments function:%s_______%s"
+            "HOME------This is error from addComments function:%s_______%s"
             % (Exception, data)
         )
         return jsonify({"status": 5001, "message": "发生了某些意料之外的错误", "type": "error"})
@@ -695,6 +750,7 @@ def searchGame():
             {"status": 200, "message": "查询成功", "type": "success", "data": game}
         )
     except Exception as err:
+        print(err)
         logging.error(
             "HOME------This is error from searchGame function:%s_______%s"
             % (Exception, err)
@@ -750,6 +806,140 @@ def updateGameAttention():
         print(err)
         logging.error(
             "SQUARE------This is error from updateGameAttention function:%s_______%s"
+            % (Exception, err)
+        )
+        return jsonify({"status": 5001, "message": "发生了意料以外的错误", "type": "error"})
+
+# 查看用户搜索缓存
+@home.route("/getHistorySearch",methods=["GET"])
+def getHistorySearch():
+    try:
+        phone = request.headers["userPhone"]
+        # 获取该用户的查询缓存
+        resultSql = db.exce_data_one(
+            "select U_search from user where U_phone = '%s'"
+            %phone
+        )[0]
+        if resultSql == '' or resultSql == None:
+            result = []
+        else:
+            result = resultSql.split(',')
+        return jsonify({"status": 200, "message": "查询成功", "type": "success","data":result})
+    except Exception as err:
+        print(err)
+        logging.error(
+            "SQUARE------This is error from getHistorySearch function:%s_______%s"
+            % (Exception, err)
+        )
+        return jsonify({"status": 5001, "message": "发生了意料以外的错误", "type": "error"})
+
+# 搜索接口
+@home.route("/getSearchContent",methods=["GET"])
+def getSearchContent():
+    phone = request.headers["userPhone"]
+    try:
+        inputValue = request.args.get("inputValue")
+        message = "查询成功"
+        types = "success"
+        # 先把搜索内容插入到数据库中
+        try:
+            userSearchSql = db.exce_data_one("select U_search from user where U_phone = '%s'"%phone)[0]
+            if userSearchSql == None or userSearchSql == '':
+                userSearchSql = inputValue
+            else:
+                userList = userSearchSql.split(',')
+                if inputValue in userList:
+                    userSearchSql = userSearchSql
+                else:
+                    userSearchSql += ','+inputValue
+            db.exce_update_data("update user set U_search = '%s' where U_phone='%s'"%(
+                userSearchSql,phone
+            ))
+        except Exception as err:
+            print(err)
+            message = "插入失败"
+            types = "error"
+        # 再返回用户搜索的内容
+        try:
+            args = "%" + inputValue + "%"
+            gameSql = db.exce_data_all("select * from game where G_name like '%s'" % args)
+            userSql = db.exce_data_all("select * from user where U_name like '%s'" % args)
+            articlSql = db.exce_data_all("select * from articlecontent where A_content like '%s'" %args)
+            if len(list(gameSql)) == 0:
+                gameInfo = []
+            else:
+                gameInfo = []
+                for item in gameSql:
+                    gameInfo.append(
+                        {
+                            "name":item[0],
+                            "id":item[1],
+                            "portrait":item[2],
+                            "hot":item[3],
+                            "type":item[4]
+                        }
+                    )
+            if len(list(userSql)) == 0:
+                userInfo = []
+            else:
+                userInfo = []
+                for item in userSql:
+                    userInfo.append(
+                        {
+                            "id":item[0],
+                            "name":item[1],
+                            "avator":item[4]
+                        }
+                    )
+            if len(list(articlSql)) == 0:
+                articleInfo = []
+            else:
+                articleInfo = []
+                for item in articlSql:
+                    articleInfo.append(
+                        {
+                            'id':item[0],
+                            'content':item[1]
+                        }
+                    )
+        except:
+            userInfo = []
+            gameInfo = []
+            articleInfo = []
+        return jsonify({
+            "status":200,
+            "message":message,
+            "type":types,
+            "data":{
+                "userInfo":userInfo,
+                "gameInfo":gameInfo,
+                "articleInfo":articleInfo
+            }
+        })
+    except Exception as err:
+        print(err)
+        logging.error(
+            "SQUARE------This is error from getSearchContent function:%s_______%s"
+            % (Exception, err)
+        )
+        return jsonify({"status": 5001, "message": "发生了意料以外的错误", "type": "error"})
+
+# 清空搜索历史
+@home.route("/clearSearch",methods=["PUT"])
+def clearSearch():
+    phone = request.headers["userPhone"]
+    try:
+        db.exce_update_data("update user set U_search = '' where U_phone = '%s'"%phone)
+        return jsonify({
+            "status":200,
+            "message":"清空成功",
+            "type":"success",
+            "data":{}
+        })
+    except Exception as err:
+        print(err)
+        logging.error(
+            "SQUARE------This is error from clearSearch function:%s_______%s"
             % (Exception, err)
         )
         return jsonify({"status": 5001, "message": "发生了意料以外的错误", "type": "error"})

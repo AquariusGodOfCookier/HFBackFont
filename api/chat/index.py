@@ -79,7 +79,6 @@ def getUserChatListInfo():
     try:
         res = request.get_json()
         chatList = json.loads(res['chatList'])
-        print(chatList)
         for info in chatList:
             to_userId = info['to_userId']
             toUserInfo = db.exce_data_one("select U_portrait,U_name from user where U_id = '%s'"%to_userId)

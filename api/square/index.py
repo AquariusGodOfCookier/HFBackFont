@@ -174,11 +174,11 @@ def getRecommend():
             })
         else:
             return jsonify({"status": 1004, "message": "token过期", "type": "info"})
-    except Exception as data:
-        print(data)
+    except Exception as err:
+        print(err)
         logging.error(
             "SQUARE------This is error from getRecommend function:%s_______%s"
-            % (Exception, data)
+            % (Exception, err)
         )
         return jsonify({"status": 5001, "message": "发生了某些意料之外的错误", "type": "error"})
 
@@ -350,10 +350,10 @@ def getHotLabels():
             })
         else:
             return jsonify({"status": 1004, "message": "token过期", "type": "info"})
-    except Exception as data:
-        print(data)
+    except Exception as err:
+        print(err)
         logging.error(
-            "SQUARE----This error from getHotLabels function:%s______%s"%(Exception,data)
+            "SQUARE----This error from getHotLabels function:%s______%s"%(Exception,err)
         )
         return jsonify({
             "status":5001,
@@ -373,7 +373,6 @@ def updateLikeDynamic():
             res = request.get_json()
             dynamicId = res["dynamicId"]
             likeType = int(res["type"])
-            print(dynamicId,likeType)
             if likeType == 0:
                 # 点赞
                 toLike(dynamicId,phone)
@@ -518,3 +517,4 @@ def getComments():
             % (Exception, err)
         )
         return jsonify({"status": 5001, "message": "发生了某些意料之外的错误", "type": "error"})
+

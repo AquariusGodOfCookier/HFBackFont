@@ -42,6 +42,7 @@ def base64ToBufferPhoto(fileName, fileBase):
 # 遍历缓存区，如果有相同的图片，说明提交的就是该图片
 # @return string 在发布动态接口中引用
 def isBuffer(imgName):
+    print(imgName,'isBuffer')
     bufferPath = os.getcwd() + "\\static\\bufferImage"
     if imgName in os.listdir(bufferPath):
         return True
@@ -54,7 +55,9 @@ def isBuffer(imgName):
 # @return string 在发布动态接口中引用
 def bufferImageToStore(imgName):
     try:
+        print(imgName,'ookk')
         if isBuffer(imgName):
+            print(imgName,'yes')
             BIpath = os.getcwd() + "\\static\\bufferImage\\" + imgName
             with open(BIpath, "rb") as f:
                 base64_data = base64.b64decode(base64.b64encode(f.read()))
@@ -62,6 +65,7 @@ def bufferImageToStore(imgName):
                 file.write(base64_data)
                 file.close()
     except Exception as err:
+        print(err)
         return err
 
 # @author dong.sun
@@ -82,7 +86,8 @@ def analyArticle(content):
     pattern =r"bufferImage/(.*?g|.*?G)"
     reg = re.compile(pattern)
     m1 = re.findall(reg,content)
-    bufferImageToStore(m1[0])
+    if len(m1)>0:
+        bufferImageToStore(m1)
     return m1
 
 # @author dong.sun
@@ -118,7 +123,7 @@ def addArticle():
             portraitUrl = res["portrait"]
             A_type = res["type"]
             releaseTime = getNow(1)
-            articleId = encryPhone(phone)+random.choice(string.ascii_lowercase)+getNow(0)
+            articleId = "Article"+encryPhone(phone)+random.choice(string.ascii_lowercase)+getNow(0)
             articleImages = analyArticle(content)
             portraiImage = analyArticle(portraitUrl)
             imgList = articleImages+portraiImage
@@ -185,12 +190,11 @@ def addDynamic():
                 strimageList = ''
             else:
                 strimage = []
-                bufferImageToStore(imageList)
-                print(imageList)
                 for imglist in imageList:
+                    bufferImageToStore(analyArticle(imglist)[0])
                     strimage.append(analyArticle(imglist)[0])
                 strimageList = ','.join(strimage)
-            print(strimageList,'----')
+           
             dynamicId = encryPhone(phone)+random.choice(string.ascii_lowercase)+getNow(0)
             pushTime = getNow(1)
             
@@ -202,10 +206,10 @@ def addDynamic():
             return jsonify({"type":results["type"],"message":results["msg"]})
         else:
             return jsonify({"status": 1004, "message": "token过期", "type": "info"})
-    except Exception as data:
-        print(data)
+    except Exception as err:
+        print(err)
         logging.error(
-            "PUSH----This error from addDynamic function:%s______%s" % (Exception, data)
+            "PUSH----This error from addDynamic function:%s______%s" % (Exception, err)
         )
         return jsonify({"status": 5001, "message": "发生了某些意料以外的错误", "type": "error"})
 

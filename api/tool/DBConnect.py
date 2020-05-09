@@ -42,9 +42,9 @@ class DBConnect:
             self.lock.release()
             res = self.cursor.fetchone()
             return res
-        except Exception as data:
-            print(data)
-            logging.error("%s____%s" % (Exception, data))
+        except Exception as err:
+            print(err)
+            logging.error("%s____%s" % (Exception, err))
             return "error"
 
     def exce_data_commitsql(self,sql):
