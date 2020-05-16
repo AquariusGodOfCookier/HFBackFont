@@ -29345,3 +29345,655 @@
 2020-05-08 14:41:09,744 - INFO - 127.0.0.1 - - [08/May/2020 14:41:09] "[37mGET /api/square/getComments?dynamicId=189****8507o20200412142826 HTTP/1.1[0m" 200 -
 2020-05-08 14:44:09,860 - INFO - 127.0.0.1 - - [08/May/2020 14:44:09] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
 2020-05-08 14:45:42,456 - INFO - 127.0.0.1 - - [08/May/2020 14:45:42] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 07:51:04,192 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2020-05-12 07:51:04,193 - INFO - Added job "clearBuffer" to job store "default"
+2020-05-12 07:51:04,193 - INFO - Scheduler started
+2020-05-12 07:51:04,193 - DEBUG - Looking for jobs to run
+2020-05-12 07:51:04,194 - DEBUG - Next wakeup is due at 2020-05-26 07:51:04.192560+08:00 (in 1209599.997999 seconds)
+2020-05-12 07:51:04,202 - INFO -  * Restarting with stat
+2020-05-12 07:51:05,119 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2020-05-12 07:51:05,119 - INFO - Added job "clearBuffer" to job store "default"
+2020-05-12 07:51:05,120 - INFO - Scheduler started
+2020-05-12 07:51:05,120 - DEBUG - Looking for jobs to run
+2020-05-12 07:51:05,120 - DEBUG - Next wakeup is due at 2020-05-26 07:51:05.119560+08:00 (in 1209599.998999 seconds)
+2020-05-12 07:51:05,124 - WARNING -  * Debugger is active!
+2020-05-12 07:51:05,128 - INFO -  * Debugger PIN: 171-554-008
+2020-05-12 07:51:05,133 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-05-12 07:51:06,995 - INFO - 127.0.0.1 - - [12/May/2020 07:51:06] "[37mPOST /api/user/login HTTP/1.1[0m" 200 -
+2020-05-12 07:51:16,619 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-05-12 07:51:16,661 - INFO -  * Restarting with stat
+2020-05-12 07:51:17,577 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2020-05-12 07:51:17,578 - INFO - Added job "clearBuffer" to job store "default"
+2020-05-12 07:51:17,578 - INFO - Scheduler started
+2020-05-12 07:51:17,578 - DEBUG - Looking for jobs to run
+2020-05-12 07:51:17,578 - DEBUG - Next wakeup is due at 2020-05-26 07:51:17.577976+08:00 (in 1209599.998999 seconds)
+2020-05-12 07:51:17,584 - WARNING -  * Debugger is active!
+2020-05-12 07:51:17,586 - INFO -  * Debugger PIN: 171-554-008
+2020-05-12 07:51:17,592 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-05-12 07:52:16,195 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-05-12 07:52:16,231 - INFO -  * Restarting with stat
+2020-05-12 07:52:17,128 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2020-05-12 07:52:17,129 - INFO - Added job "clearBuffer" to job store "default"
+2020-05-12 07:52:17,129 - INFO - Scheduler started
+2020-05-12 07:52:17,129 - DEBUG - Looking for jobs to run
+2020-05-12 07:52:17,129 - DEBUG - Next wakeup is due at 2020-05-26 07:52:17.127883+08:00 (in 1209599.997999 seconds)
+2020-05-12 07:52:17,134 - WARNING -  * Debugger is active!
+2020-05-12 07:52:17,136 - INFO -  * Debugger PIN: 171-554-008
+2020-05-12 07:52:17,141 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-05-12 07:52:18,840 - INFO - 127.0.0.1 - - [12/May/2020 07:52:18] "[37mPOST /api/user/login HTTP/1.1[0m" 200 -
+2020-05-12 07:52:21,354 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-05-12 07:52:21,388 - INFO -  * Restarting with stat
+2020-05-12 07:52:22,290 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2020-05-12 07:52:22,291 - INFO - Added job "clearBuffer" to job store "default"
+2020-05-12 07:52:22,293 - INFO - Scheduler started
+2020-05-12 07:52:22,294 - DEBUG - Looking for jobs to run
+2020-05-12 07:52:22,294 - DEBUG - Next wakeup is due at 2020-05-26 07:52:22.290063+08:00 (in 1209599.996041 seconds)
+2020-05-12 07:52:22,298 - WARNING -  * Debugger is active!
+2020-05-12 07:52:22,301 - INFO -  * Debugger PIN: 171-554-008
+2020-05-12 07:52:22,306 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-05-12 07:52:35,660 - ERROR - USER----This error from Login function:<class 'Exception'>______'NoneType' object is not subscriptable
+2020-05-12 07:52:35,661 - INFO - 127.0.0.1 - - [12/May/2020 07:52:35] "[37mPOST /api/user/login HTTP/1.1[0m" 200 -
+2020-05-12 07:52:37,993 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-05-12 07:52:38,030 - INFO -  * Restarting with stat
+2020-05-12 07:52:38,912 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2020-05-12 07:52:38,912 - INFO - Added job "clearBuffer" to job store "default"
+2020-05-12 07:52:38,912 - INFO - Scheduler started
+2020-05-12 07:52:38,913 - DEBUG - Looking for jobs to run
+2020-05-12 07:52:38,913 - DEBUG - Next wakeup is due at 2020-05-26 07:52:38.911628+08:00 (in 1209599.998000 seconds)
+2020-05-12 07:52:38,918 - WARNING -  * Debugger is active!
+2020-05-12 07:52:38,920 - INFO -  * Debugger PIN: 171-554-008
+2020-05-12 07:52:38,925 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-05-12 07:52:46,277 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-05-12 07:52:46,312 - INFO -  * Restarting with stat
+2020-05-12 07:52:47,201 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2020-05-12 07:52:47,202 - INFO - Added job "clearBuffer" to job store "default"
+2020-05-12 07:52:47,202 - INFO - Scheduler started
+2020-05-12 07:52:47,202 - DEBUG - Looking for jobs to run
+2020-05-12 07:52:47,203 - DEBUG - Next wakeup is due at 2020-05-26 07:52:47.201293+08:00 (in 1209599.998079 seconds)
+2020-05-12 07:52:47,207 - WARNING -  * Debugger is active!
+2020-05-12 07:52:47,209 - INFO -  * Debugger PIN: 171-554-008
+2020-05-12 07:52:47,216 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-05-12 07:52:49,021 - INFO - 127.0.0.1 - - [12/May/2020 07:52:49] "[37mPOST /api/user/login HTTP/1.1[0m" 200 -
+2020-05-12 07:52:50,374 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-05-12 07:52:50,406 - INFO -  * Restarting with stat
+2020-05-12 07:52:51,295 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2020-05-12 07:52:51,296 - INFO - Added job "clearBuffer" to job store "default"
+2020-05-12 07:52:51,296 - INFO - Scheduler started
+2020-05-12 07:52:51,296 - DEBUG - Looking for jobs to run
+2020-05-12 07:52:51,296 - DEBUG - Next wakeup is due at 2020-05-26 07:52:51.295137+08:00 (in 1209599.999000 seconds)
+2020-05-12 07:52:51,300 - WARNING -  * Debugger is active!
+2020-05-12 07:52:51,303 - INFO -  * Debugger PIN: 171-554-008
+2020-05-12 07:52:51,308 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-05-12 07:58:59,701 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-05-12 07:58:59,753 - INFO -  * Restarting with stat
+2020-05-12 07:59:01,108 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2020-05-12 07:59:01,109 - INFO - Added job "clearBuffer" to job store "default"
+2020-05-12 07:59:01,109 - INFO - Scheduler started
+2020-05-12 07:59:01,110 - DEBUG - Looking for jobs to run
+2020-05-12 07:59:01,110 - DEBUG - Next wakeup is due at 2020-05-26 07:59:01.108611+08:00 (in 1209599.998000 seconds)
+2020-05-12 07:59:01,117 - WARNING -  * Debugger is active!
+2020-05-12 07:59:01,121 - INFO -  * Debugger PIN: 171-554-008
+2020-05-12 07:59:01,128 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-05-12 07:59:10,734 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-05-12 07:59:10,783 - INFO -  * Restarting with stat
+2020-05-12 07:59:12,146 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2020-05-12 07:59:12,148 - INFO - Added job "clearBuffer" to job store "default"
+2020-05-12 07:59:12,148 - INFO - Scheduler started
+2020-05-12 07:59:12,149 - DEBUG - Looking for jobs to run
+2020-05-12 07:59:12,149 - DEBUG - Next wakeup is due at 2020-05-26 07:59:12.146970+08:00 (in 1209599.997967 seconds)
+2020-05-12 07:59:12,155 - WARNING -  * Debugger is active!
+2020-05-12 07:59:12,159 - INFO -  * Debugger PIN: 171-554-008
+2020-05-12 07:59:12,167 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-05-12 07:59:52,626 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-05-12 07:59:52,673 - INFO -  * Restarting with stat
+2020-05-12 07:59:54,029 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2020-05-12 07:59:54,030 - INFO - Added job "clearBuffer" to job store "default"
+2020-05-12 07:59:54,030 - INFO - Scheduler started
+2020-05-12 07:59:54,031 - DEBUG - Looking for jobs to run
+2020-05-12 07:59:54,031 - DEBUG - Next wakeup is due at 2020-05-26 07:59:54.029441+08:00 (in 1209599.998057 seconds)
+2020-05-12 07:59:54,038 - WARNING -  * Debugger is active!
+2020-05-12 07:59:54,042 - INFO -  * Debugger PIN: 171-554-008
+2020-05-12 07:59:54,049 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-05-12 08:00:01,534 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-05-12 08:00:01,583 - INFO -  * Restarting with stat
+2020-05-12 08:00:02,965 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2020-05-12 08:00:02,967 - INFO - Added job "clearBuffer" to job store "default"
+2020-05-12 08:00:02,967 - INFO - Scheduler started
+2020-05-12 08:00:02,967 - DEBUG - Looking for jobs to run
+2020-05-12 08:00:02,967 - DEBUG - Next wakeup is due at 2020-05-26 08:00:02.965071+08:00 (in 1209599.998062 seconds)
+2020-05-12 08:00:02,974 - WARNING -  * Debugger is active!
+2020-05-12 08:00:02,978 - INFO -  * Debugger PIN: 171-554-008
+2020-05-12 08:00:02,986 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-05-12 08:01:10,240 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-05-12 08:01:10,272 - INFO -  * Restarting with stat
+2020-05-12 08:01:11,191 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2020-05-12 08:01:11,192 - INFO - Added job "clearBuffer" to job store "default"
+2020-05-12 08:01:11,192 - INFO - Scheduler started
+2020-05-12 08:01:11,192 - DEBUG - Looking for jobs to run
+2020-05-12 08:01:11,193 - DEBUG - Next wakeup is due at 2020-05-26 08:01:11.191428+08:00 (in 1209599.998000 seconds)
+2020-05-12 08:01:11,197 - WARNING -  * Debugger is active!
+2020-05-12 08:01:11,199 - INFO -  * Debugger PIN: 171-554-008
+2020-05-12 08:01:11,205 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-05-12 08:01:15,361 - INFO - 127.0.0.1 - - [12/May/2020 08:01:15] "[37mPOST /api/user/login HTTP/1.1[0m" 200 -
+2020-05-12 08:04:27,899 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-05-12 08:04:27,936 - INFO -  * Restarting with stat
+2020-05-12 08:04:28,857 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2020-05-12 08:04:28,858 - INFO - Added job "clearBuffer" to job store "default"
+2020-05-12 08:04:28,858 - INFO - Scheduler started
+2020-05-12 08:04:28,859 - DEBUG - Looking for jobs to run
+2020-05-12 08:04:28,859 - DEBUG - Next wakeup is due at 2020-05-26 08:04:28.857257+08:00 (in 1209599.998010 seconds)
+2020-05-12 08:04:28,863 - WARNING -  * Debugger is active!
+2020-05-12 08:04:28,866 - INFO -  * Debugger PIN: 171-554-008
+2020-05-12 08:04:28,871 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-05-12 08:06:22,378 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-05-12 08:06:22,429 - INFO -  * Restarting with stat
+2020-05-12 08:06:23,806 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2020-05-12 08:06:23,807 - INFO - Added job "clearBuffer" to job store "default"
+2020-05-12 08:06:23,808 - INFO - Scheduler started
+2020-05-12 08:06:23,808 - DEBUG - Looking for jobs to run
+2020-05-12 08:06:23,808 - DEBUG - Next wakeup is due at 2020-05-26 08:06:23.806367+08:00 (in 1209599.998007 seconds)
+2020-05-12 08:06:23,815 - WARNING -  * Debugger is active!
+2020-05-12 08:06:23,819 - INFO -  * Debugger PIN: 171-554-008
+2020-05-12 08:06:23,826 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-05-12 08:06:46,219 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-05-12 08:06:46,267 - INFO -  * Restarting with stat
+2020-05-12 08:06:47,603 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2020-05-12 08:06:47,604 - INFO - Added job "clearBuffer" to job store "default"
+2020-05-12 08:06:47,604 - INFO - Scheduler started
+2020-05-12 08:06:47,605 - DEBUG - Looking for jobs to run
+2020-05-12 08:06:47,605 - DEBUG - Next wakeup is due at 2020-05-26 08:06:47.603488+08:00 (in 1209599.998001 seconds)
+2020-05-12 08:06:47,611 - WARNING -  * Debugger is active!
+2020-05-12 08:06:47,615 - INFO -  * Debugger PIN: 171-554-008
+2020-05-12 08:06:47,623 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-05-12 08:26:36,281 - INFO - 127.0.0.1 - - [12/May/2020 08:26:36] "[37mGET /api/home/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-05-12 08:26:36,283 - INFO - 127.0.0.1 - - [12/May/2020 08:26:36] "[37mGET /api/home/getRecommend?pageIndex=2 HTTP/1.1[0m" 200 -
+2020-05-12 08:26:57,076 - INFO - 127.0.0.1 - - [12/May/2020 08:26:57] "[37mGET /api/home/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-05-12 08:26:57,077 - INFO - 127.0.0.1 - - [12/May/2020 08:26:57] "[37mGET /api/home/getRecommend?pageIndex=2 HTTP/1.1[0m" 200 -
+2020-05-12 08:27:19,467 - INFO - 127.0.0.1 - - [12/May/2020 08:27:19] "[37mGET /api/home/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-05-12 08:27:19,473 - INFO - 127.0.0.1 - - [12/May/2020 08:27:19] "[37mGET /api/home/getRecommend?pageIndex=2 HTTP/1.1[0m" 200 -
+2020-05-12 08:27:25,441 - INFO - 127.0.0.1 - - [12/May/2020 08:27:25] "[37mGET /api/home/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-05-12 08:27:25,450 - INFO - 127.0.0.1 - - [12/May/2020 08:27:25] "[37mGET /api/home/getRecommend?pageIndex=2 HTTP/1.1[0m" 200 -
+2020-05-12 08:27:54,327 - INFO - 127.0.0.1 - - [12/May/2020 08:27:54] "[37mGET /api/home/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-05-12 08:27:54,335 - INFO - 127.0.0.1 - - [12/May/2020 08:27:54] "[37mGET /api/home/getRecommend?pageIndex=2 HTTP/1.1[0m" 200 -
+2020-05-12 08:29:35,272 - INFO - 127.0.0.1 - - [12/May/2020 08:29:35] "[37mGET /api/home/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-05-12 08:29:35,280 - INFO - 127.0.0.1 - - [12/May/2020 08:29:35] "[37mGET /api/home/getRecommend?pageIndex=2 HTTP/1.1[0m" 200 -
+2020-05-12 08:29:52,622 - DEBUG - Starting new HTTPS connection (1): sms_developer.zhenzikj.com:443
+2020-05-12 08:29:53,337 - DEBUG - https://sms_developer.zhenzikj.com:443 "POST /sms/send.do HTTP/1.1" 200 32
+2020-05-12 08:29:53,353 - INFO - 127.0.0.1 - - [12/May/2020 08:29:53] "[37mPOST /api/user/sendMessage HTTP/1.1[0m" 200 -
+2020-05-12 08:30:13,039 - INFO - 127.0.0.1 - - [12/May/2020 08:30:13] "[37mPOST /api/user/login HTTP/1.1[0m" 200 -
+2020-05-12 08:30:20,356 - INFO - 127.0.0.1 - - [12/May/2020 08:30:20] "[37mGET /api/square/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-05-12 08:30:20,398 - INFO - 127.0.0.1 - - [12/May/2020 08:30:20] "[37mGET /api/square/getComments?dynamicId=189****8507o20200412142826 HTTP/1.1[0m" 200 -
+2020-05-12 08:30:35,602 - INFO - 127.0.0.1 - - [12/May/2020 08:30:35] "[37mGET /api/home/getRecommend?pageIndex=2 HTTP/1.1[0m" 200 -
+2020-05-12 08:30:35,605 - INFO - 127.0.0.1 - - [12/May/2020 08:30:35] "[37mGET /api/home/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-05-12 08:30:35,623 - INFO - 127.0.0.1 - - [12/May/2020 08:30:35] "[37mGET /api/home/getFollowGames HTTP/1.1[0m" 200 -
+2020-05-12 08:30:37,837 - INFO - 127.0.0.1 - - [12/May/2020 08:30:37] "[37mGET /api/square/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-05-12 08:30:37,868 - INFO - 127.0.0.1 - - [12/May/2020 08:30:37] "[37mGET /api/square/getComments?dynamicId=189****8507o20200412142826 HTTP/1.1[0m" 200 -
+2020-05-12 08:30:40,919 - INFO - 127.0.0.1 - - [12/May/2020 08:30:40] "[37mGET /api/home/getFollowUser HTTP/1.1[0m" 200 -
+2020-05-12 08:30:40,939 - INFO - 127.0.0.1 - - [12/May/2020 08:30:40] "[37mPOST /api/home/getFollowHotArticle HTTP/1.1[0m" 200 -
+2020-05-12 08:30:43,367 - INFO - 127.0.0.1 - - [12/May/2020 08:30:43] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 08:30:43,381 - INFO - 127.0.0.1 - - [12/May/2020 08:30:43] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 08:30:43,386 - INFO - 192.168.1.110 - - [12/May/2020 08:30:43] "[36mGET /static/storeImage/UserAvatar1898507202005021402017.jpg HTTP/1.1[0m" 304 -
+2020-05-12 08:30:45,132 - INFO - 127.0.0.1 - - [12/May/2020 08:30:45] "[37mGET /api/square/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-05-12 08:30:45,159 - INFO - 127.0.0.1 - - [12/May/2020 08:30:45] "[37mGET /api/square/getComments?dynamicId=189****8507o20200412142826 HTTP/1.1[0m" 200 -
+2020-05-12 08:30:57,110 - INFO - 127.0.0.1 - - [12/May/2020 08:30:57] "[37mGET /api/home/getRecommend?pageIndex=2 HTTP/1.1[0m" 200 -
+2020-05-12 08:30:57,112 - INFO - 127.0.0.1 - - [12/May/2020 08:30:57] "[37mGET /api/home/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-05-12 08:30:57,306 - INFO - 127.0.0.1 - - [12/May/2020 08:30:57] "[37mGET /api/home/getFollowGames HTTP/1.1[0m" 200 -
+2020-05-12 08:31:11,264 - INFO - 127.0.0.1 - - [12/May/2020 08:31:11] "[37mGET /api/home/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-05-12 08:31:11,270 - INFO - 127.0.0.1 - - [12/May/2020 08:31:11] "[37mGET /api/home/getRecommend?pageIndex=2 HTTP/1.1[0m" 200 -
+2020-05-12 08:31:11,287 - INFO - 127.0.0.1 - - [12/May/2020 08:31:11] "[37mGET /api/home/getFollowGames HTTP/1.1[0m" 200 -
+2020-05-12 08:31:25,088 - INFO - 127.0.0.1 - - [12/May/2020 08:31:25] "[37mGET /api/home/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-05-12 08:31:25,098 - INFO - 127.0.0.1 - - [12/May/2020 08:31:25] "[37mGET /api/home/getRecommend?pageIndex=2 HTTP/1.1[0m" 200 -
+2020-05-12 08:31:42,402 - INFO - 127.0.0.1 - - [12/May/2020 08:31:42] "[37mGET /api/home/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-05-12 08:31:42,407 - INFO - 127.0.0.1 - - [12/May/2020 08:31:42] "[37mGET /api/home/getRecommend?pageIndex=2 HTTP/1.1[0m" 200 -
+2020-05-12 08:31:42,424 - INFO - 127.0.0.1 - - [12/May/2020 08:31:42] "[37mGET /api/home/getFollowGames HTTP/1.1[0m" 200 -
+2020-05-12 08:31:57,884 - INFO - 127.0.0.1 - - [12/May/2020 08:31:57] "[37mGET /api/home/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-05-12 08:31:57,891 - INFO - 127.0.0.1 - - [12/May/2020 08:31:57] "[37mGET /api/home/getRecommend?pageIndex=2 HTTP/1.1[0m" 200 -
+2020-05-12 08:31:57,909 - INFO - 127.0.0.1 - - [12/May/2020 08:31:57] "[37mGET /api/home/getFollowGames HTTP/1.1[0m" 200 -
+2020-05-12 08:32:19,348 - INFO - 127.0.0.1 - - [12/May/2020 08:32:19] "[37mGET /api/home/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-05-12 08:32:19,355 - INFO - 127.0.0.1 - - [12/May/2020 08:32:19] "[37mGET /api/home/getRecommend?pageIndex=2 HTTP/1.1[0m" 200 -
+2020-05-12 08:32:38,095 - INFO - 127.0.0.1 - - [12/May/2020 08:32:38] "[37mGET /api/home/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-05-12 08:32:38,099 - INFO - 127.0.0.1 - - [12/May/2020 08:32:38] "[37mGET /api/home/getRecommend?pageIndex=2 HTTP/1.1[0m" 200 -
+2020-05-12 08:32:38,120 - INFO - 192.168.1.110 - - [12/May/2020 08:32:38] "[36mGET /static/storeImage/Article182780520200306211515.jpg HTTP/1.1[0m" 304 -
+2020-05-12 08:32:38,120 - INFO - 192.168.1.110 - - [12/May/2020 08:32:38] "[36mGET /static/storeImage/Article182780520200308185721.jpg HTTP/1.1[0m" 304 -
+2020-05-12 08:32:38,132 - INFO - 127.0.0.1 - - [12/May/2020 08:32:38] "[37mGET /api/home/getFollowGames HTTP/1.1[0m" 200 -
+2020-05-12 08:32:40,637 - INFO - 127.0.0.1 - - [12/May/2020 08:32:40] "[37mGET /api/square/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-05-12 08:32:40,690 - INFO - 127.0.0.1 - - [12/May/2020 08:32:40] "[37mGET /api/square/getComments?dynamicId=189****8507o20200412142826 HTTP/1.1[0m" 200 -
+2020-05-12 08:32:42,411 - INFO - 127.0.0.1 - - [12/May/2020 08:32:42] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 08:32:42,421 - INFO - 127.0.0.1 - - [12/May/2020 08:32:42] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 08:32:51,291 - INFO - 127.0.0.1 - - [12/May/2020 08:32:51] "[37mGET /api/home/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-05-12 08:32:51,313 - INFO - 127.0.0.1 - - [12/May/2020 08:32:51] "[37mGET /api/home/getFollowGames HTTP/1.1[0m" 200 -
+2020-05-12 08:32:52,937 - INFO - 127.0.0.1 - - [12/May/2020 08:32:52] "[37mGET /api/home/getDetail?articleId=1824503780520200306211521 HTTP/1.1[0m" 200 -
+2020-05-12 08:32:55,660 - INFO - 127.0.0.1 - - [12/May/2020 08:32:55] "[37mGET /api/square/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-05-12 08:32:55,687 - INFO - 127.0.0.1 - - [12/May/2020 08:32:55] "[37mGET /api/square/getComments?dynamicId=189****8507o20200412142826 HTTP/1.1[0m" 200 -
+2020-05-12 08:32:56,737 - INFO - 127.0.0.1 - - [12/May/2020 08:32:56] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 08:33:54,059 - INFO - 127.0.0.1 - - [12/May/2020 08:33:54] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 08:34:10,394 - INFO - 127.0.0.1 - - [12/May/2020 08:34:10] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 08:37:33,210 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-05-12 08:37:33,267 - INFO -  * Restarting with stat
+2020-05-12 08:37:34,640 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2020-05-12 08:37:34,641 - INFO - Added job "clearBuffer" to job store "default"
+2020-05-12 08:37:34,641 - INFO - Scheduler started
+2020-05-12 08:37:34,642 - DEBUG - Looking for jobs to run
+2020-05-12 08:37:34,642 - DEBUG - Next wakeup is due at 2020-05-26 08:37:34.640382+08:00 (in 1209599.998000 seconds)
+2020-05-12 08:37:34,649 - WARNING -  * Debugger is active!
+2020-05-12 08:37:34,653 - INFO -  * Debugger PIN: 171-554-008
+2020-05-12 08:37:34,660 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-05-12 08:38:20,282 - INFO - 127.0.0.1 - - [12/May/2020 08:38:20] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 08:38:55,625 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-05-12 08:38:55,673 - INFO -  * Restarting with stat
+2020-05-12 08:38:57,066 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2020-05-12 08:38:57,067 - INFO - Added job "clearBuffer" to job store "default"
+2020-05-12 08:38:57,067 - INFO - Scheduler started
+2020-05-12 08:38:57,067 - DEBUG - Looking for jobs to run
+2020-05-12 08:38:57,068 - DEBUG - Next wakeup is due at 2020-05-26 08:38:57.065023+08:00 (in 1209599.997000 seconds)
+2020-05-12 08:38:57,074 - WARNING -  * Debugger is active!
+2020-05-12 08:38:57,078 - INFO -  * Debugger PIN: 171-554-008
+2020-05-12 08:38:57,086 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-05-12 08:39:00,306 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-05-12 08:39:00,353 - INFO -  * Restarting with stat
+2020-05-12 08:39:01,727 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2020-05-12 08:39:01,728 - INFO - Added job "clearBuffer" to job store "default"
+2020-05-12 08:39:01,728 - INFO - Scheduler started
+2020-05-12 08:39:01,729 - DEBUG - Looking for jobs to run
+2020-05-12 08:39:01,729 - DEBUG - Next wakeup is due at 2020-05-26 08:39:01.727060+08:00 (in 1209599.997999 seconds)
+2020-05-12 08:39:01,737 - WARNING -  * Debugger is active!
+2020-05-12 08:39:01,741 - INFO -  * Debugger PIN: 171-554-008
+2020-05-12 08:39:01,749 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-05-12 08:39:17,301 - INFO - 127.0.0.1 - - [12/May/2020 08:39:17] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 08:39:17,329 - INFO - 127.0.0.1 - - [12/May/2020 08:39:17] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 08:40:25,872 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-05-12 08:40:25,925 - INFO -  * Restarting with stat
+2020-05-12 08:40:27,283 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2020-05-12 08:40:27,284 - INFO - Added job "clearBuffer" to job store "default"
+2020-05-12 08:40:27,284 - INFO - Scheduler started
+2020-05-12 08:40:27,285 - DEBUG - Looking for jobs to run
+2020-05-12 08:40:27,285 - DEBUG - Next wakeup is due at 2020-05-26 08:40:27.283332+08:00 (in 1209599.997970 seconds)
+2020-05-12 08:40:27,292 - WARNING -  * Debugger is active!
+2020-05-12 08:40:27,296 - INFO -  * Debugger PIN: 171-554-008
+2020-05-12 08:40:27,311 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-05-12 08:40:29,737 - INFO - 127.0.0.1 - - [12/May/2020 08:40:29] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 08:40:29,765 - INFO - 127.0.0.1 - - [12/May/2020 08:40:29] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 08:41:14,726 - INFO - 127.0.0.1 - - [12/May/2020 08:41:14] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 08:51:53,661 - INFO - 127.0.0.1 - - [12/May/2020 08:51:53] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 11:38:15,166 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-05-12 11:38:15,334 - INFO -  * Restarting with stat
+2020-05-12 11:38:16,630 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2020-05-12 11:38:16,631 - INFO - Added job "clearBuffer" to job store "default"
+2020-05-12 11:38:16,631 - INFO - Scheduler started
+2020-05-12 11:38:16,631 - DEBUG - Looking for jobs to run
+2020-05-12 11:38:16,631 - DEBUG - Next wakeup is due at 2020-05-26 11:38:16.630899+08:00 (in 1209599.999000 seconds)
+2020-05-12 11:38:16,640 - WARNING -  * Debugger is active!
+2020-05-12 11:38:16,644 - INFO -  * Debugger PIN: 171-554-008
+2020-05-12 11:38:16,649 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-05-12 11:39:06,902 - ERROR - USER------This is error from change function:<class 'Exception'>_______'HTTP_TOKEN'
+2020-05-12 11:39:06,902 - INFO - 127.0.0.1 - - [12/May/2020 11:39:06] "[37mPUT /api/user/change HTTP/1.1[0m" 200 -
+2020-05-12 11:39:08,633 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-05-12 11:39:08,671 - INFO -  * Restarting with stat
+2020-05-12 11:39:09,619 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2020-05-12 11:39:09,619 - INFO - Added job "clearBuffer" to job store "default"
+2020-05-12 11:39:09,619 - INFO - Scheduler started
+2020-05-12 11:39:09,620 - DEBUG - Looking for jobs to run
+2020-05-12 11:39:09,620 - DEBUG - Next wakeup is due at 2020-05-26 11:39:09.618120+08:00 (in 1209599.998000 seconds)
+2020-05-12 11:39:09,624 - WARNING -  * Debugger is active!
+2020-05-12 11:39:09,627 - INFO -  * Debugger PIN: 171-554-008
+2020-05-12 11:39:09,634 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-05-12 11:39:22,911 - INFO - 127.0.0.1 - - [12/May/2020 11:39:22] "[37mPOST /api/user/login HTTP/1.1[0m" 200 -
+2020-05-12 11:39:28,118 - INFO - 127.0.0.1 - - [12/May/2020 11:39:28] "[37mPOST /api/user/login HTTP/1.1[0m" 200 -
+2020-05-12 11:39:54,243 - INFO - 127.0.0.1 - - [12/May/2020 11:39:54] "[37mPUT /api/user/change HTTP/1.1[0m" 200 -
+2020-05-12 11:39:56,427 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-05-12 11:39:56,463 - INFO -  * Restarting with stat
+2020-05-12 11:39:57,393 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2020-05-12 11:39:57,394 - INFO - Added job "clearBuffer" to job store "default"
+2020-05-12 11:39:57,394 - INFO - Scheduler started
+2020-05-12 11:39:57,395 - DEBUG - Looking for jobs to run
+2020-05-12 11:39:57,395 - DEBUG - Next wakeup is due at 2020-05-26 11:39:57.393884+08:00 (in 1209599.998001 seconds)
+2020-05-12 11:39:57,399 - WARNING -  * Debugger is active!
+2020-05-12 11:39:57,403 - INFO -  * Debugger PIN: 171-554-008
+2020-05-12 11:39:57,409 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-05-12 11:47:22,082 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-05-12 11:47:22,135 - INFO -  * Restarting with stat
+2020-05-12 11:47:23,088 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2020-05-12 11:47:23,089 - INFO - Added job "clearBuffer" to job store "default"
+2020-05-12 11:47:23,089 - INFO - Scheduler started
+2020-05-12 11:47:23,089 - DEBUG - Looking for jobs to run
+2020-05-12 11:47:23,090 - DEBUG - Next wakeup is due at 2020-05-26 11:47:23.088376+08:00 (in 1209599.997999 seconds)
+2020-05-12 11:47:23,094 - WARNING -  * Debugger is active!
+2020-05-12 11:47:23,097 - INFO -  * Debugger PIN: 171-554-008
+2020-05-12 11:47:23,103 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-05-12 11:49:16,588 - INFO - 127.0.0.1 - - [12/May/2020 11:49:16] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 11:49:39,311 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-05-12 11:49:39,356 - INFO -  * Restarting with stat
+2020-05-12 11:49:40,281 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2020-05-12 11:49:40,282 - INFO - Added job "clearBuffer" to job store "default"
+2020-05-12 11:49:40,282 - INFO - Scheduler started
+2020-05-12 11:49:40,282 - DEBUG - Looking for jobs to run
+2020-05-12 11:49:40,283 - DEBUG - Next wakeup is due at 2020-05-26 11:49:40.281551+08:00 (in 1209599.999002 seconds)
+2020-05-12 11:49:40,287 - WARNING -  * Debugger is active!
+2020-05-12 11:49:40,290 - INFO -  * Debugger PIN: 171-554-008
+2020-05-12 11:49:40,295 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-05-12 11:50:02,410 - DEBUG - Starting new HTTPS connection (1): sms_developer.zhenzikj.com:443
+2020-05-12 11:50:03,030 - DEBUG - https://sms_developer.zhenzikj.com:443 "POST /sms/send.do HTTP/1.1" 200 32
+2020-05-12 11:50:03,034 - INFO - 127.0.0.1 - - [12/May/2020 11:50:03] "[37mPOST /api/user/sendMessage HTTP/1.1[0m" 200 -
+2020-05-12 11:50:32,600 - ERROR - USER------This is error from change function:<class 'Exception'>_______name 'phone' is not defined
+2020-05-12 11:50:32,601 - INFO - 127.0.0.1 - - [12/May/2020 11:50:32] "[37mPUT /api/user/change HTTP/1.1[0m" 200 -
+2020-05-12 11:50:39,496 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-05-12 11:50:39,535 - INFO -  * Restarting with stat
+2020-05-12 11:50:40,497 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2020-05-12 11:50:40,498 - INFO - Added job "clearBuffer" to job store "default"
+2020-05-12 11:50:40,498 - INFO - Scheduler started
+2020-05-12 11:50:40,498 - DEBUG - Looking for jobs to run
+2020-05-12 11:50:40,498 - DEBUG - Next wakeup is due at 2020-05-26 11:50:40.497432+08:00 (in 1209599.999000 seconds)
+2020-05-12 11:50:40,503 - WARNING -  * Debugger is active!
+2020-05-12 11:50:40,506 - INFO -  * Debugger PIN: 171-554-008
+2020-05-12 11:50:40,511 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-05-12 11:50:46,773 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-05-12 11:50:46,813 - INFO -  * Restarting with stat
+2020-05-12 11:50:47,762 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2020-05-12 11:50:47,763 - INFO - Added job "clearBuffer" to job store "default"
+2020-05-12 11:50:47,763 - INFO - Scheduler started
+2020-05-12 11:50:47,764 - DEBUG - Looking for jobs to run
+2020-05-12 11:50:47,764 - DEBUG - Next wakeup is due at 2020-05-26 11:50:47.762847+08:00 (in 1209599.997999 seconds)
+2020-05-12 11:50:47,770 - WARNING -  * Debugger is active!
+2020-05-12 11:50:47,773 - INFO -  * Debugger PIN: 171-554-008
+2020-05-12 11:50:47,778 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-05-12 11:50:49,658 - INFO - DBERROR exce_data_commitsql<class 'Exception'>____(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''password = 'sunxiaodong2' where U_phone = '18904608507'' at line 1")
+2020-05-12 11:50:49,659 - INFO - 127.0.0.1 - - [12/May/2020 11:50:49] "[37mPUT /api/user/change HTTP/1.1[0m" 200 -
+2020-05-12 11:51:17,925 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-05-12 11:51:17,965 - INFO -  * Restarting with stat
+2020-05-12 11:51:18,910 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2020-05-12 11:51:18,911 - INFO - Added job "clearBuffer" to job store "default"
+2020-05-12 11:51:18,911 - INFO - Scheduler started
+2020-05-12 11:51:18,911 - DEBUG - Looking for jobs to run
+2020-05-12 11:51:18,911 - DEBUG - Next wakeup is due at 2020-05-26 11:51:18.910059+08:00 (in 1209599.998998 seconds)
+2020-05-12 11:51:18,915 - WARNING -  * Debugger is active!
+2020-05-12 11:51:18,918 - INFO -  * Debugger PIN: 171-554-008
+2020-05-12 11:51:18,924 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-05-12 11:51:29,632 - INFO - DBERROR exce_data_commitsql<class 'Exception'>____(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''U_password = 'sunxiaodong' where U_phone = '18904608507'' at line 1")
+2020-05-12 11:51:29,633 - INFO - 127.0.0.1 - - [12/May/2020 11:51:29] "[37mPUT /api/user/change HTTP/1.1[0m" 200 -
+2020-05-12 11:51:31,412 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-05-12 11:51:31,451 - INFO -  * Restarting with stat
+2020-05-12 11:51:32,391 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2020-05-12 11:51:32,392 - INFO - Added job "clearBuffer" to job store "default"
+2020-05-12 11:51:32,392 - INFO - Scheduler started
+2020-05-12 11:51:32,393 - DEBUG - Looking for jobs to run
+2020-05-12 11:51:32,393 - DEBUG - Next wakeup is due at 2020-05-26 11:51:32.391157+08:00 (in 1209599.998001 seconds)
+2020-05-12 11:51:32,398 - WARNING -  * Debugger is active!
+2020-05-12 11:51:32,401 - INFO -  * Debugger PIN: 171-554-008
+2020-05-12 11:51:32,406 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-05-12 11:51:39,703 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-05-12 11:51:39,743 - INFO -  * Restarting with stat
+2020-05-12 11:51:40,712 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2020-05-12 11:51:40,713 - INFO - Added job "clearBuffer" to job store "default"
+2020-05-12 11:51:40,713 - INFO - Scheduler started
+2020-05-12 11:51:40,714 - DEBUG - Looking for jobs to run
+2020-05-12 11:51:40,714 - DEBUG - Next wakeup is due at 2020-05-26 11:51:40.712193+08:00 (in 1209599.998001 seconds)
+2020-05-12 11:51:40,718 - WARNING -  * Debugger is active!
+2020-05-12 11:51:40,721 - INFO -  * Debugger PIN: 171-554-008
+2020-05-12 11:51:40,727 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-05-12 11:51:41,718 - INFO - DBERROR exce_data_commitsql<class 'Exception'>____(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''U_password' = 'sunxiaodong' where U_phone = '18904608507'' at line 1")
+2020-05-12 11:51:41,718 - INFO - 127.0.0.1 - - [12/May/2020 11:51:41] "[37mPUT /api/user/change HTTP/1.1[0m" 200 -
+2020-05-12 11:51:42,836 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-05-12 11:51:42,884 - INFO -  * Restarting with stat
+2020-05-12 11:51:43,828 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2020-05-12 11:51:43,829 - INFO - Added job "clearBuffer" to job store "default"
+2020-05-12 11:51:43,829 - INFO - Scheduler started
+2020-05-12 11:51:43,829 - DEBUG - Looking for jobs to run
+2020-05-12 11:51:43,830 - DEBUG - Next wakeup is due at 2020-05-26 11:51:43.828280+08:00 (in 1209599.999000 seconds)
+2020-05-12 11:51:43,834 - WARNING -  * Debugger is active!
+2020-05-12 11:51:43,837 - INFO -  * Debugger PIN: 171-554-008
+2020-05-12 11:51:43,842 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-05-12 11:51:55,284 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-05-12 11:51:55,327 - INFO -  * Restarting with stat
+2020-05-12 11:51:56,275 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2020-05-12 11:51:56,276 - INFO - Added job "clearBuffer" to job store "default"
+2020-05-12 11:51:56,276 - INFO - Scheduler started
+2020-05-12 11:51:56,276 - DEBUG - Looking for jobs to run
+2020-05-12 11:51:56,276 - DEBUG - Next wakeup is due at 2020-05-26 11:51:56.275065+08:00 (in 1209599.999000 seconds)
+2020-05-12 11:51:56,280 - WARNING -  * Debugger is active!
+2020-05-12 11:51:56,283 - INFO -  * Debugger PIN: 171-554-008
+2020-05-12 11:51:56,289 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-05-12 11:52:14,903 - INFO - 127.0.0.1 - - [12/May/2020 11:52:14] "[37mPUT /api/user/change HTTP/1.1[0m" 200 -
+2020-05-12 11:52:18,149 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-05-12 11:52:18,189 - INFO -  * Restarting with stat
+2020-05-12 11:52:19,129 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2020-05-12 11:52:19,130 - INFO - Added job "clearBuffer" to job store "default"
+2020-05-12 11:52:19,130 - INFO - Scheduler started
+2020-05-12 11:52:19,130 - DEBUG - Looking for jobs to run
+2020-05-12 11:52:19,130 - DEBUG - Next wakeup is due at 2020-05-26 11:52:19.129422+08:00 (in 1209599.999003 seconds)
+2020-05-12 11:52:19,135 - WARNING -  * Debugger is active!
+2020-05-12 11:52:19,138 - INFO -  * Debugger PIN: 171-554-008
+2020-05-12 11:52:19,144 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-05-12 11:52:29,565 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-05-12 11:52:29,608 - INFO -  * Restarting with stat
+2020-05-12 11:52:30,536 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2020-05-12 11:52:30,537 - INFO - Added job "clearBuffer" to job store "default"
+2020-05-12 11:52:30,537 - INFO - Scheduler started
+2020-05-12 11:52:30,537 - DEBUG - Looking for jobs to run
+2020-05-12 11:52:30,537 - DEBUG - Next wakeup is due at 2020-05-26 11:52:30.536064+08:00 (in 1209599.999001 seconds)
+2020-05-12 11:52:30,542 - WARNING -  * Debugger is active!
+2020-05-12 11:52:30,545 - INFO -  * Debugger PIN: 171-554-008
+2020-05-12 11:52:30,550 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-05-12 11:52:33,364 - INFO - 127.0.0.1 - - [12/May/2020 11:52:33] "[37mPUT /api/user/change HTTP/1.1[0m" 200 -
+2020-05-12 11:52:39,916 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-05-12 11:52:39,953 - INFO -  * Restarting with stat
+2020-05-12 11:52:40,880 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2020-05-12 11:52:40,881 - INFO - Added job "clearBuffer" to job store "default"
+2020-05-12 11:52:40,881 - INFO - Scheduler started
+2020-05-12 11:52:40,881 - DEBUG - Looking for jobs to run
+2020-05-12 11:52:40,881 - DEBUG - Next wakeup is due at 2020-05-26 11:52:40.879445+08:00 (in 1209599.997999 seconds)
+2020-05-12 11:52:40,886 - WARNING -  * Debugger is active!
+2020-05-12 11:52:40,889 - INFO -  * Debugger PIN: 171-554-008
+2020-05-12 11:52:40,893 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-05-12 11:53:04,837 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-05-12 11:53:04,876 - INFO -  * Restarting with stat
+2020-05-12 11:53:05,845 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2020-05-12 11:53:05,846 - INFO - Added job "clearBuffer" to job store "default"
+2020-05-12 11:53:05,846 - INFO - Scheduler started
+2020-05-12 11:53:05,847 - DEBUG - Looking for jobs to run
+2020-05-12 11:53:05,847 - DEBUG - Next wakeup is due at 2020-05-26 11:53:05.845897+08:00 (in 1209599.998030 seconds)
+2020-05-12 11:53:05,852 - WARNING -  * Debugger is active!
+2020-05-12 11:53:05,856 - INFO -  * Debugger PIN: 171-554-008
+2020-05-12 11:53:05,862 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-05-12 11:53:07,451 - INFO - 127.0.0.1 - - [12/May/2020 11:53:07] "[37mPUT /api/user/change HTTP/1.1[0m" 200 -
+2020-05-12 11:53:09,016 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-05-12 11:53:09,070 - INFO -  * Restarting with stat
+2020-05-12 11:53:10,009 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2020-05-12 11:53:10,010 - INFO - Added job "clearBuffer" to job store "default"
+2020-05-12 11:53:10,010 - INFO - Scheduler started
+2020-05-12 11:53:10,011 - DEBUG - Looking for jobs to run
+2020-05-12 11:53:10,011 - DEBUG - Next wakeup is due at 2020-05-26 11:53:10.009734+08:00 (in 1209599.998001 seconds)
+2020-05-12 11:53:10,015 - WARNING -  * Debugger is active!
+2020-05-12 11:53:10,018 - INFO -  * Debugger PIN: 171-554-008
+2020-05-12 11:53:10,023 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-05-12 11:53:19,404 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-05-12 11:53:19,445 - INFO -  * Restarting with stat
+2020-05-12 11:53:20,415 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2020-05-12 11:53:20,416 - INFO - Added job "clearBuffer" to job store "default"
+2020-05-12 11:53:20,416 - INFO - Scheduler started
+2020-05-12 11:53:20,416 - DEBUG - Looking for jobs to run
+2020-05-12 11:53:20,417 - DEBUG - Next wakeup is due at 2020-05-26 11:53:20.415993+08:00 (in 1209599.998003 seconds)
+2020-05-12 11:53:20,421 - WARNING -  * Debugger is active!
+2020-05-12 11:53:20,424 - INFO -  * Debugger PIN: 171-554-008
+2020-05-12 11:53:20,429 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-05-12 11:54:31,159 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-05-12 11:54:31,198 - INFO -  * Restarting with stat
+2020-05-12 11:54:32,154 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2020-05-12 11:54:32,155 - INFO - Added job "clearBuffer" to job store "default"
+2020-05-12 11:54:32,155 - INFO - Scheduler started
+2020-05-12 11:54:32,156 - DEBUG - Looking for jobs to run
+2020-05-12 11:54:32,156 - DEBUG - Next wakeup is due at 2020-05-26 11:54:32.154725+08:00 (in 1209599.998000 seconds)
+2020-05-12 11:54:32,160 - WARNING -  * Debugger is active!
+2020-05-12 11:54:32,163 - INFO -  * Debugger PIN: 171-554-008
+2020-05-12 11:54:32,169 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-05-12 11:54:35,168 - INFO - 127.0.0.1 - - [12/May/2020 11:54:35] "[37mPUT /api/user/change HTTP/1.1[0m" 200 -
+2020-05-12 11:54:48,825 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-05-12 11:54:48,862 - INFO -  * Restarting with stat
+2020-05-12 11:54:49,850 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2020-05-12 11:54:49,850 - INFO - Added job "clearBuffer" to job store "default"
+2020-05-12 11:54:49,850 - INFO - Scheduler started
+2020-05-12 11:54:49,851 - DEBUG - Looking for jobs to run
+2020-05-12 11:54:49,851 - DEBUG - Next wakeup is due at 2020-05-26 11:54:49.849537+08:00 (in 1209599.998000 seconds)
+2020-05-12 11:54:49,856 - WARNING -  * Debugger is active!
+2020-05-12 11:54:49,859 - INFO -  * Debugger PIN: 171-554-008
+2020-05-12 11:54:49,864 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-05-12 11:56:03,682 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-05-12 11:56:03,721 - INFO -  * Restarting with stat
+2020-05-12 11:56:04,682 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2020-05-12 11:56:04,683 - INFO - Added job "clearBuffer" to job store "default"
+2020-05-12 11:56:04,683 - INFO - Scheduler started
+2020-05-12 11:56:04,683 - DEBUG - Looking for jobs to run
+2020-05-12 11:56:04,683 - DEBUG - Next wakeup is due at 2020-05-26 11:56:04.682982+08:00 (in 1209599.998999 seconds)
+2020-05-12 11:56:04,689 - WARNING -  * Debugger is active!
+2020-05-12 11:56:04,692 - INFO -  * Debugger PIN: 171-554-008
+2020-05-12 11:56:04,698 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-05-12 11:56:06,256 - INFO - 127.0.0.1 - - [12/May/2020 11:56:06] "[37mPUT /api/user/change HTTP/1.1[0m" 200 -
+2020-05-12 11:56:08,887 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-05-12 11:56:08,929 - INFO -  * Restarting with stat
+2020-05-12 11:56:09,919 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2020-05-12 11:56:09,920 - INFO - Added job "clearBuffer" to job store "default"
+2020-05-12 11:56:09,920 - INFO - Scheduler started
+2020-05-12 11:56:09,920 - DEBUG - Looking for jobs to run
+2020-05-12 11:56:09,921 - DEBUG - Next wakeup is due at 2020-05-26 11:56:09.919508+08:00 (in 1209599.998089 seconds)
+2020-05-12 11:56:09,925 - WARNING -  * Debugger is active!
+2020-05-12 11:56:09,928 - INFO -  * Debugger PIN: 171-554-008
+2020-05-12 11:56:09,934 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-05-12 11:56:39,052 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-05-12 11:56:39,099 - INFO -  * Restarting with stat
+2020-05-12 11:56:40,050 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2020-05-12 11:56:40,052 - INFO - Added job "clearBuffer" to job store "default"
+2020-05-12 11:56:40,052 - INFO - Scheduler started
+2020-05-12 11:56:40,052 - DEBUG - Looking for jobs to run
+2020-05-12 11:56:40,052 - DEBUG - Next wakeup is due at 2020-05-26 11:56:40.050693+08:00 (in 1209599.998000 seconds)
+2020-05-12 11:56:40,057 - WARNING -  * Debugger is active!
+2020-05-12 11:56:40,060 - INFO -  * Debugger PIN: 171-554-008
+2020-05-12 11:56:40,065 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-05-12 11:57:27,153 - INFO - 127.0.0.1 - - [12/May/2020 11:57:27] "[37mPUT /api/user/change HTTP/1.1[0m" 200 -
+2020-05-12 11:59:26,546 - INFO - 127.0.0.1 - - [12/May/2020 11:59:26] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 11:59:36,655 - INFO - 127.0.0.1 - - [12/May/2020 11:59:36] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 12:08:34,601 - INFO - 127.0.0.1 - - [12/May/2020 12:08:34] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 12:08:34,613 - INFO - 127.0.0.1 - - [12/May/2020 12:08:34] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 12:10:15,696 - INFO - 127.0.0.1 - - [12/May/2020 12:10:15] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 12:10:15,707 - INFO - 127.0.0.1 - - [12/May/2020 12:10:15] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 12:10:23,396 - INFO - 127.0.0.1 - - [12/May/2020 12:10:23] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 12:33:13,036 - INFO - 127.0.0.1 - - [12/May/2020 12:33:13] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 12:33:13,050 - INFO - 127.0.0.1 - - [12/May/2020 12:33:13] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 12:33:18,431 - INFO - 127.0.0.1 - - [12/May/2020 12:33:18] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 12:33:22,266 - INFO - 127.0.0.1 - - [12/May/2020 12:33:22] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 12:34:18,849 - INFO - 127.0.0.1 - - [12/May/2020 12:34:18] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 12:34:18,861 - INFO - 127.0.0.1 - - [12/May/2020 12:34:18] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 12:35:54,780 - INFO - 127.0.0.1 - - [12/May/2020 12:35:54] "[37mGET /api/home/getRecommend?pageIndex=2 HTTP/1.1[0m" 200 -
+2020-05-12 12:35:54,783 - INFO - 127.0.0.1 - - [12/May/2020 12:35:54] "[37mGET /api/home/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-05-12 12:35:54,825 - INFO - 127.0.0.1 - - [12/May/2020 12:35:54] "[37mGET /api/home/getFollowGames HTTP/1.1[0m" 200 -
+2020-05-12 12:35:55,463 - INFO - 127.0.0.1 - - [12/May/2020 12:35:55] "[37mGET /api/square/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-05-12 12:35:55,495 - INFO - 127.0.0.1 - - [12/May/2020 12:35:55] "[37mGET /api/square/getComments?dynamicId=189****8507o20200412142826 HTTP/1.1[0m" 200 -
+2020-05-12 12:35:57,114 - INFO - 127.0.0.1 - - [12/May/2020 12:35:57] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 12:35:59,240 - INFO - 127.0.0.1 - - [12/May/2020 12:35:59] "[37mGET /api/square/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-05-12 12:35:59,265 - INFO - 127.0.0.1 - - [12/May/2020 12:35:59] "[37mGET /api/square/getComments?dynamicId=189****8507o20200412142826 HTTP/1.1[0m" 200 -
+2020-05-12 12:36:02,723 - INFO - 127.0.0.1 - - [12/May/2020 12:36:02] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 12:36:20,823 - INFO - 127.0.0.1 - - [12/May/2020 12:36:20] "[37mGET /api/square/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-05-12 12:36:20,851 - INFO - 127.0.0.1 - - [12/May/2020 12:36:20] "[37mGET /api/square/getComments?dynamicId=189****8507o20200412142826 HTTP/1.1[0m" 200 -
+2020-05-12 12:36:21,814 - INFO - 127.0.0.1 - - [12/May/2020 12:36:21] "[37mPUT /api/square/updateLikeDynamic HTTP/1.1[0m" 200 -
+2020-05-12 12:36:26,373 - INFO - 127.0.0.1 - - [12/May/2020 12:36:26] "[37mPOST /api/square/addComments HTTP/1.1[0m" 200 -
+2020-05-12 12:36:26,395 - INFO - 127.0.0.1 - - [12/May/2020 12:36:26] "[37mGET /api/square/getComments?dynamicId=189****8507o20200412142826 HTTP/1.1[0m" 200 -
+2020-05-12 12:36:31,535 - INFO - 127.0.0.1 - - [12/May/2020 12:36:31] "[37mGET /api/square/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-05-12 12:36:31,558 - INFO - 127.0.0.1 - - [12/May/2020 12:36:31] "[37mGET /api/square/getComments?dynamicId=189****8507o20200412142826 HTTP/1.1[0m" 200 -
+2020-05-12 12:36:39,184 - INFO - 127.0.0.1 - - [12/May/2020 12:36:39] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 12:36:39,672 - INFO - 127.0.0.1 - - [12/May/2020 12:36:39] "[37mGET /api/square/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-05-12 12:36:39,698 - INFO - 127.0.0.1 - - [12/May/2020 12:36:39] "[37mGET /api/square/getComments?dynamicId=189****8507o20200412142826 HTTP/1.1[0m" 200 -
+2020-05-12 12:36:41,785 - INFO - 127.0.0.1 - - [12/May/2020 12:36:41] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 13:36:15,522 - DEBUG - Starting new HTTPS connection (1): sms_developer.zhenzikj.com:443
+2020-05-12 13:36:15,827 - DEBUG - https://sms_developer.zhenzikj.com:443 "POST /sms/send.do HTTP/1.1" 200 32
+2020-05-12 13:36:15,837 - INFO - 127.0.0.1 - - [12/May/2020 13:36:15] "[37mPOST /api/user/sendMessage HTTP/1.1[0m" 200 -
+2020-05-12 13:36:48,997 - DEBUG - Starting new HTTPS connection (1): sms_developer.zhenzikj.com:443
+2020-05-12 13:36:49,257 - DEBUG - https://sms_developer.zhenzikj.com:443 "POST /sms/send.do HTTP/1.1" 200 32
+2020-05-12 13:36:49,260 - INFO - 127.0.0.1 - - [12/May/2020 13:36:49] "[37mPOST /api/user/sendMessage HTTP/1.1[0m" 200 -
+2020-05-12 13:37:44,554 - DEBUG - Starting new HTTPS connection (1): sms_developer.zhenzikj.com:443
+2020-05-12 13:37:44,767 - DEBUG - https://sms_developer.zhenzikj.com:443 "POST /sms/send.do HTTP/1.1" 200 32
+2020-05-12 13:37:44,768 - INFO - 127.0.0.1 - - [12/May/2020 13:37:44] "[37mPOST /api/user/sendMessage HTTP/1.1[0m" 200 -
+2020-05-12 13:37:50,737 - INFO - 127.0.0.1 - - [12/May/2020 13:37:50] "[37mPUT /api/user/change HTTP/1.1[0m" 200 -
+2020-05-12 13:38:00,759 - INFO - 127.0.0.1 - - [12/May/2020 13:38:00] "[37mPUT /api/user/change HTTP/1.1[0m" 200 -
+2020-05-12 13:38:30,635 - INFO -  * Detected change in 'd:\\«∞∂À\\WebApp\\±œ…Ë\\backend\\api\\user\\index.py', reloading
+2020-05-12 13:38:30,746 - INFO -  * Restarting with stat
+2020-05-12 13:38:31,918 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2020-05-12 13:38:31,919 - INFO - Added job "clearBuffer" to job store "default"
+2020-05-12 13:38:31,919 - INFO - Scheduler started
+2020-05-12 13:38:31,920 - DEBUG - Looking for jobs to run
+2020-05-12 13:38:31,920 - DEBUG - Next wakeup is due at 2020-05-26 13:38:31.918273+08:00 (in 1209599.998001 seconds)
+2020-05-12 13:38:31,928 - WARNING -  * Debugger is active!
+2020-05-12 13:38:31,933 - INFO -  * Debugger PIN: 171-554-008
+2020-05-12 13:38:31,938 - INFO -  * Running on http://0.0.0.0:8050/ (Press CTRL+C to quit)
+2020-05-12 13:40:34,931 - INFO - 127.0.0.1 - - [12/May/2020 13:40:34] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 13:40:42,292 - INFO - 127.0.0.1 - - [12/May/2020 13:40:42] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 13:40:59,122 - DEBUG - Starting new HTTPS connection (1): sms_developer.zhenzikj.com:443
+2020-05-12 13:40:59,373 - DEBUG - https://sms_developer.zhenzikj.com:443 "POST /sms/send.do HTTP/1.1" 200 32
+2020-05-12 13:40:59,376 - INFO - 127.0.0.1 - - [12/May/2020 13:40:59] "[37mPOST /api/user/sendMessage HTTP/1.1[0m" 200 -
+2020-05-12 13:41:14,187 - INFO - 127.0.0.1 - - [12/May/2020 13:41:14] "[37mPUT /api/user/change HTTP/1.1[0m" 200 -
+2020-05-12 13:41:14,229 - INFO - 127.0.0.1 - - [12/May/2020 13:41:14] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 13:42:29,860 - INFO - 127.0.0.1 - - [12/May/2020 13:42:29] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 13:42:29,880 - INFO - 127.0.0.1 - - [12/May/2020 13:42:29] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 13:42:39,173 - INFO - 127.0.0.1 - - [12/May/2020 13:42:39] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 13:42:39,183 - INFO - 127.0.0.1 - - [12/May/2020 13:42:39] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 13:43:01,444 - INFO - 127.0.0.1 - - [12/May/2020 13:43:01] "[37mGET /api/home/getRecommend?pageIndex=2 HTTP/1.1[0m" 200 -
+2020-05-12 13:43:01,448 - INFO - 127.0.0.1 - - [12/May/2020 13:43:01] "[37mGET /api/home/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-05-12 13:43:01,481 - INFO - 127.0.0.1 - - [12/May/2020 13:43:01] "[37mGET /api/home/getFollowGames HTTP/1.1[0m" 200 -
+2020-05-12 13:43:10,308 - INFO - 127.0.0.1 - - [12/May/2020 13:43:10] "[37mGET /api/home/getRecommend?pageIndex=2 HTTP/1.1[0m" 200 -
+2020-05-12 13:43:10,309 - INFO - 127.0.0.1 - - [12/May/2020 13:43:10] "[37mGET /api/home/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-05-12 13:43:10,332 - INFO - 127.0.0.1 - - [12/May/2020 13:43:10] "[37mGET /api/home/getFollowGames HTTP/1.1[0m" 200 -
+2020-05-12 13:43:15,045 - INFO - 127.0.0.1 - - [12/May/2020 13:43:15] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 13:43:15,056 - INFO - 127.0.0.1 - - [12/May/2020 13:43:15] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 13:44:25,048 - INFO - 127.0.0.1 - - [12/May/2020 13:44:25] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 13:44:54,477 - INFO - 127.0.0.1 - - [12/May/2020 13:44:54] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 13:46:22,359 - INFO - 127.0.0.1 - - [12/May/2020 13:46:22] "[37mPOST /api/user/login HTTP/1.1[0m" 200 -
+2020-05-12 13:46:23,296 - INFO - 127.0.0.1 - - [12/May/2020 13:46:23] "[37mGET /api/home/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-05-12 13:46:23,306 - INFO - 127.0.0.1 - - [12/May/2020 13:46:23] "[37mGET /api/home/getRecommend?pageIndex=2 HTTP/1.1[0m" 200 -
+2020-05-12 13:46:23,327 - INFO - 127.0.0.1 - - [12/May/2020 13:46:23] "[37mGET /api/home/getFollowGames HTTP/1.1[0m" 200 -
+2020-05-12 13:46:25,510 - INFO - 127.0.0.1 - - [12/May/2020 13:46:25] "[37mGET /api/square/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-05-12 13:46:25,534 - INFO - 127.0.0.1 - - [12/May/2020 13:46:25] "[37mGET /api/square/getComments?dynamicId=189****8507o20200412142826 HTTP/1.1[0m" 200 -
+2020-05-12 13:46:26,789 - INFO - 127.0.0.1 - - [12/May/2020 13:46:26] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 13:46:26,802 - INFO - 127.0.0.1 - - [12/May/2020 13:46:26] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 13:46:35,671 - INFO - 127.0.0.1 - - [12/May/2020 13:46:35] "[37mGET /api/home/getRecommend?pageIndex=2 HTTP/1.1[0m" 200 -
+2020-05-12 13:46:35,672 - INFO - 127.0.0.1 - - [12/May/2020 13:46:35] "[37mGET /api/home/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-05-12 13:46:35,694 - INFO - 127.0.0.1 - - [12/May/2020 13:46:35] "[37mGET /api/home/getFollowGames HTTP/1.1[0m" 200 -
+2020-05-12 13:46:37,060 - INFO - 127.0.0.1 - - [12/May/2020 13:46:37] "[37mGET /api/square/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-05-12 13:46:37,087 - INFO - 127.0.0.1 - - [12/May/2020 13:46:37] "[37mGET /api/square/getComments?dynamicId=189****8507o20200412142826 HTTP/1.1[0m" 200 -
+2020-05-12 13:46:37,825 - INFO - 127.0.0.1 - - [12/May/2020 13:46:37] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 13:46:37,835 - INFO - 127.0.0.1 - - [12/May/2020 13:46:37] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 13:46:42,438 - INFO - 127.0.0.1 - - [12/May/2020 13:46:42] "[37mGET /api/home/getRecommend?pageIndex=2 HTTP/1.1[0m" 200 -
+2020-05-12 13:46:42,440 - INFO - 127.0.0.1 - - [12/May/2020 13:46:42] "[37mGET /api/home/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-05-12 13:46:42,461 - INFO - 127.0.0.1 - - [12/May/2020 13:46:42] "[37mGET /api/home/getFollowGames HTTP/1.1[0m" 200 -
+2020-05-12 13:46:53,445 - INFO - 127.0.0.1 - - [12/May/2020 13:46:53] "[37mGET /api/home/getRecommend?pageIndex=2 HTTP/1.1[0m" 200 -
+2020-05-12 13:46:53,446 - INFO - 127.0.0.1 - - [12/May/2020 13:46:53] "[37mGET /api/home/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-05-12 13:46:53,475 - INFO - 127.0.0.1 - - [12/May/2020 13:46:53] "[37mGET /api/home/getFollowGames HTTP/1.1[0m" 200 -
+2020-05-12 13:48:41,832 - INFO - 127.0.0.1 - - [12/May/2020 13:48:41] "[37mGET /api/home/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-05-12 13:48:41,848 - INFO - 127.0.0.1 - - [12/May/2020 13:48:41] "[37mGET /api/home/getRecommend?pageIndex=2 HTTP/1.1[0m" 200 -
+2020-05-12 13:48:41,866 - INFO - 127.0.0.1 - - [12/May/2020 13:48:41] "[37mGET /api/home/getFollowGames HTTP/1.1[0m" 200 -
+2020-05-12 13:49:44,139 - INFO - 127.0.0.1 - - [12/May/2020 13:49:44] "[37mGET /api/home/getRecommend?pageIndex=2 HTTP/1.1[0m" 200 -
+2020-05-12 13:49:44,141 - INFO - 127.0.0.1 - - [12/May/2020 13:49:44] "[37mGET /api/home/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-05-12 13:49:44,355 - INFO - 127.0.0.1 - - [12/May/2020 13:49:44] "[37mGET /api/home/getFollowGames HTTP/1.1[0m" 200 -
+2020-05-12 13:49:54,344 - INFO - 127.0.0.1 - - [12/May/2020 13:49:54] "[37mGET /api/home/getRecommend?pageIndex=2 HTTP/1.1[0m" 200 -
+2020-05-12 13:49:54,345 - INFO - 127.0.0.1 - - [12/May/2020 13:49:54] "[37mGET /api/home/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-05-12 13:49:54,371 - INFO - 127.0.0.1 - - [12/May/2020 13:49:54] "[37mGET /api/home/getFollowGames HTTP/1.1[0m" 200 -
+2020-05-12 13:51:14,019 - INFO - 127.0.0.1 - - [12/May/2020 13:51:14] "[37mGET /api/home/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-05-12 13:51:14,023 - INFO - 127.0.0.1 - - [12/May/2020 13:51:14] "[37mGET /api/home/getRecommend?pageIndex=2 HTTP/1.1[0m" 200 -
+2020-05-12 13:51:14,253 - INFO - 127.0.0.1 - - [12/May/2020 13:51:14] "[37mGET /api/home/getFollowGames HTTP/1.1[0m" 200 -
+2020-05-12 13:51:38,353 - INFO - 127.0.0.1 - - [12/May/2020 13:51:38] "[37mGET /api/home/getRecommend?pageIndex=2 HTTP/1.1[0m" 200 -
+2020-05-12 13:51:38,355 - INFO - 127.0.0.1 - - [12/May/2020 13:51:38] "[37mGET /api/home/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-05-12 13:51:38,376 - INFO - 127.0.0.1 - - [12/May/2020 13:51:38] "[37mGET /api/home/getFollowGames HTTP/1.1[0m" 200 -
+2020-05-12 13:51:47,728 - INFO - 127.0.0.1 - - [12/May/2020 13:51:47] "[37mGET /api/square/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-05-12 13:51:47,760 - INFO - 127.0.0.1 - - [12/May/2020 13:51:47] "[37mGET /api/square/getComments?dynamicId=189****8507o20200412142826 HTTP/1.1[0m" 200 -
+2020-05-12 13:51:49,710 - INFO - 127.0.0.1 - - [12/May/2020 13:51:49] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 13:51:49,721 - INFO - 127.0.0.1 - - [12/May/2020 13:51:49] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 13:51:54,312 - INFO - 127.0.0.1 - - [12/May/2020 13:51:54] "[37mGET /api/square/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-05-12 13:51:54,338 - INFO - 127.0.0.1 - - [12/May/2020 13:51:54] "[37mGET /api/square/getComments?dynamicId=189****8507o20200412142826 HTTP/1.1[0m" 200 -
+2020-05-12 13:52:11,967 - INFO - 127.0.0.1 - - [12/May/2020 13:52:11] "[37mGET /api/square/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-05-12 13:52:11,990 - INFO - 127.0.0.1 - - [12/May/2020 13:52:11] "[37mGET /api/square/getComments?dynamicId=189****8507o20200412142826 HTTP/1.1[0m" 200 -
+2020-05-12 13:52:24,527 - INFO - 127.0.0.1 - - [12/May/2020 13:52:24] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 13:52:25,002 - INFO - 127.0.0.1 - - [12/May/2020 13:52:25] "[37mGET /api/square/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-05-12 13:52:25,029 - INFO - 127.0.0.1 - - [12/May/2020 13:52:25] "[37mGET /api/square/getComments?dynamicId=189****8507o20200412142826 HTTP/1.1[0m" 200 -
+2020-05-12 13:52:29,093 - INFO - 127.0.0.1 - - [12/May/2020 13:52:29] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -
+2020-05-12 13:52:30,015 - INFO - 127.0.0.1 - - [12/May/2020 13:52:30] "[37mGET /api/square/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-05-12 13:52:30,040 - INFO - 127.0.0.1 - - [12/May/2020 13:52:30] "[37mGET /api/square/getComments?dynamicId=189****8507o20200412142826 HTTP/1.1[0m" 200 -
+2020-05-12 13:52:32,047 - INFO - 127.0.0.1 - - [12/May/2020 13:52:32] "[37mGET /api/home/getHistorySearch HTTP/1.1[0m" 200 -
+2020-05-12 13:52:38,440 - INFO - 127.0.0.1 - - [12/May/2020 13:52:38] "[37mGET /api/square/getRecommend?pageIndex=1 HTTP/1.1[0m" 200 -
+2020-05-12 13:52:38,461 - INFO - 127.0.0.1 - - [12/May/2020 13:52:38] "[37mGET /api/square/getComments?dynamicId=189****8507o20200412142826 HTTP/1.1[0m" 200 -
+2020-05-12 13:52:39,852 - INFO - 127.0.0.1 - - [12/May/2020 13:52:39] "[37mGET /api/user/getUserInfo?userPhone=18904608507&userId=2020030319043284de5333804974249619c699f1de544b HTTP/1.1[0m" 200 -

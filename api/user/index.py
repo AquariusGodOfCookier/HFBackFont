@@ -92,13 +92,16 @@ def changeImageList(imgStr):
 # 根据用户手机号获取用户头像，姓名，注册时间，发布文章
 def getUserInfoOfMyVue(userPhone):
     userInfoSql = db.exce_data_one(
-        "select U_name,U_portrait,U_registerTime from user where U_phone = '%s'"
+        "select U_name,U_portrait,U_registerTime,U_mailbox,U_birthday,U_lastLoginTime from user where U_phone = '%s'"
         % userPhone
     )
     userInfo = {
         "name": userInfoSql[0],
         "avatar": userInfoSql[1],
         "register_time": userInfoSql[2],
+        "mailBox":userInfoSql[3],
+        "birthday":userInfoSql[4],
+        "lastLoginTime":userInfoSql[5]
     }
     gameInfoSql = db.exce_data_one(
         "select U_attention_games from userattentions where U_phone = '%s'" % userPhone
@@ -152,7 +155,6 @@ user = Blueprint("user", __name__)
 def login():
     try:
         res = request.get_json()
-        print(res)
         if res["type"] == "pass":
             userPhone = res["userPhone"]
             password = res["password"]
@@ -180,29 +182,49 @@ def login():
             else:
                 return jsonify({"status": 1001, "message": "密码错误", "type": "error"})
         elif res["type"] == "code":
-            print('dddd')
             userPhone = res["userPhone"]
             messageCode = res["messageCode"]
-            print(userPhone,messageCode)
-            if r.exists(userPhone) == 1:
+            findUser = db.exce_data_one("select U_id from user where U_phone = '%s'"%userPhone)
+            if findUser == None and r.exists(userPhone) == 1:
                 MessageCode = r.get(userPhone)
-                if str(MessageCode, "utf-8") == messageCode:
+                if str(MessageCode,'utf-8') == messageCode:
                     token = tokens.generateToken(userPhone)
                     updateLastLoginTime(userPhone)
-                    return jsonify(
-                        {
-                            "status": 200,
-                            "message": "登陆成功",
-                            "type": "success",
-                            "data": {"token": token, "userPhone": userPhone},
-                        }
-                    )
-                else:
-                    return jsonify(
-                        {"status": 1002, "message": "验证码错误", "type": "error"}
-                    )
+                    userName = "未注册"
+                    password = PWEncryption(userPhone)
+                    portrait = "http://192.168.1.110:8050/static/storeImage/initAvatar.jpg"
+                    userPhone = userPhone
+                    time = getNow(1)
+                    userId = getNow(0) + PWEncryption(userPhone)
+                    sql = (
+                        "insert into user (U_id,U_name,U_password,U_portrait,U_phone,U_registerTime,U_lastLoginTime) values ('%s','%s','%s','%s','%s','%s','%s')"
+                        % (userId,userName,password,portrait,userPhone,time,time))
+                    result = db.exce_data_commitsql(sql)
+                    return jsonify({"status": 200, "message": "注册成功", "type": result,"data":{
+                        "token":token,
+                        "userPhone":userPhone,
+                        "userId":userId
+                    }})
             else:
-                return jsonify({"status": 1003, "message": "验证码已过期", "type": "error"})
+                if r.exists(userPhone) == 1:
+                    MessageCode = r.get(userPhone)
+                    if str(MessageCode, "utf-8") == messageCode:
+                        token = tokens.generateToken(userPhone)
+                        updateLastLoginTime(userPhone)
+                        return jsonify(
+                            {
+                                "status": 200,
+                                "message": "登陆成功",
+                                "type": "success",
+                                "data": {"token": token, "userPhone": userPhone,'userId':findUser[0]},
+                            }
+                        )
+                    else:
+                        return jsonify(
+                            {"status": 1002, "message": "验证码错误", "type": "error"}
+                        )
+                else:
+                    return jsonify({"status": 1003, "message": "验证码已过期", "type": "error"})
     except Exception as data:
         print(data)
         logging.error(
@@ -553,6 +575,53 @@ def updateUserAvatar():
         print(err)
         logging.error(
             "USER------This is error from updateUserName function:%s_______%s"
+            % (Exception, err)
+        )
+        return jsonify({"status": 5002, "message": "发生了某些意料以外的错误", "type": "error"})
+
+# 修改生日，密码，邮箱
+@user.route("/change",methods=["PUT"])
+def change():
+    try:
+        # 验证token
+        token = request.headers["Token"]
+        userPhone = request.headers["userPhone"]
+        if tokens.verificationToken(userPhone, token):
+            res = request.get_json()
+            password = res["password"]
+            newChange = res["newChange"]
+            changeType = res["type"]
+            sms = res["sms"]
+            DBpassword = db.exce_data_one(
+                "select U_password from user where U_phone = '%s'" % userPhone
+            )[0]
+            if PWEncryption(password) == DBpassword:
+                if r.exists(userPhone) == 1 and str(r.get(userPhone),'utf-8') == sms:
+                    updateSql = "update user set %s = '%s' where U_phone = '%s'" % (
+                        changeType,
+                        newChange,
+                        userPhone,
+                    )
+                    result = db.exce_data_commitsql(updateSql)
+                    return jsonify({"status": 200, "message": "修改成功", "result": result})
+                else:
+                    return jsonify({
+                        "status":500,
+                        "message":"验证码已过期",
+                        "type":"error"
+                    })
+            else:
+                return jsonify({
+                    "status":500,
+                    "message":"密码输入错误",
+                    "type":"error"
+                })
+        else:
+            return jsonify({"status": 1004, "message": "token过期", "type": "error"})
+    except Exception as err:
+        print(err)
+        logging.error(
+            "USER------This is error from change function:%s_______%s"
             % (Exception, err)
         )
         return jsonify({"status": 5002, "message": "发生了某些意料以外的错误", "type": "error"})
